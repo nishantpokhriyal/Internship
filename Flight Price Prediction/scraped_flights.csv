@@ -1,0 +1,3009 @@
+,Name,Date,Source,Destination,Departure Time,Arrival Time,Duration,Stops,Price,Month,Day
+0,"Go First
+G8-2501",1900-09-23,Yatra,Mumbai,02:40,04:50,2h 10m,Non Stop,"5,900",9,23
+1,"SpiceJet
+SG-8709",1900-09-23,Yatra,Mumbai,19:00,21:10,2h 10m,Non Stop,"5,950",9,23
+2,"SpiceJet
+SG-8701",1900-09-23,Yatra,Mumbai,07:20,09:35,2h 15m,Non Stop,"5,950",9,23
+3,"SpiceJet
+SG-8169",1900-09-23,Yatra,Mumbai,19:45,22:00,2h 15m,Non Stop,"5,950",9,23
+4,"IndiGo
+6E-5306",1900-09-23,Yatra,Mumbai,15:25,17:20,1h 55m,Non Stop,"5,954",9,23
+5,"IndiGo
+6E-2138",1900-09-23,Yatra,Mumbai,11:55,13:55,2h 00m,Non Stop,"5,954",9,23
+6,"IndiGo
+6E-5023",1900-09-23,Yatra,Mumbai,06:30,08:35,2h 05m,Non Stop,"5,954",9,23
+7,"IndiGo
+6E-6814",1900-09-23,Yatra,Mumbai,07:20,09:25,2h 05m,Non Stop,"5,954",9,23
+8,"IndiGo
+6E-5342",1900-09-23,Yatra,Mumbai,10:45,12:50,2h 05m,Non Stop,"5,954",9,23
+9,"IndiGo
+6E-2519",1900-09-23,Yatra,Mumbai,23:35,01:40+ 1 day,2h 05m,Non Stop,"5,954",9,23
+10,"IndiGo
+6E-2009",1900-09-23,Yatra,Mumbai,02:00,04:10,2h 10m,Non Stop,"5,954",9,23
+11,"IndiGo
+6E-2112",1900-09-23,Yatra,Mumbai,05:30,07:40,2h 10m,Non Stop,"5,954",9,23
+12,"IndiGo
+6E-2176",1900-09-23,Yatra,Mumbai,14:10,16:20,2h 10m,Non Stop,"5,954",9,23
+13,"IndiGo
+6E-864",1900-09-23,Yatra,Mumbai,16:15,18:25,2h 10m,Non Stop,"5,954",9,23
+14,"IndiGo
+6E-6278",1900-09-23,Yatra,Mumbai,08:45,11:00,2h 15m,Non Stop,"5,954",9,23
+15,"IndiGo
+6E-2114",1900-09-23,Yatra,Mumbai,21:55,00:10+ 1 day,2h 15m,Non Stop,"5,954",9,23
+16,"IndiGo
+6E-2129",1900-09-23,Yatra,Mumbai,08:00,10:20,2h 20m,Non Stop,"5,954",9,23
+17,"IndiGo
+6E-5328",1900-09-23,Yatra,Mumbai,09:35,12:00,2h 25m,Non Stop,"5,954",9,23
+18,"Air India
+AI-887",1900-09-23,Yatra,Mumbai,07:00,09:05,2h 05m,Non Stop,"5,955",9,23
+19,"Vistara
+UK-927",1900-09-23,Yatra,Mumbai,09:30,11:35,2h 05m,Non Stop,"5,955",9,23
+20,"Air India
+AI-665",1900-09-23,Yatra,Mumbai,08:00,10:10,2h 10m,Non Stop,"5,955",9,23
+21,"Vistara
+UK-951",1900-09-23,Yatra,Mumbai,14:20,16:30,2h 10m,Non Stop,"5,955",9,23
+22,"Vistara
+UK-933",1900-09-23,Yatra,Mumbai,15:30,17:40,2h 10m,Non Stop,"5,955",9,23
+23,"Air India
+AI-805",1900-09-23,Yatra,Mumbai,20:00,22:10,2h 10m,Non Stop,"5,955",9,23
+24,"Air India
+AI-814",1900-09-23,Yatra,Mumbai,22:30,00:40+ 1 day,2h 10m,Non Stop,"5,955",9,23
+25,"Vistara
+UK-943",1900-09-23,Yatra,Mumbai,07:30,09:45,2h 15m,Non Stop,"5,955",9,23
+26,"Air India
+AI-678",1900-09-23,Yatra,Mumbai,09:00,11:15,2h 15m,Non Stop,"5,955",9,23
+27,"Vistara
+UK-995",1900-09-23,Yatra,Mumbai,10:20,12:35,2h 15m,Non Stop,"5,955",9,23
+28,"Vistara
+UK-993",1900-09-23,Yatra,Mumbai,12:45,15:00,2h 15m,Non Stop,"5,955",9,23
+29,"Air India
+AI-863",1900-09-23,Yatra,Mumbai,14:00,16:15,2h 15m,Non Stop,"5,955",9,23
+30,"Air India
+AI-441",1900-09-23,Yatra,Mumbai,17:55,20:10,2h 15m,Non Stop,"5,955",9,23
+31,"Vistara
+UK-963",1900-09-23,Yatra,Mumbai,08:50,11:10,2h 20m,Non Stop,"5,955",9,23
+32,"Vistara
+UK-945",1900-09-23,Yatra,Mumbai,11:40,14:00,2h 20m,Non Stop,"5,955",9,23
+33,"Air India
+AI-865",1900-09-23,Yatra,Mumbai,10:00,12:35,2h 35m,Non Stop,"5,955",9,23
+34,"Vistara
+UK-959/956",1900-09-23,Yatra,Mumbai,06:30,23:15,16h 45m,1 Stop,"6,092",9,23
+35,"Go First
+G8-338",1900-09-23,Yatra,Mumbai,10:55,13:00,2h 05m,Non Stop,"6,200",9,23
+36,"Go First
+G8-334",1900-09-23,Yatra,Mumbai,08:00,10:10,2h 10m,Non Stop,"6,200",9,23
+37,"Go First
+G8-336",1900-09-23,Yatra,Mumbai,14:30,16:40,2h 10m,Non Stop,"6,200",9,23
+38,"Go First
+G8-330",1900-09-23,Yatra,Mumbai,20:50,23:00,2h 10m,Non Stop,"6,200",9,23
+39,"Go First
+G8-323",1900-09-23,Yatra,Mumbai,18:20,20:35,2h 15m,Non Stop,"6,200",9,23
+40,"Go First
+G8-346",1900-09-23,Yatra,Mumbai,19:45,22:00,2h 15m,Non Stop,"6,200",9,23
+41,"Go First
+G8-354",1900-09-23,Yatra,Mumbai,22:45,01:00+ 1 day,2h 15m,Non Stop,"6,200",9,23
+42,"Air India
+AI-624",1900-09-23,Yatra,Mumbai,19:00,21:15,2h 15m,Non Stop,"6,480",9,23
+43,"Air India
+AI-605",1900-09-23,Yatra,Mumbai,21:15,23:35,2h 20m,Non Stop,"6,480",9,23
+44,"IndiGo
+6E-6939/6794",1900-09-23,Yatra,Mumbai,17:20,00:40+ 1 day,7h 20m,1 Stop,"6,757",9,23
+45,"IndiGo
+6E-5318",1900-09-23,Yatra,Mumbai,17:00,19:05,2h 05m,Non Stop,"6,794",9,23
+46,"Vistara
+UK-975",1900-09-23,Yatra,Mumbai,05:55,07:55,2h 00m,Non Stop,"6,827",9,23
+47,"IndiGo
+6E-2033/605",1900-09-23,Yatra,Mumbai,00:15,05:30,5h 15m,1 Stop,"6,870",9,23
+48,"SpiceJet
+SG-711",1900-09-23,Yatra,Mumbai,21:40,23:55,2h 15m,Non Stop,"7,109",9,23
+49,"IndiGo
+6E-2008/829",1900-09-23,Yatra,Mumbai,06:00,12:50,6h 50m,1 Stop,"7,267",9,23
+50,"IndiGo
+6E-761/983",1900-09-23,Yatra,Mumbai,18:55,00:05+ 1 day,5h 10m,1 Stop,"7,477",9,23
+51,"IndiGo
+6E-6822/983",1900-09-23,Yatra,Mumbai,15:00,00:05+ 1 day,9h 05m,1 Stop,"7,477",9,23
+52,"IndiGo
+6E-153/6794",1900-09-23,Yatra,Mumbai,19:35,00:40+ 1 day,5h 05m,1 Stop,"7,755",9,23
+53,"IndiGo
+6E-6261",1900-09-23,Yatra,Mumbai,19:45,21:55,2h 10m,Non Stop,"7,844",9,23
+54,"Go First
+G8-719/459",1900-09-23,Yatra,Mumbai,06:10,10:10,4h 00m,1 Stop,"7,918",9,23
+55,"Air India
+AI-433/634",1900-09-23,Yatra,Mumbai,11:10,09:40+ 1 day,22h 30m,1 Stop,"8,022",9,23
+56,"IndiGo
+6E-2175/577",1900-09-23,Yatra,Mumbai,08:30,15:55,7h 25m,1 Stop,"8,107",9,23
+57,"Go First
+G8-719/2505",1900-09-23,Yatra,Mumbai,06:10,15:05,8h 55m,1 Stop,"8,220",9,23
+58,"Air Asia
+I5-745/338",1900-09-23,Yatra,Mumbai,13:00,18:20,5h 20m,1 Stop,"8,337",9,23
+59,"Air Asia
+I5-744/632",1900-09-23,Yatra,Mumbai,08:00,14:05,6h 05m,1 Stop,"8,337",9,23
+60,"Air Asia
+I5-798/472",1900-09-23,Yatra,Mumbai,12:50,23:45,10h 55m,1 Stop,"8,337",9,23
+61,"Air Asia
+I5-548/338",1900-09-23,Yatra,Mumbai,07:20,18:20,11h 00m,1 Stop,"8,337",9,23
+62,"Air Asia
+I5-773/335",1900-09-23,Yatra,Mumbai,20:00,07:05+ 1 day,11h 05m,1 Stop,"8,337",9,23
+63,"IndiGo
+6E-212/6031",1900-09-23,Yatra,Mumbai,13:00,21:50,8h 50m,1 Stop,"8,527",9,23
+64,"Go First
+G8-2511/352",1900-09-23,Yatra,Mumbai,11:00,17:00,6h 00m,1 Stop,"8,529",9,23
+65,"Go First
+G8-717/413",1900-09-23,Yatra,Mumbai,16:45,23:35,6h 50m,1 Stop,"8,529",9,23
+66,"Go First
+G8-145/388",1900-09-23,Yatra,Mumbai,11:30,21:50,10h 20m,1 Stop,"8,529",9,23
+67,"Go First
+G8-194/381",1900-09-23,Yatra,Mumbai,20:50,08:00+ 1 day,11h 10m,1 Stop,"8,529",9,23
+68,"Vistara
+UK-941",1900-09-23,Yatra,Mumbai,16:55,19:05,2h 10m,Non Stop,"8,578",9,23
+69,"IndiGo
+6E-184/5268",1900-09-23,Yatra,Mumbai,09:50,14:15,4h 25m,1 Stop,"8,579",9,23
+70,"SpiceJet
+SG-2962/3002",1900-09-23,Yatra,Mumbai,06:15,10:55,4h 40m,1 Stop,"8,579",9,23
+71,"IndiGo
+6E-6373/6425",1900-09-23,Yatra,Mumbai,06:30,11:20,4h 50m,1 Stop,"8,579",9,23
+72,"IndiGo
+6E-2141/5302",1900-09-23,Yatra,Mumbai,13:35,18:45,5h 10m,1 Stop,"8,579",9,23
+73,"IndiGo
+6E-184/5274",1900-09-23,Yatra,Mumbai,09:50,15:45,5h 55m,1 Stop,"8,579",9,23
+74,"IndiGo
+6E-2141/803",1900-09-23,Yatra,Mumbai,13:35,19:40,6h 05m,1 Stop,"8,579",9,23
+75,"SpiceJet
+SG-361/168",1900-09-23,Yatra,Mumbai,11:55,18:05,6h 10m,1 Stop,"8,579",9,23
+76,"SpiceJet
+SG-272/945",1900-09-23,Yatra,Mumbai,09:50,16:10,6h 20m,1 Stop,"8,579",9,23
+77,"IndiGo
+6E-5026/6425",1900-09-23,Yatra,Mumbai,04:45,11:20,6h 35m,1 Stop,"8,579",9,23
+78,"SpiceJet
+SG-8963/945",1900-09-23,Yatra,Mumbai,09:25,16:10,6h 45m,1 Stop,"8,579",9,23
+79,"SpiceJet
+SG-8171/487",1900-09-23,Yatra,Mumbai,12:05,18:50,6h 45m,1 Stop,"8,579",9,23
+80,"SpiceJet
+SG-8751/116",1900-09-23,Yatra,Mumbai,11:30,18:55,7h 25m,1 Stop,"8,579",9,23
+81,"IndiGo
+6E-2033/6004",1900-09-23,Yatra,Mumbai,00:15,08:00,7h 45m,1 Stop,"8,579",9,23
+82,"SpiceJet
+SG-2950/202",1900-09-23,Yatra,Mumbai,13:15,21:45,8h 30m,1 Stop,"8,579",9,23
+83,"IndiGo
+6E-184/5302",1900-09-23,Yatra,Mumbai,09:50,18:45,8h 55m,1 Stop,"8,579",9,23
+84,"IndiGo
+6E-6373/5274",1900-09-23,Yatra,Mumbai,06:30,15:45,9h 15m,1 Stop,"8,579",9,23
+85,"IndiGo
+6E-5026/5268",1900-09-23,Yatra,Mumbai,04:45,14:15,9h 30m,1 Stop,"8,579",9,23
+86,"IndiGo
+6E-607/6004",1900-09-23,Yatra,Mumbai,22:30,08:00+ 1 day,9h 30m,1 Stop,"8,579",9,23
+87,"SpiceJet
+SG-957/452",1900-09-23,Yatra,Mumbai,15:10,05:15+ 1 day,14h 05m,1 Stop,"8,579",9,23
+88,"SpiceJet
+SG-8207/612",1900-09-23,Yatra,Mumbai,08:45,23:55,15h 10m,1 Stop,"8,579",9,23
+89,"SpiceJet
+SG-8171/452",1900-09-23,Yatra,Mumbai,12:05,05:15+ 1 day,17h 10m,1 Stop,"8,579",9,23
+90,"SpiceJet
+SG-8389/392",1900-09-23,Yatra,Mumbai,18:55,13:40+ 1 day,18h 45m,1 Stop,"8,579",9,23
+91,"SpiceJet
+SG-918/951",1900-09-23,Yatra,Mumbai,16:35,13:35+ 1 day,21h 00m,1 Stop,"8,579",9,23
+92,"SpiceJet
+SG-8150/951",1900-09-23,Yatra,Mumbai,15:45,13:35+ 1 day,21h 50m,1 Stop,"8,579",9,23
+93,"SpiceJet
+SG-918/945",1900-09-23,Yatra,Mumbai,16:35,16:10+ 1 day,23h 35m,1 Stop,"8,579",9,23
+94,"SpiceJet
+SG-957/454",1900-09-23,Yatra,Mumbai,15:10,14:55+ 1 day,23h 45m,1 Stop,"8,579",9,23
+95,"Air India
+AI-636",1900-09-23,Yatra,Mumbai,14:30,18:10,3h 40m,1 Stop,"8,580",9,23
+96,"IndiGo
+6E-2017",1900-09-23,Yatra,Mumbai,18:10,20:25,2h 15m,Non Stop,"8,894",9,23
+97,"IndiGo
+6E-2077/6222",1900-09-23,Yatra,Mumbai,05:20,10:35,5h 15m,1 Stop,"8,894",9,23
+98,"IndiGo
+6E-5042/5207",1900-09-23,Yatra,Mumbai,10:15,17:25,7h 10m,1 Stop,"8,894",9,23
+99,"IndiGo
+6E-6373/5268",1900-09-23,Yatra,Mumbai,06:30,14:15,7h 45m,1 Stop,"8,936",9,23
+100,"Air India
+AI-481/638",1900-09-23,Yatra,Mumbai,08:25,22:05,13h 40m,1 Stop,"9,000",9,23
+101,"Air India
+AI-817/638",1900-09-23,Yatra,Mumbai,05:15,22:05,16h 50m,1 Stop,"9,000",9,23
+102,"IndiGo
+6E-2168/6598",1900-09-23,Yatra,Mumbai,17:50,22:10,4h 20m,1 Stop,"9,157",9,23
+103,"Vistara
+UK-985",1900-09-23,Yatra,Mumbai,19:45,21:55,2h 10m,Non Stop,"9,630",9,23
+104,"Vistara
+UK-953",1900-09-23,Yatra,Mumbai,20:40,22:50,2h 10m,Non Stop,"9,630",9,23
+105,"Vistara
+UK-981",1900-09-23,Yatra,Mumbai,21:30,23:40,2h 10m,Non Stop,"9,630",9,23
+106,"Vistara
+UK-955",1900-09-23,Yatra,Mumbai,17:45,20:05,2h 20m,Non Stop,"9,630",9,23
+107,"Air India
+AI-471/644",1900-09-23,Yatra,Mumbai,13:15,18:05,4h 50m,1 Stop,"9,840",9,23
+108,"Air India
+AI-560/616",1900-09-23,Yatra,Mumbai,07:10,09:50+ 1 day,26h 40m,1 Stop,"9,840",9,23
+109,"IndiGo
+6E-607/605",1900-09-23,Yatra,Mumbai,22:30,05:30+ 1 day,7h 00m,1 Stop,"9,856",9,23
+110,"Air India
+AI-443/400",1900-09-23,Yatra,Mumbai,05:20,10:00,4h 40m,1 Stop,"10,070",9,23
+111,"IndiGo
+6E-7403/577",1900-09-23,Yatra,Mumbai,07:20,15:55,8h 35m,1 Stop,"10,102",9,23
+112,"Vistara
+UK-977",1900-09-23,Yatra,Mumbai,19:00,21:15,2h 15m,Non Stop,"10,155",9,23
+113,"Air India
+AI-560/618",1900-09-23,Yatra,Mumbai,07:10,15:00,7h 50m,1 Stop,"10,365",9,23
+114,"Air India
+AI-544/616",1900-09-23,Yatra,Mumbai,16:50,09:50+ 1 day,17h 00m,1 Stop,"10,365",9,23
+115,"Air India
+AI-542/616",1900-09-23,Yatra,Mumbai,09:45,09:50+ 1 day,24h 05m,1 Stop,"10,365",9,23
+116,"Air India
+AI-883/684",1900-09-23,Yatra,Mumbai,22:00,08:05+ 1 day,10h 05m,1 Stop,"10,470",9,23
+117,"Air India
+AI-883/697",1900-09-23,Yatra,Mumbai,22:00,00:35+ 2 days,26h 35m,1 Stop,"10,470",9,23
+118,"Air India
+AI-403/656",1900-09-23,Yatra,Mumbai,12:50,19:15,6h 25m,1 Stop,"10,542",9,23
+119,"IndiGo
+6E-6022/6292",1900-09-23,Yatra,Mumbai,11:15,16:55,5h 40m,1 Stop,"10,574",9,23
+120,"IndiGo
+6E-2476/6259",1900-09-23,Yatra,Mumbai,07:20,13:45,6h 25m,1 Stop,"10,574",9,23
+121,"IndiGo
+6E-5005/5329",1900-09-23,Yatra,Mumbai,05:15,13:15,8h 00m,1 Stop,"10,574",9,23
+122,"IndiGo
+6E-2066/6253",1900-09-23,Yatra,Mumbai,15:20,00:40+ 1 day,9h 20m,1 Stop,"10,574",9,23
+123,"Air India
+AI-406/696",1900-09-23,Yatra,Mumbai,10:15,15:40,5h 25m,1 Stop,"10,680",9,23
+124,"Air India
+AI-877/670",1900-09-23,Yatra,Mumbai,11:10,17:15,6h 05m,1 Stop,"10,680",9,23
+125,"Air India
+AI-473/670",1900-09-23,Yatra,Mumbai,18:40,17:15+ 1 day,22h 35m,1 Stop,"10,680",9,23
+126,"Air India
+AI-542/618",1900-09-23,Yatra,Mumbai,09:45,15:00,5h 15m,1 Stop,"10,890",9,23
+127,"Air India
+AI-544/618",1900-09-23,Yatra,Mumbai,16:50,15:00+ 1 day,22h 10m,1 Stop,"10,890",9,23
+128,"Air India
+AI-415/732",1900-09-23,Yatra,Mumbai,16:45,17:10+ 1 day,24h 25m,1 Stop,"10,921",9,23
+129,"Air India
+AI-407/732",1900-09-23,Yatra,Mumbai,13:45,17:10+ 1 day,27h 25m,1 Stop,"10,921",9,23
+130,"Vistara
+UK-959/918",1900-09-23,Yatra,Mumbai,06:30,06:15+ 1 day,23h 45m,1 Stop,"11,027",9,23
+131,"Go First
+G8-717/537",1900-09-23,Yatra,Mumbai,16:45,21:10,4h 25m,1 Stop,"11,120",9,23
+132,"IndiGo
+6E-786/6571",1900-09-23,Yatra,Mumbai,05:05,13:20,8h 15m,1 Stop,"11,267",9,23
+133,"Air India
+AI-411/626",1900-09-23,Yatra,Mumbai,07:05,16:25,9h 20m,1 Stop,"11,310",9,23
+134,"Air India
+AI-811/626",1900-09-23,Yatra,Mumbai,18:30,16:25+ 1 day,21h 55m,1 Stop,"11,310",9,23
+135,"Air India
+AI-451/651",1900-09-23,Yatra,Mumbai,15:00,16:25+ 1 day,25h 25m,1 Stop,"11,520",9,23
+136,"Air India
+AI-453/650",1900-09-23,Yatra,Mumbai,05:00,11:35,6h 35m,1 Stop,"11,900",9,23
+137,"Air India
+AI-479/650",1900-09-23,Yatra,Mumbai,21:15,11:35+ 1 day,14h 20m,1 Stop,"11,900",9,23
+138,"Go First
+G8-190/386",1900-09-23,Yatra,Mumbai,05:20,11:25,6h 05m,1 Stop,"12,031",9,23
+139,"Air India
+AI-504/610",1900-09-23,Yatra,Mumbai,21:15,21:05+ 1 day,23h 50m,1 Stop,"12,150",9,23
+140,"Go First
+G8-213/287",1900-09-23,Yatra,Mumbai,12:10,18:30,6h 20m,1 Stop,"12,331",9,23
+141,"Air India
+AI-560/698",1900-09-23,Yatra,Mumbai,07:10,23:50,16h 40m,1 Stop,"12,570",9,23
+142,"Vistara
+UK-969/956",1900-09-23,Yatra,Mumbai,18:10,23:15,5h 05m,1 Stop,"12,602",9,23
+143,"Vistara
+UK-969/918",1900-09-23,Yatra,Mumbai,18:10,06:15+ 1 day,12h 05m,1 Stop,"12,602",9,23
+144,"Vistara
+UK-969/936",1900-09-23,Yatra,Mumbai,18:10,09:40+ 1 day,15h 30m,1 Stop,"12,602",9,23
+145,"Air India
+AI-883/664",1900-09-23,Yatra,Mumbai,22:00,16:35+ 1 day,18h 35m,1 Stop,"12,938",9,23
+146,"Air Asia
+I5-745/472",1900-09-23,Yatra,Mumbai,13:00,23:45,10h 45m,2 Stop(s),"12,963",9,23
+147,"Air India
+AI-429/672",1900-09-23,Yatra,Mumbai,09:45,17:10,7h 25m,1 Stop,"12,990",9,23
+148,"Air India
+AI-537/574",1900-09-23,Yatra,Mumbai,16:15,23:40,7h 25m,1 Stop,"12,990",9,23
+149,"Air India
+AI-439/672",1900-09-23,Yatra,Mumbai,05:55,17:10,11h 15m,1 Stop,"12,990",9,23
+150,"Air India
+AI-540/569",1900-09-23,Yatra,Mumbai,20:40,08:05+ 1 day,11h 25m,1 Stop,"12,990",9,23
+151,"Air India
+AI-839/616",1900-09-23,Yatra,Mumbai,21:30,09:50+ 1 day,12h 20m,1 Stop,"12,990",9,23
+152,"Air India
+AI-540/571",1900-09-23,Yatra,Mumbai,20:40,10:15+ 1 day,13h 35m,1 Stop,"12,990",9,23
+153,"Air India
+AI-429/574",1900-09-23,Yatra,Mumbai,09:45,23:40,13h 55m,1 Stop,"12,990",9,23
+154,"Air India
+AI-537/569",1900-09-23,Yatra,Mumbai,16:15,08:05+ 1 day,15h 50m,1 Stop,"12,990",9,23
+155,"Air India
+AI-544/698",1900-09-23,Yatra,Mumbai,16:50,23:50,7h 00m,1 Stop,"13,095",9,23
+156,"Air India
+AI-542/698",1900-09-23,Yatra,Mumbai,09:45,23:50,14h 05m,1 Stop,"13,095",9,23
+157,"Air India
+AI-807/610",1900-09-23,Yatra,Mumbai,17:15,21:05+ 1 day,27h 50m,1 Stop,"13,305",9,23
+158,"Air India
+AI-839/618",1900-09-23,Yatra,Mumbai,21:30,15:00+ 1 day,17h 30m,1 Stop,"13,515",9,23
+159,"Go First
+G8-286/2606",1900-09-23,Yatra,Mumbai,10:45,18:40,7h 55m,1 Stop,"14,189",9,23
+160,"Go First
+G8-286/372",1900-09-23,Yatra,Mumbai,10:45,19:50,9h 05m,1 Stop,"14,189",9,23
+161,"Air India
+AI-504/640",1900-09-23,Yatra,Mumbai,21:15,08:35+ 1 day,11h 20m,1 Stop,"14,460",9,23
+162,"Air India
+AI-504/604",1900-09-23,Yatra,Mumbai,21:15,10:35+ 1 day,13h 20m,1 Stop,"14,460",9,23
+163,"Air India
+AI-506/642",1900-09-23,Yatra,Mumbai,09:45,23:15,13h 30m,1 Stop,"14,460",9,23
+164,"Air India
+AI-813/642",1900-09-23,Yatra,Mumbai,08:00,23:15,15h 15m,1 Stop,"14,460",9,23
+165,"Air India
+AI-803/642",1900-09-23,Yatra,Mumbai,06:10,23:15,17h 05m,1 Stop,"14,460",9,23
+166,"Air India
+AI-504/642",1900-09-23,Yatra,Mumbai,21:15,23:15+ 1 day,26h 00m,1 Stop,"14,460",9,23
+167,"Air India
+AI-885/664",1900-09-23,Yatra,Mumbai,10:45,16:35,5h 50m,1 Stop,"14,670",9,23
+168,"Air India
+AI-807/642",1900-09-23,Yatra,Mumbai,17:15,23:15,6h 00m,1 Stop,"15,615",9,23
+169,"Vistara
+UK-929/918",1900-09-23,Yatra,Mumbai,21:20,06:15+ 1 day,8h 55m,1 Stop,"15,857",9,23
+170,"Vistara
+UK-929/936",1900-09-23,Yatra,Mumbai,21:20,09:40+ 1 day,12h 20m,1 Stop,"15,857",9,23
+171,"Air Asia
+I5-1529/1782",1900-09-23,Yatra,Mumbai,09:35,21:20,11h 45m,1 Stop,"19,468",9,23
+172,"Air Asia
+I5-721/941",1900-09-23,Yatra,Mumbai,21:00,07:15+ 1 day,10h 15m,1 Stop,"21,464",9,23
+173,"Air Asia
+I5-857/334",1900-09-23,Yatra,Mumbai,18:45,00:40+ 1 day,5h 55m,1 Stop,"23,200",9,23
+174,"Air Asia
+I5-631/549",1900-09-23,Yatra,New Delhi,07:50,14:20,6h 30m,1 Stop,"5,941",9,23
+175,"Air Asia
+I5-678/830",1900-09-23,Yatra,New Delhi,15:25,23:10,7h 45m,1 Stop,"5,941",9,23
+176,"Air Asia
+I5-765/330",1900-09-23,Yatra,New Delhi,13:20,22:05,8h 45m,1 Stop,"5,941",9,23
+177,"Go First
+G8-329",1900-09-23,Yatra,New Delhi,06:00,08:05,2h 05m,Non Stop,"5,942",9,23
+178,"Go First
+G8-391",1900-09-23,Yatra,New Delhi,15:00,17:10,2h 10m,Non Stop,"5,942",9,23
+179,"Go First
+G8-322",1900-09-23,Yatra,New Delhi,21:30,23:40,2h 10m,Non Stop,"5,942",9,23
+180,"Go First
+G8-345",1900-09-23,Yatra,New Delhi,23:00,01:10+ 1 day,2h 10m,Non Stop,"5,942",9,23
+181,"Go First
+G8-2508",1900-09-23,Yatra,New Delhi,23:50,02:00+ 1 day,2h 10m,Non Stop,"5,942",9,23
+182,"SpiceJet
+SG-712",1900-09-23,Yatra,New Delhi,00:35,02:50,2h 15m,Non Stop,"5,942",9,23
+183,"SpiceJet
+SG-8152",1900-09-23,Yatra,New Delhi,07:20,09:35,2h 15m,Non Stop,"5,942",9,23
+184,"SpiceJet
+SG-8702",1900-09-23,Yatra,New Delhi,16:00,18:20,2h 20m,Non Stop,"5,942",9,23
+185,"IndiGo
+6E-2111",1900-09-23,Yatra,New Delhi,02:40,04:35,1h 55m,Non Stop,"5,943",9,23
+186,"IndiGo
+6E-993",1900-09-23,Yatra,New Delhi,14:35,16:35,2h 00m,Non Stop,"5,943",9,23
+187,"Vistara
+UK-954",1900-09-23,Yatra,New Delhi,06:00,08:05,2h 05m,Non Stop,"5,943",9,23
+188,"Vistara
+UK-928",1900-09-23,Yatra,New Delhi,06:30,08:35,2h 05m,Non Stop,"5,943",9,23
+189,"Air India
+AI-864",1900-09-23,Yatra,New Delhi,07:00,09:05,2h 05m,Non Stop,"5,943",9,23
+190,"IndiGo
+6E-5398",1900-09-23,Yatra,New Delhi,07:00,09:05,2h 05m,Non Stop,"5,943",9,23
+191,"IndiGo
+6E-168",1900-09-23,Yatra,New Delhi,12:05,14:10,2h 05m,Non Stop,"5,943",9,23
+192,"IndiGo
+6E-5356",1900-09-23,Yatra,New Delhi,12:40,14:45,2h 05m,Non Stop,"5,943",9,23
+193,"IndiGo
+6E-5332",1900-09-23,Yatra,New Delhi,06:05,08:15,2h 10m,Non Stop,"5,943",9,23
+194,"IndiGo
+6E-5341",1900-09-23,Yatra,New Delhi,07:45,09:55,2h 10m,Non Stop,"5,943",9,23
+195,"IndiGo
+6E-2137",1900-09-23,Yatra,New Delhi,08:30,10:40,2h 10m,Non Stop,"5,943",9,23
+196,"IndiGo
+6E-6821",1900-09-23,Yatra,New Delhi,10:10,12:20,2h 10m,Non Stop,"5,943",9,23
+197,"Vistara
+UK-960",1900-09-23,Yatra,New Delhi,11:55,14:05,2h 10m,Non Stop,"5,943",9,23
+198,"Air India
+AI-442",1900-09-23,Yatra,New Delhi,17:00,19:10,2h 10m,Non Stop,"5,943",9,23
+199,"Air India
+AI-660",1900-09-23,Yatra,New Delhi,18:00,20:10,2h 10m,Non Stop,"5,943",9,23
+200,"IndiGo
+6E-2113",1900-09-23,Yatra,New Delhi,18:35,20:45,2h 10m,Non Stop,"5,943",9,23
+201,"IndiGo
+6E-439",1900-09-23,Yatra,New Delhi,19:30,21:40,2h 10m,Non Stop,"5,943",9,23
+202,"IndiGo
+6E-248",1900-09-23,Yatra,New Delhi,23:30,01:40+ 1 day,2h 10m,Non Stop,"5,943",9,23
+203,"Air India
+AI-806",1900-09-23,Yatra,New Delhi,08:00,10:15,2h 15m,Non Stop,"5,943",9,23
+204,"Vistara
+UK-970",1900-09-23,Yatra,New Delhi,08:45,11:00,2h 15m,Non Stop,"5,943",9,23
+205,"IndiGo
+6E-2172",1900-09-23,Yatra,New Delhi,09:25,11:40,2h 15m,Non Stop,"5,943",9,23
+206,"Vistara
+UK-994",1900-09-23,Yatra,New Delhi,10:25,12:40,2h 15m,Non Stop,"5,943",9,23
+207,"Air India
+AI-677",1900-09-23,Yatra,New Delhi,13:00,15:15,2h 15m,Non Stop,"5,943",9,23
+208,"Vistara
+UK-944",1900-09-23,Yatra,New Delhi,14:40,16:55,2h 15m,Non Stop,"5,943",9,23
+209,"IndiGo
+6E-2012",1900-09-23,Yatra,New Delhi,15:55,18:10,2h 15m,Non Stop,"5,943",9,23
+210,"IndiGo
+6E-2103",1900-09-23,Yatra,New Delhi,17:10,19:25,2h 15m,Non Stop,"5,943",9,23
+211,"Air India
+AI-888",1900-09-23,Yatra,New Delhi,19:00,21:15,2h 15m,Non Stop,"5,943",9,23
+212,"Air India
+AI-816",1900-09-23,Yatra,New Delhi,21:00,23:15,2h 15m,Non Stop,"5,943",9,23
+213,"IndiGo
+6E-2056",1900-09-23,Yatra,New Delhi,04:50,07:10,2h 20m,Non Stop,"5,943",9,23
+214,"Air India
+AI-866",1900-09-23,Yatra,New Delhi,09:00,11:20,2h 20m,Non Stop,"5,943",9,23
+215,"Air India
+AI-809",1900-09-23,Yatra,New Delhi,10:00,12:20,2h 20m,Non Stop,"5,943",9,23
+216,"Vistara
+UK-902",1900-09-23,Yatra,New Delhi,15:45,18:05,2h 20m,Non Stop,"5,943",9,23
+217,"Air India
+AI-687",1900-09-23,Yatra,New Delhi,16:00,18:20,2h 20m,Non Stop,"5,943",9,23
+218,"IndiGo
+6E-2518",1900-09-23,Yatra,New Delhi,20:35,22:55,2h 20m,Non Stop,"5,943",9,23
+219,"Vistara
+UK-919/926",1900-09-23,Yatra,New Delhi,22:35,08:20+ 1 day,9h 45m,1 Stop,"6,080",9,23
+220,"Vistara
+UK-919/946",1900-09-23,Yatra,New Delhi,22:35,10:25+ 1 day,11h 50m,1 Stop,"6,080",9,23
+221,"Vistara
+UK-949/926",1900-09-23,Yatra,New Delhi,20:00,08:20+ 1 day,12h 20m,1 Stop,"6,080",9,23
+222,"Vistara
+UK-949/946",1900-09-23,Yatra,New Delhi,20:00,10:25+ 1 day,14h 25m,1 Stop,"6,080",9,23
+223,"Vistara
+UK-919/966",1900-09-23,Yatra,New Delhi,22:35,22:00+ 1 day,23h 25m,1 Stop,"6,080",9,23
+224,"Vistara
+UK-949/966",1900-09-23,Yatra,New Delhi,20:00,22:00+ 1 day,26h 00m,1 Stop,"6,080",9,23
+225,"SpiceJet
+SG-8158",1900-09-23,Yatra,New Delhi,19:35,22:00,2h 25m,Non Stop,"6,100",9,23
+226,"Go First
+G8-327",1900-09-23,Yatra,New Delhi,08:05,10:15,2h 10m,Non Stop,"6,241",9,23
+227,"Go First
+G8-341",1900-09-23,Yatra,New Delhi,20:40,22:50,2h 10m,Non Stop,"6,241",9,23
+228,"Go First
+G8-339",1900-09-23,Yatra,New Delhi,18:40,20:55,2h 15m,Non Stop,"6,241",9,23
+229,"IndiGo
+6E-5293/158",1900-09-23,Yatra,New Delhi,00:35,05:50,5h 15m,1 Stop,"6,264",9,23
+230,"IndiGo
+6E-5293/6288",1900-09-23,Yatra,New Delhi,00:35,07:30,6h 55m,1 Stop,"6,264",9,23
+231,"IndiGo
+6E-5293/5011",1900-09-23,Yatra,New Delhi,00:35,09:25,8h 50m,1 Stop,"6,264",9,23
+232,"Air Asia
+I5-679/774",1900-09-23,Yatra,New Delhi,20:40,01:50+ 1 day,5h 10m,1 Stop,"6,364",9,23
+233,"Air Asia
+I5-331/315",1900-09-23,Yatra,New Delhi,04:05,10:55,6h 50m,1 Stop,"6,364",9,23
+234,"Vistara
+UK-930",1900-09-23,Yatra,New Delhi,07:30,09:35,2h 05m,Non Stop,"6,815",9,23
+235,"Vistara
+UK-986",1900-09-23,Yatra,New Delhi,22:45,01:00+ 1 day,2h 15m,Non Stop,"6,815",9,23
+236,"IndiGo
+6E-802/6941",1900-09-23,Yatra,New Delhi,16:40,20:55,4h 15m,1 Stop,"7,019",9,23
+237,"IndiGo
+6E-802/984",1900-09-23,Yatra,New Delhi,16:40,23:15,6h 35m,1 Stop,"7,019",9,23
+238,"IndiGo
+6E-213/2146",1900-09-23,Yatra,New Delhi,06:25,13:35,7h 10m,1 Stop,"7,164",9,23
+239,"IndiGo
+6E-5327/2032",1900-09-23,Yatra,New Delhi,14:55,19:40,4h 45m,1 Stop,"7,539",9,23
+240,"IndiGo
+6E-5327/6941",1900-09-23,Yatra,New Delhi,14:55,20:55,6h 00m,1 Stop,"7,539",9,23
+241,"IndiGo
+6E-5327/984",1900-09-23,Yatra,New Delhi,14:55,23:15,8h 20m,1 Stop,"7,539",9,23
+242,"Vistara
+UK-950",1900-09-23,Yatra,New Delhi,21:55,00:10+ 1 day,2h 15m,Non Stop,"7,686",9,23
+243,"Vistara
+UK-939/946",1900-09-23,Yatra,New Delhi,06:35,10:25,3h 50m,1 Stop,"7,823",9,23
+244,"Vistara
+UK-939/966",1900-09-23,Yatra,New Delhi,06:35,22:00,15h 25m,1 Stop,"7,823",9,23
+245,"Vistara
+UK-939/926",1900-09-23,Yatra,New Delhi,06:35,08:20+ 1 day,25h 45m,1 Stop,"7,823",9,23
+246,"Go First
+G8-2504/714",1900-09-23,Yatra,New Delhi,16:50,23:20,6h 30m,1 Stop,"7,916",9,23
+247,"IndiGo
+6E-2047/6824",1900-09-23,Yatra,New Delhi,09:25,18:05,8h 40m,1 Stop,"8,096",9,23
+248,"IndiGo
+6E-624/2177",1900-09-23,Yatra,New Delhi,22:55,07:40+ 1 day,8h 45m,1 Stop,"8,096",9,23
+249,"IndiGo
+6E-6515/7404",1900-09-23,Yatra,New Delhi,17:40,21:55,4h 15m,1 Stop,"8,201",9,23
+250,"IndiGo
+6E-6515/2405",1900-09-23,Yatra,New Delhi,17:40,23:25,5h 45m,1 Stop,"8,201",9,23
+251,"IndiGo
+6E-5247/6917",1900-09-23,Yatra,New Delhi,08:00,15:20,7h 20m,1 Stop,"8,306",9,23
+252,"Air India
+AI-633/434",1900-09-23,Yatra,New Delhi,05:45,15:00,9h 15m,1 Stop,"8,325",9,23
+253,"Go First
+G8-364/714",1900-09-23,Yatra,New Delhi,19:15,23:20,4h 05m,1 Stop,"8,566",9,23
+254,"Go First
+G8-287/189",1900-09-23,Yatra,New Delhi,10:50,19:00,8h 10m,2 Stop(s),"8,566",9,23
+255,"Go First
+G8-287/197",1900-09-23,Yatra,New Delhi,10:50,19:35,8h 45m,2 Stop(s),"8,566",9,23
+256,"Go First
+G8-287/197",1900-09-23,Yatra,New Delhi,10:50,19:35,8h 45m,2 Stop(s),"8,566",9,23
+257,"Go First
+G8-287/259",1900-09-23,Yatra,New Delhi,10:50,20:05,9h 15m,2 Stop(s),"8,566",9,23
+258,"Go First
+G8-351/2512",1900-09-23,Yatra,New Delhi,11:20,20:50,9h 30m,1 Stop,"8,566",9,23
+259,"Air India
+AI-635",1900-09-23,Yatra,New Delhi,07:20,11:00,3h 40m,1 Stop,"8,568",9,23
+260,"IndiGo
+6E-6993/984",1900-09-23,Yatra,New Delhi,18:55,23:15,4h 20m,1 Stop,"8,568",9,23
+261,"IndiGo
+6E-5275/2146",1900-09-23,Yatra,New Delhi,07:50,13:35,5h 45m,1 Stop,"8,568",9,23
+262,"SpiceJet
+SG-950/8961",1900-09-23,Yatra,New Delhi,07:05,13:20,6h 15m,1 Stop,"8,568",9,23
+263,"SpiceJet
+SG-950/273",1900-09-23,Yatra,New Delhi,07:05,13:35,6h 30m,1 Stop,"8,568",9,23
+264,"IndiGo
+6E-5273/2032",1900-09-23,Yatra,New Delhi,12:40,19:40,7h 00m,1 Stop,"8,568",9,23
+265,"SpiceJet
+SG-923/8390",1900-09-23,Yatra,New Delhi,14:25,23:00,8h 35m,1 Stop,"8,568",9,23
+266,"SpiceJet
+SG-115/8752",1900-09-23,Yatra,New Delhi,06:20,15:35,9h 15m,1 Stop,"8,568",9,23
+267,"SpiceJet
+SG-678/8151",1900-09-23,Yatra,New Delhi,10:05,19:30,9h 25m,1 Stop,"8,568",9,23
+268,"SpiceJet
+SG-678/919",1900-09-23,Yatra,New Delhi,10:05,20:20,10h 15m,1 Stop,"8,568",9,23
+269,"SpiceJet
+SG-115/8486",1900-09-23,Yatra,New Delhi,06:20,18:25,12h 05m,1 Stop,"8,568",9,23
+270,"SpiceJet
+SG-950/8151",1900-09-23,Yatra,New Delhi,07:05,19:30,12h 25m,1 Stop,"8,568",9,23
+271,"SpiceJet
+SG-950/919",1900-09-23,Yatra,New Delhi,07:05,20:20,13h 15m,1 Stop,"8,568",9,23
+272,"SpiceJet
+SG-611/8104",1900-09-23,Yatra,New Delhi,05:40,20:45,15h 05m,1 Stop,"8,568",9,23
+273,"SpiceJet
+SG-453/8172",1900-09-23,Yatra,New Delhi,01:45,17:45,16h 00m,1 Stop,"8,568",9,23
+274,"SpiceJet
+SG-453/958",1900-09-23,Yatra,New Delhi,01:45,21:00,19h 15m,1 Stop,"8,568",9,23
+275,"IndiGo
+6E-843/2279",1900-09-23,Yatra,New Delhi,15:00,21:15,6h 15m,1 Stop,"8,883",9,23
+276,"IndiGo
+6E-843/6013",1900-09-23,Yatra,New Delhi,15:00,00:05+ 1 day,9h 05m,1 Stop,"8,884",9,23
+277,"IndiGo
+6E-6045/158",1900-09-23,Yatra,New Delhi,21:30,05:50+ 1 day,8h 20m,1 Stop,"8,931",9,23
+278,"Air India
+AI-637/532",1900-09-23,Yatra,New Delhi,18:35,23:20,4h 45m,1 Stop,"8,988",9,23
+279,"Air India
+AI-637/818",1900-09-23,Yatra,New Delhi,18:35,09:20+ 1 day,14h 45m,1 Stop,"8,988",9,23
+280,"Air India
+AI-637/482",1900-09-23,Yatra,New Delhi,18:35,12:35+ 1 day,18h 00m,1 Stop,"8,988",9,23
+281,"IndiGo
+6E-5273/2142",1900-09-23,Yatra,New Delhi,12:40,17:15,4h 35m,1 Stop,"9,037",9,23
+282,"IndiGo
+6E-5273/6941",1900-09-23,Yatra,New Delhi,12:40,20:55,8h 15m,1 Stop,"9,037",9,23
+283,"Vistara
+UK-952",1900-09-23,Yatra,New Delhi,12:25,14:20,1h 55m,Non Stop,"9,093",9,23
+284,"Vistara
+UK-910",1900-09-23,Yatra,New Delhi,17:35,19:40,2h 05m,Non Stop,"9,093",9,23
+285,"IndiGo
+6E-164/5008",1900-09-23,Yatra,New Delhi,07:15,13:45,6h 30m,1 Stop,"9,094",9,23
+286,"IndiGo
+6E-5275/2142",1900-09-23,Yatra,New Delhi,07:50,17:15,9h 25m,1 Stop,"9,195",9,23
+287,"Vistara
+UK-988",1900-09-23,Yatra,New Delhi,20:55,23:00,2h 05m,Non Stop,"9,618",9,23
+288,"Vistara
+UK-996",1900-09-23,Yatra,New Delhi,18:30,20:40,2h 10m,Non Stop,"9,618",9,23
+289,"Air India
+AI-499/444",1900-09-23,Yatra,New Delhi,07:00,09:45+ 1 day,26h 45m,1 Stop,"9,795",9,23
+290,"Air India
+AI-625/812",1900-09-23,Yatra,New Delhi,11:15,21:35,10h 20m,1 Stop,"9,828",9,23
+291,"Air India
+AI-643/472",1900-09-23,Yatra,New Delhi,14:20,16:30+ 1 day,26h 10m,1 Stop,"9,828",9,23
+292,"Air India
+AI-615/840",1900-09-23,Yatra,New Delhi,06:00,23:00,17h 00m,1 Stop,"10,353",9,23
+293,"Air India
+AI-615/559",1900-09-23,Yatra,New Delhi,06:00,08:55+ 1 day,26h 55m,1 Stop,"10,353",9,23
+294,"SpiceJet
+SG-455/958",1900-09-23,Yatra,New Delhi,15:35,21:00,5h 25m,1 Stop,"10,982",9,23
+295,"Vistara
+UK-940",1900-09-23,Yatra,New Delhi,19:45,21:55,2h 10m,Non Stop,"10,983",9,23
+296,"Air India
+AI-683/884",1900-09-23,Yatra,New Delhi,21:00,03:45+ 1 day,6h 45m,1 Stop,"11,298",9,23
+297,"Air India
+AI-683/886",1900-09-23,Yatra,New Delhi,21:00,16:45+ 1 day,19h 45m,1 Stop,"11,298",9,23
+298,"Air India
+AI-669/474",1900-09-23,Yatra,New Delhi,12:05,23:40,11h 35m,1 Stop,"11,508",9,23
+299,"Air India
+AI-669/878",1900-09-23,Yatra,New Delhi,12:05,16:15+ 1 day,28h 10m,1 Stop,"11,508",9,23
+300,"IndiGo
+6E-6735/6246",1900-09-23,Yatra,New Delhi,17:45,22:40,4h 55m,1 Stop,"11,711",9,23
+301,"IndiGo
+6E-6141/5019",1900-09-23,Yatra,New Delhi,20:10,01:00+ 1 day,4h 50m,1 Stop,"11,718",9,23
+302,"IndiGo
+6E-5334/6026",1900-09-23,Yatra,New Delhi,09:40,15:10,5h 30m,1 Stop,"11,718",9,23
+303,"IndiGo
+6E-5261/2067",1900-09-23,Yatra,New Delhi,13:45,19:30,5h 45m,1 Stop,"11,718",9,23
+304,"IndiGo
+6E-5334/2067",1900-09-23,Yatra,New Delhi,09:40,19:30,9h 50m,1 Stop,"11,718",9,23
+305,"Air India
+AI-649/480",1900-09-23,Yatra,New Delhi,05:55,00:15+ 1 day,18h 20m,1 Stop,"11,888",9,23
+306,"Air India
+AI-649/454",1900-09-23,Yatra,New Delhi,05:55,08:30+ 1 day,26h 35m,1 Stop,"11,888",9,23
+307,"Vistara
+UK-613/628",1900-09-23,Yatra,New Delhi,12:15,16:45,4h 30m,1 Stop,"11,928",9,23
+308,"Air Asia
+I5-1784/722",1900-09-23,Yatra,New Delhi,22:00,03:30+ 1 day,5h 30m,1 Stop,"11,999",9,23
+309,"Air India
+AI-619/559",1900-09-23,Yatra,New Delhi,20:10,08:55+ 1 day,12h 45m,1 Stop,"12,348",9,23
+310,"Air India
+AI-673/408",1900-09-23,Yatra,New Delhi,11:00,17:35,6h 35m,1 Stop,"12,379",9,23
+311,"Air India
+AI-673/416",1900-09-23,Yatra,New Delhi,11:00,21:00,10h 00m,1 Stop,"12,379",9,23
+312,"Air India
+AI-615/543",1900-09-23,Yatra,New Delhi,06:00,12:20,6h 20m,1 Stop,"12,453",9,23
+313,"Air India
+AI-655/404",1900-09-23,Yatra,New Delhi,16:35,17:10+ 1 day,24h 35m,1 Stop,"12,525",9,23
+314,"Air India
+AI-617/840",1900-09-23,Yatra,New Delhi,11:05,23:00,11h 55m,1 Stop,"12,716",9,23
+315,"Air India
+AI-617/559",1900-09-23,Yatra,New Delhi,11:05,08:55+ 1 day,21h 50m,1 Stop,"12,716",9,23
+316,"SpiceJet
+SG-488/8172",1900-09-23,Yatra,New Delhi,11:15,17:45,6h 30m,1 Stop,"12,978",9,23
+317,"Air India
+AI-570/430",1900-09-23,Yatra,New Delhi,05:25,12:50,7h 25m,1 Stop,"12,978",9,23
+318,"SpiceJet
+SG-488/958",1900-09-23,Yatra,New Delhi,11:15,21:00,9h 45m,1 Stop,"12,978",9,23
+319,"Air India
+AI-671/539",1900-09-23,Yatra,New Delhi,09:00,19:50,10h 50m,1 Stop,"12,978",9,23
+320,"Air India
+AI-573/440",1900-09-23,Yatra,New Delhi,18:50,08:55+ 1 day,14h 05m,1 Stop,"12,978",9,23
+321,"Air India
+AI-570/539",1900-09-23,Yatra,New Delhi,05:25,19:50,14h 25m,1 Stop,"12,978",9,23
+322,"Air India
+AI-572/440",1900-09-23,Yatra,New Delhi,15:15,08:55+ 1 day,17h 40m,1 Stop,"12,978",9,23
+323,"Air India
+AI-573/430",1900-09-23,Yatra,New Delhi,18:50,12:50+ 1 day,18h 00m,1 Stop,"12,978",9,23
+324,"Air India
+AI-572/430",1900-09-23,Yatra,New Delhi,15:15,12:50+ 1 day,21h 35m,1 Stop,"12,978",9,23
+325,"Air India
+AI-671/440",1900-09-23,Yatra,New Delhi,09:00,08:55+ 1 day,23h 55m,1 Stop,"12,978",9,23
+326,"Air India
+AI-573/539",1900-09-23,Yatra,New Delhi,18:50,19:50+ 1 day,25h 00m,1 Stop,"12,978",9,23
+327,"Air Asia
+I5-1569/722",1900-09-23,Yatra,New Delhi,21:20,03:30+ 1 day,6h 10m,1 Stop,"13,259",9,23
+328,"Go First
+G8-511/102",1900-09-23,Yatra,New Delhi,06:55,16:45,9h 50m,1 Stop,"13,267",9,23
+329,"Air India
+AI-603/507",1900-09-23,Yatra,New Delhi,06:10,14:05,7h 55m,1 Stop,"13,293",9,23
+330,"Air India
+AI-615/541",1900-09-23,Yatra,New Delhi,06:00,18:30,12h 30m,1 Stop,"13,346",9,23
+331,"Go First
+G8-383/118",1900-09-23,Yatra,New Delhi,16:30,23:50,7h 20m,1 Stop,"13,476",9,23
+332,"Air India
+AI-675/402",1900-09-23,Yatra,New Delhi,06:00,13:00,7h 00m,1 Stop,"13,503",9,23
+333,"Go First
+G8-371/195",1900-09-23,Yatra,New Delhi,16:50,02:30+ 1 day,9h 40m,1 Stop,"13,947",9,23
+334,"Air India
+AI-675/768",1900-09-23,Yatra,New Delhi,06:00,17:55,11h 55m,1 Stop,"14,028",9,23
+335,"Air Asia
+I5-338/749",1900-09-23,Yatra,New Delhi,19:00,01:20+ 1 day,6h 20m,1 Stop,"14,833",9,23
+336,"Air Asia
+I5-338/722",1900-09-23,Yatra,New Delhi,19:00,03:30+ 1 day,8h 30m,1 Stop,"14,833",9,23
+337,"Air Asia
+I5-1784/1528",1900-09-23,Yatra,New Delhi,22:00,08:55+ 1 day,10h 55m,1 Stop,"14,833",9,23
+338,"Air India
+AI-639/501",1900-09-23,Yatra,New Delhi,09:30,16:05,6h 35m,1 Stop,"14,868",9,23
+339,"Air India
+AI-603/505",1900-09-23,Yatra,New Delhi,06:10,12:50,6h 40m,1 Stop,"14,868",9,23
+340,"Air India
+AI-603/501",1900-09-23,Yatra,New Delhi,06:10,16:05,9h 55m,1 Stop,"14,868",9,23
+341,"Air India
+AI-619/543",1900-09-23,Yatra,New Delhi,20:10,12:20+ 1 day,16h 10m,1 Stop,"15,341",9,23
+342,"Air India
+AI-774/763",1900-09-23,Yatra,New Delhi,21:05,09:15+ 1 day,12h 10m,1 Stop,"15,603",9,23
+343,"Air India
+AI-641/804",1900-09-23,Yatra,New Delhi,19:00,08:55+ 1 day,13h 55m,1 Stop,"15,603",9,23
+344,"Air India
+AI-617/541",1900-09-23,Yatra,New Delhi,11:05,18:30,7h 25m,1 Stop,"15,708",9,23
+345,"Go First
+G8-398/116",1900-09-23,Yatra,New Delhi,20:30,07:20+ 1 day,10h 50m,1 Stop,"15,851",9,23
+346,"Go First
+G8-287/149",1900-09-23,Yatra,New Delhi,10:50,21:00,10h 10m,2 Stop(s),"17,257",9,23
+347,"IndiGo
+6E-814/817",1900-09-23,Yatra,New Delhi,12:15,17:00,4h 45m,1 Stop,"18,911",9,23
+348,"Air India
+AI-685/886",1900-09-23,Yatra,New Delhi,05:05,16:45,11h 40m,1 Stop,"18,963",9,23
+349,"Air India
+AI-607/509",1900-09-23,Yatra,New Delhi,16:40,22:05,5h 25m,1 Stop,"19,593",9,23
+350,"Go First
+G8-331/285",1900-09-23,Yatra,New Delhi,11:30,20:00,8h 30m,1 Stop,"21,906",9,23
+351,"IndiGo
+6E-978/7205",1900-10-11,Yatra,Kolkata,16:10,22:40,6h 30m,1 Stop,"5,374",10,11
+352,"IndiGo
+6E-684/6494",1900-10-11,Yatra,Kolkata,22:10,05:15+ 1 day,7h 05m,1 Stop,"5,374",10,11
+353,"IndiGo
+6E-855/6494",1900-10-11,Yatra,Kolkata,21:15,05:15+ 1 day,8h 00m,1 Stop,"5,374",10,11
+354,"IndiGo
+6E-806/127",1900-10-11,Yatra,Kolkata,21:30,06:05+ 1 day,8h 35m,1 Stop,"5,374",10,11
+355,"IndiGo
+6E-947/127",1900-10-11,Yatra,Kolkata,00:35,06:05,5h 30m,1 Stop,"5,831",10,11
+356,"IndiGo
+6E-952",1900-10-11,Yatra,Kolkata,23:25,02:00+ 1 day,2h 35m,Non Stop,"6,214",10,11
+357,"Air Asia
+I5-974/558",1900-10-11,Yatra,Kolkata,22:00,03:15+ 1 day,5h 15m,1 Stop,"6,215",10,11
+358,"Air Asia
+I5-1576/517",1900-10-11,Yatra,Kolkata,07:35,14:15,6h 40m,1 Stop,"6,215",10,11
+359,"Air Asia
+I5-1562/320",1900-10-11,Yatra,Kolkata,14:20,22:00,7h 40m,1 Stop,"6,215",10,11
+360,"Air Asia
+I5-1532/582",1900-10-11,Yatra,Kolkata,19:55,08:30+ 1 day,12h 35m,1 Stop,"6,215",10,11
+361,"Air Asia
+I5-1426/558",1900-10-11,Yatra,Kolkata,12:50,03:15+ 1 day,14h 25m,1 Stop,"6,215",10,11
+362,"IndiGo
+6E-6366/6038",1900-10-11,Yatra,Kolkata,12:30,16:50,4h 20m,1 Stop,"6,288",10,11
+363,"IndiGo
+6E-538",1900-10-11,Yatra,Kolkata,22:25,00:35+ 1 day,2h 10m,Non Stop,"6,634",10,11
+364,"IndiGo
+6E-6473",1900-10-11,Yatra,Kolkata,05:00,07:30,2h 30m,Non Stop,"6,634",10,11
+365,"IndiGo
+6E-227",1900-10-11,Yatra,Kolkata,06:30,09:05,2h 35m,Non Stop,"6,634",10,11
+366,"IndiGo
+6E-6439",1900-10-11,Yatra,Kolkata,07:45,10:20,2h 35m,Non Stop,"6,634",10,11
+367,"IndiGo
+6E-442",1900-10-11,Yatra,Kolkata,09:15,11:50,2h 35m,Non Stop,"6,634",10,11
+368,"IndiGo
+6E-676",1900-10-11,Yatra,Kolkata,19:55,22:30,2h 35m,Non Stop,"6,634",10,11
+369,"IndiGo
+6E-484/376",1900-10-11,Yatra,Kolkata,07:10,13:20,6h 10m,1 Stop,"6,744",10,11
+370,"IndiGo
+6E-6212/986",1900-10-11,Yatra,Kolkata,11:10,18:10,7h 00m,1 Stop,"6,744",10,11
+371,"IndiGo
+6E-6257/376",1900-10-11,Yatra,Kolkata,05:15,13:20,8h 05m,1 Stop,"6,744",10,11
+372,"Air Asia
+I5-1455",1900-10-11,Yatra,Kolkata,17:10,19:50,2h 40m,Non Stop,"6,845",10,11
+373,"Air Asia
+I5-611",1900-10-11,Yatra,Kolkata,08:25,11:15,2h 50m,Non Stop,"6,845",10,11
+374,"IndiGo
+6E-217",1900-10-11,Yatra,Kolkata,18:10,20:35,2h 25m,Non Stop,"7,054",10,11
+375,"IndiGo
+6E-6572",1900-10-11,Yatra,Kolkata,15:25,18:00,2h 35m,Non Stop,"7,054",10,11
+376,"IndiGo
+6E-6491/283",1900-10-11,Yatra,Kolkata,12:50,19:15,6h 25m,1 Stop,"7,201",10,11
+377,"IndiGo
+6E-524/6705",1900-10-11,Yatra,Kolkata,10:05,18:35,8h 30m,1 Stop,"7,201",10,11
+378,"IndiGo
+6E-541/986",1900-10-11,Yatra,Kolkata,09:35,18:10,8h 35m,1 Stop,"7,201",10,11
+379,"IndiGo
+6E-172",1900-10-11,Yatra,Kolkata,13:40,16:05,2h 25m,Non Stop,"7,474",10,11
+380,"Air Asia
+I5-992",1900-10-11,Yatra,Kolkata,23:35,02:05+ 1 day,2h 30m,Non Stop,"7,475",10,11
+381,"Air Asia
+I5-592",1900-10-11,Yatra,Kolkata,18:05,20:50,2h 45m,Non Stop,"7,475",10,11
+382,"IndiGo
+6E-6212/6326",1900-10-11,Yatra,Kolkata,11:10,15:40,4h 30m,1 Stop,"7,658",10,11
+383,"IndiGo
+6E-537/6907",1900-10-11,Yatra,Kolkata,10:15,17:15,7h 00m,1 Stop,"7,658",10,11
+384,"IndiGo
+6E-886/6907",1900-10-11,Yatra,Kolkata,08:55,17:15,8h 20m,1 Stop,"7,658",10,11
+385,"IndiGo
+6E-6269/6326",1900-10-11,Yatra,Kolkata,07:00,15:40,8h 40m,1 Stop,"7,658",10,11
+386,"Go First
+G8-790",1900-10-11,Yatra,Kolkata,05:30,07:50,2h 20m,Non Stop,"7,740",10,11
+387,"Go First
+G8-791",1900-10-11,Yatra,Kolkata,20:00,22:20,2h 20m,Non Stop,"7,740",10,11
+388,"Air Asia
+I5-1562",1900-10-11,Yatra,Kolkata,14:20,18:05,3h 45m,1 Stop,"7,789",10,11
+389,"Air Asia
+I5-1567/1562",1900-10-11,Yatra,Kolkata,06:50,18:05,11h 15m,1 Stop,"7,789",10,11
+390,"IndiGo
+6E-503",1900-10-11,Yatra,Kolkata,11:55,14:20,2h 25m,Non Stop,"7,894",10,11
+391,"IndiGo
+6E-6212/6275",1900-10-11,Yatra,Kolkata,11:10,19:45,8h 35m,1 Stop,"8,115",10,11
+392,"IndiGo
+6E-6825/6326",1900-10-11,Yatra,Kolkata,08:05,15:40,7h 35m,1 Stop,"8,571",10,11
+393,"IndiGo
+6E-342/485",1900-10-11,Yatra,Kolkata,15:40,20:55,5h 15m,1 Stop,"9,028",10,11
+394,"IndiGo
+6E-541/6326",1900-10-11,Yatra,Kolkata,09:35,15:40,6h 05m,1 Stop,"9,028",10,11
+395,"IndiGo
+6E-6067/944",1900-10-11,Yatra,Kolkata,16:00,22:30,6h 30m,1 Stop,"9,485",10,11
+396,"Vistara
+UK-818/747",1900-10-11,Yatra,Kolkata,19:40,08:20+ 1 day,12h 40m,1 Stop,"9,551",10,11
+397,"Vistara
+UK-820/747",1900-10-11,Yatra,Kolkata,17:45,08:20+ 1 day,14h 35m,1 Stop,"9,551",10,11
+398,"Vistara
+UK-810/747",1900-10-11,Yatra,Kolkata,07:00,08:20+ 1 day,25h 20m,1 Stop,"9,551",10,11
+399,"IndiGo
+6E-638/6158",1900-10-11,Yatra,Kolkata,18:50,01:45+ 1 day,6h 55m,1 Stop,"9,627",10,11
+400,"Vistara
+UK-858/775",1900-10-11,Yatra,Kolkata,06:40,16:55,10h 15m,1 Stop,"9,742",10,11
+401,"Vistara
+UK-866/775",1900-10-11,Yatra,Kolkata,21:40,16:55+ 1 day,19h 15m,1 Stop,"9,742",10,11
+402,"Vistara
+UK-866/773",1900-10-11,Yatra,Kolkata,21:40,19:55+ 1 day,22h 15m,1 Stop,"9,742",10,11
+403,"Vistara
+UK-850/775",1900-10-11,Yatra,Kolkata,19:55,16:55+ 1 day,21h 00m,1 Stop,"9,889",10,11
+404,"Vistara
+UK-864/775",1900-10-11,Yatra,Kolkata,18:55,16:55+ 1 day,22h 00m,1 Stop,"9,889",10,11
+405,"Vistara
+UK-854/775",1900-10-11,Yatra,Kolkata,18:25,16:55+ 1 day,22h 30m,1 Stop,"9,889",10,11
+406,"Vistara
+UK-850/773",1900-10-11,Yatra,Kolkata,19:55,19:55+ 1 day,24h 00m,1 Stop,"9,889",10,11
+407,"Vistara
+UK-864/773",1900-10-11,Yatra,Kolkata,18:55,19:55+ 1 day,25h 00m,1 Stop,"9,889",10,11
+408,"Vistara
+UK-854/773",1900-10-11,Yatra,Kolkata,18:25,19:55+ 1 day,25h 30m,1 Stop,"9,889",10,11
+409,"IndiGo
+6E-841/6275",1900-10-11,Yatra,Kolkata,14:50,19:45,4h 55m,1 Stop,"9,942",10,11
+410,"Air India
+AI-642/675",1900-10-11,Yatra,Kolkata,21:20,08:50+ 1 day,11h 30m,1 Stop,"10,027",10,11
+411,"Air India
+AI-610/675",1900-10-11,Yatra,Kolkata,19:10,08:50+ 1 day,13h 40m,1 Stop,"10,027",10,11
+412,"Air India
+AI-604/675",1900-10-11,Yatra,Kolkata,08:25,08:50+ 1 day,24h 25m,1 Stop,"10,027",10,11
+413,"Air India
+AI-640/675",1900-10-11,Yatra,Kolkata,06:45,08:50+ 1 day,26h 05m,1 Stop,"10,027",10,11
+414,"Go First
+G8-803/532",1900-10-11,Yatra,Kolkata,18:45,08:35+ 1 day,13h 50m,1 Stop,"10,068",10,11
+415,"Vistara
+UK-866/771",1900-10-11,Yatra,Kolkata,21:40,09:40+ 1 day,12h 00m,1 Stop,"10,582",10,11
+416,"Vistara
+UK-814/747",1900-10-11,Yatra,Kolkata,21:15,08:20+ 1 day,11h 05m,1 Stop,"10,624",10,11
+417,"Vistara
+UK-814/705",1900-10-11,Yatra,Kolkata,21:15,09:35+ 1 day,12h 20m,1 Stop,"10,624",10,11
+418,"Vistara
+UK-802/747",1900-10-11,Yatra,Kolkata,18:45,08:20+ 1 day,13h 35m,1 Stop,"10,624",10,11
+419,"Vistara
+UK-818/705",1900-10-11,Yatra,Kolkata,19:40,09:35+ 1 day,13h 55m,1 Stop,"10,624",10,11
+420,"Vistara
+UK-850/986/747",1900-10-11,Yatra,Kolkata,19:55,08:20+ 1 day,12h 25m,2 Stop(s),"10,737",10,11
+421,"Vistara
+UK-864/986/747",1900-10-11,Yatra,Kolkata,18:55,08:20+ 1 day,13h 25m,2 Stop(s),"10,737",10,11
+422,"Vistara
+UK-854/986/747",1900-10-11,Yatra,Kolkata,18:25,08:20+ 1 day,13h 55m,2 Stop(s),"10,737",10,11
+423,"Vistara
+UK-854/988/747",1900-10-11,Yatra,Kolkata,18:25,08:20+ 1 day,13h 55m,2 Stop(s),"10,737",10,11
+424,"IndiGo
+6E-6017/6123",1900-10-11,Yatra,Kolkata,18:35,23:15,4h 40m,1 Stop,"10,855",10,11
+425,"SpiceJet
+SG-767",1900-10-11,Yatra,Kolkata,22:40,01:10+ 1 day,2h 30m,Non Stop,"11,043",10,11
+426,"Air India
+AI-604/774",1900-10-11,Yatra,Kolkata,08:25,23:50,15h 25m,1 Stop,"11,182",10,11
+427,"Air India
+AI-640/774",1900-10-11,Yatra,Kolkata,06:45,23:50,17h 05m,1 Stop,"11,182",10,11
+428,"IndiGo
+6E-356/6123",1900-10-11,Yatra,Kolkata,17:25,23:15,5h 50m,1 Stop,"11,769",10,11
+429,"SpiceJet
+SG-768/9510",1900-10-11,Yatra,Kolkata,16:00,21:40,5h 40m,1 Stop,"12,220",10,11
+430,"Vistara
+UK-897/830/747",1900-10-11,Yatra,Kolkata,07:45,08:20+ 1 day,24h 35m,2 Stop(s),"12,228",10,11
+431,"Vistara
+UK-897/880/747",1900-10-11,Yatra,Kolkata,07:45,08:20+ 1 day,24h 35m,2 Stop(s),"12,228",10,11
+432,"Vistara
+UK-897/870/747",1900-10-11,Yatra,Kolkata,07:45,08:20+ 1 day,24h 35m,2 Stop(s),"12,228",10,11
+433,"Vistara
+UK-897/890/747",1900-10-11,Yatra,Kolkata,07:45,08:20+ 1 day,24h 35m,2 Stop(s),"12,228",10,11
+434,"Go First
+G8-283/394",1900-10-11,Yatra,Kolkata,05:30,16:00,10h 30m,1 Stop,"12,570",10,11
+435,"IndiGo
+6E-841/923",1900-10-11,Yatra,Kolkata,14:50,21:50,7h 00m,1 Stop,"12,682",10,11
+436,"IndiGo
+6E-841/6123",1900-10-11,Yatra,Kolkata,14:50,23:15,8h 25m,1 Stop,"12,682",10,11
+437,"IndiGo
+6E-7102/6038",1900-10-11,Yatra,Kolkata,09:40,16:50,7h 10m,2 Stop(s),"12,735",10,11
+438,"SpiceJet
+SG-536/8263",1900-10-11,Yatra,Kolkata,17:30,09:05+ 1 day,15h 35m,1 Stop,"12,853",10,11
+439,"SpiceJet
+SG-136/8263",1900-10-11,Yatra,Kolkata,05:55,09:05+ 1 day,27h 10m,1 Stop,"12,853",10,11
+440,"SpiceJet
+SG-536/8251",1900-10-11,Yatra,Kolkata,17:30,21:00+ 1 day,27h 30m,1 Stop,"12,853",10,11
+441,"Vistara
+UK-893/872/775",1900-10-11,Yatra,Kolkata,20:10,16:55+ 1 day,20h 45m,2 Stop(s),"12,934",10,11
+442,"Vistara
+UK-893/874/775",1900-10-11,Yatra,Kolkata,20:10,16:55+ 1 day,20h 45m,2 Stop(s),"12,934",10,11
+443,"Vistara
+UK-893/878/773",1900-10-11,Yatra,Kolkata,20:10,19:55+ 1 day,23h 45m,2 Stop(s),"12,934",10,11
+444,"Vistara
+UK-893/872/773",1900-10-11,Yatra,Kolkata,20:10,19:55+ 1 day,23h 45m,2 Stop(s),"12,934",10,11
+445,"Vistara
+UK-893/874/773",1900-10-11,Yatra,Kolkata,20:10,19:55+ 1 day,23h 45m,2 Stop(s),"12,934",10,11
+446,"Vistara
+UK-551/972/747",1900-10-11,Yatra,Kolkata,04:30,08:20+ 1 day,27h 50m,2 Stop(s),"12,995",10,11
+447,"Vistara
+UK-551/998/747",1900-10-11,Yatra,Kolkata,04:30,08:20+ 1 day,27h 50m,2 Stop(s),"12,995",10,11
+448,"Vistara
+UK-897/880/705",1900-10-11,Yatra,Kolkata,07:45,09:35+ 1 day,25h 50m,2 Stop(s),"13,449",10,11
+449,"Vistara
+UK-897/870/705",1900-10-11,Yatra,Kolkata,07:45,09:35+ 1 day,25h 50m,2 Stop(s),"13,449",10,11
+450,"Vistara
+UK-893/830/727",1900-10-11,Yatra,Kolkata,20:10,22:45+ 1 day,26h 35m,2 Stop(s),"13,449",10,11
+451,"Vistara
+UK-816/737",1900-10-11,Yatra,Kolkata,11:30,18:05,6h 35m,1 Stop,"13,520",10,11
+452,"Vistara
+UK-806/737",1900-10-11,Yatra,Kolkata,09:45,18:05,8h 20m,1 Stop,"13,520",10,11
+453,"Go First
+G8-395/520",1900-10-11,Yatra,Kolkata,08:20,22:45,14h 25m,1 Stop,"13,930",10,11
+454,"Vistara
+UK-553/992/747",1900-10-11,Yatra,Kolkata,16:45,08:20+ 1 day,15h 35m,2 Stop(s),"14,215",10,11
+455,"Vistara
+UK-553/992/705",1900-10-11,Yatra,Kolkata,16:45,09:35+ 1 day,16h 50m,2 Stop(s),"14,215",10,11
+456,"SpiceJet
+SG-136/8254",1900-10-11,Yatra,Kolkata,05:55,22:35,16h 40m,1 Stop,"14,271",10,11
+457,"SpiceJet
+SG-136/8921",1900-10-11,Yatra,Kolkata,05:55,23:25,17h 30m,1 Stop,"14,271",10,11
+458,"Air Asia
+I5-2472/319",1900-10-11,Yatra,Kolkata,06:50,12:40,5h 50m,1 Stop,"14,430",10,11
+459,"Air India
+AI-509/401",1900-10-11,Yatra,Kolkata,19:15,09:00+ 1 day,13h 45m,1 Stop,"14,614",10,11
+460,"Air India
+AI-503/401",1900-10-11,Yatra,Kolkata,17:10,09:00+ 1 day,15h 50m,1 Stop,"14,614",10,11
+461,"SpiceJet
+SG-136/8251",1900-10-11,Yatra,Kolkata,05:55,21:00,15h 05m,1 Stop,"14,795",10,11
+462,"Vistara
+UK-852/952/737",1900-10-11,Yatra,Kolkata,09:30,18:05,8h 35m,2 Stop(s),"15,429",10,11
+463,"Air Asia
+I5-1426/320",1900-10-11,Yatra,Kolkata,12:50,22:00,9h 10m,2 Stop(s),"15,563",10,11
+464,"Air India
+AI-507/762",1900-10-11,Yatra,Kolkata,11:15,22:25,11h 10m,1 Stop,"15,874",10,11
+465,"Air India
+AI-505/762",1900-10-11,Yatra,Kolkata,10:00,22:25,12h 25m,1 Stop,"15,874",10,11
+466,"Air India
+AI-804/762",1900-10-11,Yatra,Kolkata,06:10,22:25,16h 15m,1 Stop,"15,874",10,11
+467,"Go First
+G8-118/101",1900-10-11,Yatra,Kolkata,21:00,07:50+ 1 day,10h 50m,1 Stop,"16,218",10,11
+468,"Vistara
+UK-897/830/737",1900-10-11,Yatra,Kolkata,07:45,18:05,10h 20m,2 Stop(s),"16,817",10,11
+469,"Air India
+AI-804/767",1900-10-11,Yatra,Kolkata,06:10,14:30,8h 20m,1 Stop,"17,502",10,11
+470,"Air India
+AI-509/767",1900-10-11,Yatra,Kolkata,19:15,14:30+ 1 day,19h 15m,1 Stop,"17,502",10,11
+471,"Air India
+AI-507/764",1900-10-11,Yatra,Kolkata,11:15,19:10,7h 55m,1 Stop,"18,919",10,11
+472,"Air India
+AI-505/764",1900-10-11,Yatra,Kolkata,10:00,19:10,9h 10m,1 Stop,"18,919",10,11
+473,"Air India
+AI-804/764",1900-10-11,Yatra,Kolkata,06:10,19:10,13h 00m,1 Stop,"18,919",10,11
+474,"Vistara
+UK-816/707",1900-10-11,Yatra,Kolkata,11:30,19:35,8h 05m,1 Stop,"23,067",10,11
+475,"SpiceJet
+SG-327/3230",1900-10-11,Yatra,Kolkata,08:30,18:10,9h 40m,1 Stop,"25,323",10,11
+476,"Vistara
+UK-657/707",1900-10-11,Yatra,Kolkata,11:30,19:35,8h 05m,2 Stop(s),"27,109",10,11
+477,"Air Asia
+I5-1780/583",1900-10-11,Yatra,Kolkata,05:20,12:05,6h 45m,1 Stop,"31,000",10,11
+478,"Air Asia
+I5-1780/612",1900-10-11,Yatra,Kolkata,05:20,14:50,9h 30m,1 Stop,"32,574",10,11
+479,"IndiGo
+6E-568/979",1900-10-11,Yatra,Bangalore,15:00,20:30,5h 30m,1 Stop,"6,507",10,11
+480,"IndiGo
+6E-6926/185",1900-10-11,Yatra,Bangalore,14:40,21:25,6h 45m,1 Stop,"6,507",10,11
+481,"IndiGo
+6E-6324/6162",1900-10-11,Yatra,Bangalore,07:05,14:20,7h 15m,1 Stop,"6,507",10,11
+482,"IndiGo
+6E-114/6652",1900-10-11,Yatra,Bangalore,18:00,01:15+ 1 day,7h 15m,1 Stop,"6,507",10,11
+483,"IndiGo
+6E-378/499",1900-10-11,Yatra,Bangalore,14:15,22:20,8h 05m,1 Stop,"6,507",10,11
+484,"IndiGo
+6E-775/413",1900-10-11,Yatra,Bangalore,23:10,08:15+ 1 day,9h 05m,1 Stop,"6,507",10,11
+485,"IndiGo
+6E-7623/6197",1900-10-11,Yatra,Bangalore,07:40,16:50,9h 10m,1 Stop,"6,507",10,11
+486,"Air Asia
+I5-541/1565",1900-10-11,Yatra,Bangalore,05:25,11:20,5h 55m,1 Stop,"6,508",10,11
+487,"Air Asia
+I5-1563/1534",1900-10-11,Yatra,Bangalore,18:40,00:40+ 1 day,6h 00m,1 Stop,"6,508",10,11
+488,"Air Asia
+I5-554/387",1900-10-11,Yatra,Bangalore,21:40,07:10+ 1 day,9h 30m,1 Stop,"6,508",10,11
+489,"Air Asia
+I5-510/1543",1900-10-11,Yatra,Bangalore,04:50,15:35,10h 45m,1 Stop,"6,508",10,11
+490,"Air Asia
+I5-2991",1900-10-11,Yatra,Bangalore,20:25,23:10,2h 45m,Non Stop,"7,138",10,11
+491,"IndiGo
+6E-264",1900-10-11,Yatra,Bangalore,18:45,21:05,2h 20m,Non Stop,"7,347",10,11
+492,"IndiGo
+6E-6438",1900-10-11,Yatra,Bangalore,04:30,06:55,2h 25m,Non Stop,"7,347",10,11
+493,"IndiGo
+6E-6683",1900-10-11,Yatra,Bangalore,23:20,02:05+ 1 day,2h 45m,Non Stop,"7,347",10,11
+494,"Air Asia
+I5-319/1563",1900-10-11,Yatra,Bangalore,13:15,22:30,9h 15m,1 Stop,"7,348",10,11
+495,"Air Asia
+I5-319/1534",1900-10-11,Yatra,Bangalore,13:15,00:40+ 1 day,11h 25m,1 Stop,"7,348",10,11
+496,"IndiGo
+6E-6623/6066",1900-10-11,Yatra,Bangalore,05:55,10:35,4h 40m,1 Stop,"7,484",10,11
+497,"IndiGo
+6E-139/406",1900-10-11,Yatra,Bangalore,07:25,12:05,4h 40m,1 Stop,"7,484",10,11
+498,"IndiGo
+6E-496",1900-10-11,Yatra,Bangalore,06:45,09:15,2h 30m,Non Stop,"7,767",10,11
+499,"IndiGo
+6E-6314",1900-10-11,Yatra,Bangalore,19:55,22:25,2h 30m,Non Stop,"7,767",10,11
+500,"IndiGo
+6E-573",1900-10-11,Yatra,Bangalore,21:20,23:50,2h 30m,Non Stop,"7,767",10,11
+501,"IndiGo
+6E-958",1900-10-11,Yatra,Bangalore,13:55,16:35,2h 40m,Non Stop,"7,767",10,11
+502,"Air Asia
+I5-612",1900-10-11,Yatra,Bangalore,15:30,18:10,2h 40m,Non Stop,"7,768",10,11
+503,"Air Asia
+I5-991",1900-10-11,Yatra,Bangalore,17:00,19:40,2h 40m,Non Stop,"7,768",10,11
+504,"IndiGo
+6E-6908/6505",1900-10-11,Yatra,Bangalore,18:00,23:40,5h 40m,1 Stop,"7,972",10,11
+505,"IndiGo
+6E-771",1900-10-11,Yatra,Bangalore,05:40,08:05,2h 25m,Non Stop,"8,187",10,11
+506,"IndiGo
+6E-757",1900-10-11,Yatra,Bangalore,16:45,19:15,2h 30m,Non Stop,"8,187",10,11
+507,"Air Asia
+I5-588",1900-10-11,Yatra,Bangalore,14:45,17:20,2h 35m,Non Stop,"8,398",10,11
+508,"IndiGo
+6E-989/6137",1900-10-11,Yatra,Bangalore,04:45,09:55,5h 10m,1 Stop,"8,460",10,11
+509,"IndiGo
+6E-725/949",1900-10-11,Yatra,Bangalore,19:55,01:15+ 1 day,5h 20m,1 Stop,"8,460",10,11
+510,"IndiGo
+6E-989/6605",1900-10-11,Yatra,Bangalore,04:45,14:00,9h 15m,1 Stop,"8,460",10,11
+511,"IndiGo
+6E-455",1900-10-11,Yatra,Bangalore,12:05,14:40,2h 35m,Non Stop,"8,607",10,11
+512,"IndiGo
+6E-713",1900-10-11,Yatra,Bangalore,08:40,11:10,2h 30m,Non Stop,"9,132",10,11
+513,"Air Asia
+I5-1563",1900-10-11,Yatra,Bangalore,18:40,22:30,3h 50m,1 Stop,"9,132",10,11
+514,"IndiGo
+6E-6908/949",1900-10-11,Yatra,Bangalore,18:00,01:15+ 1 day,7h 15m,1 Stop,"9,437",10,11
+515,"Vistara
+UK-774/845",1900-10-11,Yatra,Bangalore,20:35,07:50+ 1 day,11h 15m,1 Stop,"9,809",10,11
+516,"Vistara
+UK-708/811",1900-10-11,Yatra,Bangalore,20:20,09:00+ 1 day,12h 40m,1 Stop,"9,844",10,11
+517,"Vistara
+UK-708/815",1900-10-11,Yatra,Bangalore,20:20,10:50+ 1 day,14h 30m,1 Stop,"9,844",10,11
+518,"Vistara
+UK-708/817",1900-10-11,Yatra,Bangalore,20:20,18:50+ 1 day,22h 30m,1 Stop,"9,844",10,11
+519,"Vistara
+UK-708/813",1900-10-11,Yatra,Bangalore,20:20,20:25+ 1 day,24h 05m,1 Stop,"9,844",10,11
+520,"Vistara
+UK-708/809",1900-10-11,Yatra,Bangalore,20:20,22:40+ 1 day,26h 20m,1 Stop,"9,844",10,11
+521,"Vistara
+UK-708/807",1900-10-11,Yatra,Bangalore,20:20,23:20+ 1 day,27h 00m,1 Stop,"9,844",10,11
+522,"IndiGo
+6E-512/776",1900-10-11,Yatra,Bangalore,13:20,20:25,7h 05m,1 Stop,"9,925",10,11
+523,"IndiGo
+6E-946/797",1900-10-11,Yatra,Bangalore,23:55,08:40+ 1 day,8h 45m,1 Stop,"9,925",10,11
+524,"Vistara
+UK-776/845",1900-10-11,Yatra,Bangalore,17:35,07:50+ 1 day,14h 15m,1 Stop,"10,124",10,11
+525,"Vistara
+UK-774/851",1900-10-11,Yatra,Bangalore,20:35,08:50+ 1 day,12h 15m,1 Stop,"10,172",10,11
+526,"IndiGo
+6E-563/6605",1900-10-11,Yatra,Bangalore,08:25,14:00,5h 35m,1 Stop,"10,413",10,11
+527,"Vistara
+UK-776/851",1900-10-11,Yatra,Bangalore,17:35,08:50+ 1 day,15h 15m,1 Stop,"10,487",10,11
+528,"Vistara
+UK-772/845",1900-10-11,Yatra,Bangalore,10:25,07:50+ 1 day,21h 25m,1 Stop,"10,649",10,11
+529,"Vistara
+UK-774/843",1900-10-11,Yatra,Bangalore,20:35,19:15+ 1 day,22h 40m,1 Stop,"10,684",10,11
+530,"Vistara
+UK-774/857",1900-10-11,Yatra,Bangalore,20:35,23:10+ 1 day,26h 35m,1 Stop,"10,684",10,11
+531,"Air India
+AI-676/607",1900-10-11,Yatra,Bangalore,09:25,18:20,8h 55m,1 Stop,"10,845",10,11
+532,"Air India
+AI-676/603",1900-10-11,Yatra,Bangalore,09:25,07:50+ 1 day,22h 25m,1 Stop,"10,845",10,11
+533,"Air India
+AI-676/639",1900-10-11,Yatra,Bangalore,09:25,11:10+ 1 day,25h 45m,1 Stop,"10,845",10,11
+534,"IndiGo
+6E-989/6892",1900-10-11,Yatra,Bangalore,04:45,12:10,7h 25m,1 Stop,"10,901",10,11
+535,"Vistara
+UK-738/811",1900-10-11,Yatra,Bangalore,18:45,09:00+ 1 day,14h 15m,1 Stop,"10,917",10,11
+536,"Vistara
+UK-738/815",1900-10-11,Yatra,Bangalore,18:45,10:50+ 1 day,16h 05m,1 Stop,"10,917",10,11
+537,"Vistara
+UK-776/843",1900-10-11,Yatra,Bangalore,17:35,19:15+ 1 day,25h 40m,1 Stop,"10,999",10,11
+538,"Vistara
+UK-772/851",1900-10-11,Yatra,Bangalore,10:25,08:50+ 1 day,22h 25m,1 Stop,"11,012",10,11
+539,"IndiGo
+6E-6623/827",1900-10-11,Yatra,Bangalore,05:55,13:10,7h 15m,1 Stop,"11,127",10,11
+540,"Air India
+AI-676/641",1900-10-11,Yatra,Bangalore,09:25,20:40,11h 15m,1 Stop,"11,370",10,11
+541,"Air Asia
+I5-634/1531",1900-10-11,Yatra,Bangalore,08:40,19:25,10h 45m,1 Stop,"11,371",10,11
+542,"Vistara
+UK-774/863",1900-10-11,Yatra,Bangalore,20:35,10:45+ 1 day,14h 10m,1 Stop,"11,432",10,11
+543,"Vistara
+UK-774/853",1900-10-11,Yatra,Bangalore,20:35,17:45+ 1 day,21h 10m,1 Stop,"11,432",10,11
+544,"Air India
+AI-773/603",1900-10-11,Yatra,Bangalore,17:15,07:50+ 1 day,14h 35m,1 Stop,"11,475",10,11
+545,"Air India
+AI-773/639",1900-10-11,Yatra,Bangalore,17:15,11:10+ 1 day,17h 55m,1 Stop,"11,475",10,11
+546,"Air India
+AI-773/607",1900-10-11,Yatra,Bangalore,17:15,18:20+ 1 day,25h 05m,1 Stop,"11,475",10,11
+547,"Go First
+G8-789",1900-10-11,Yatra,Bangalore,05:45,08:15,2h 30m,Non Stop,"11,496",10,11
+548,"Go First
+G8-792",1900-10-11,Yatra,Bangalore,16:45,19:15,2h 30m,Non Stop,"11,496",10,11
+549,"IndiGo
+6E-7583/431",1900-10-11,Yatra,Bangalore,16:25,01:30+ 1 day,9h 05m,1 Stop,"11,878",10,11
+550,"Vistara
+UK-706/819",1900-10-11,Yatra,Bangalore,10:15,17:05,6h 50m,1 Stop,"11,990",10,11
+551,"Go First
+G8-537/804",1900-10-11,Yatra,Bangalore,16:40,23:40,7h 00m,1 Stop,"11,993",10,11
+552,"Air Asia
+I5-634/338",1900-10-11,Yatra,Bangalore,08:40,20:50,12h 10m,2 Stop(s),"12,622",10,11
+553,"IndiGo
+6E-833/6381",1900-10-11,Yatra,Bangalore,10:30,18:50,8h 20m,1 Stop,"12,854",10,11
+554,"SpiceJet
+SG-8922/191",1900-10-11,Yatra,Bangalore,23:55,08:55+ 1 day,9h 00m,1 Stop,"12,982",10,11
+555,"SpiceJet
+SG-8252/191",1900-10-11,Yatra,Bangalore,21:45,08:55+ 1 day,11h 10m,1 Stop,"12,982",10,11
+556,"SpiceJet
+SG-8922/537",1900-10-11,Yatra,Bangalore,23:55,22:30+ 1 day,22h 35m,1 Stop,"12,982",10,11
+557,"SpiceJet
+SG-8252/537",1900-10-11,Yatra,Bangalore,21:45,22:30+ 1 day,24h 45m,1 Stop,"12,982",10,11
+558,"IndiGo
+6E-833/6343",1900-10-11,Yatra,Bangalore,10:30,17:15,6h 45m,1 Stop,"13,001",10,11
+559,"SpiceJet
+SG-8373/537",1900-10-11,Yatra,Bangalore,07:30,22:30,15h 00m,1 Stop,"13,145",10,11
+560,"SpiceJet
+SG-8264/191",1900-10-11,Yatra,Bangalore,15:40,08:55+ 1 day,17h 15m,1 Stop,"13,145",10,11
+561,"SpiceJet
+SG-8373/191",1900-10-11,Yatra,Bangalore,07:30,08:55+ 1 day,25h 25m,1 Stop,"13,145",10,11
+562,"Go First
+G8-519/398",1900-10-11,Yatra,Bangalore,16:45,22:25,5h 40m,1 Stop,"13,276",10,11
+563,"Go First
+G8-519/325",1900-10-11,Yatra,Bangalore,16:45,00:30+ 1 day,7h 45m,1 Stop,"13,276",10,11
+564,"Go First
+G8-519/317",1900-10-11,Yatra,Bangalore,16:45,07:45+ 1 day,15h 00m,1 Stop,"13,276",10,11
+565,"IndiGo
+6E-563/6343",1900-10-11,Yatra,Bangalore,08:25,17:15,8h 50m,1 Stop,"13,343",10,11
+566,"Vistara
+UK-708/963/843",1900-10-11,Yatra,Bangalore,20:20,19:15+ 1 day,22h 55m,2 Stop(s),"13,752",10,11
+567,"Go First
+G8-393/242",1900-10-11,Yatra,Bangalore,10:30,21:15,10h 45m,1 Stop,"14,227",10,11
+568,"Go First
+G8-393/284",1900-10-11,Yatra,Bangalore,10:30,00:20+ 1 day,13h 50m,1 Stop,"14,227",10,11
+569,"Vistara
+UK-706/951/843",1900-10-11,Yatra,Bangalore,10:15,19:15,9h 00m,2 Stop(s),"14,500",10,11
+570,"Vistara
+UK-708/847/868",1900-10-11,Yatra,Bangalore,20:20,15:55+ 1 day,19h 35m,2 Stop(s),"15,012",10,11
+571,"Vistara
+UK-738/847/868",1900-10-11,Yatra,Bangalore,18:45,15:55+ 1 day,21h 10m,2 Stop(s),"15,012",10,11
+572,"IndiGo
+6E-892/6225",1900-10-11,Yatra,Bangalore,14:35,22:35,8h 00m,1 Stop,"15,296",10,11
+573,"Vistara
+UK-774/841/868",1900-10-11,Yatra,Bangalore,20:35,15:55+ 1 day,19h 20m,2 Stop(s),"15,332",10,11
+574,"Vistara
+UK-776/841/868",1900-10-11,Yatra,Bangalore,17:35,15:55+ 1 day,22h 20m,2 Stop(s),"15,332",10,11
+575,"Vistara
+UK-772/841/868",1900-10-11,Yatra,Bangalore,10:25,15:55+ 1 day,29h 30m,2 Stop(s),"15,332",10,11
+576,"Vistara
+UK-706/899/894",1900-10-11,Yatra,Bangalore,10:15,19:30,9h 15m,2 Stop(s),"15,665",10,11
+577,"Air India
+AI-733/890/504",1900-10-11,Yatra,Bangalore,10:00,00:05+ 1 day,14h 05m,3 Stop(s),"15,950",10,11
+578,"Air India
+AI-733/890/803",1900-10-11,Yatra,Bangalore,10:00,08:55+ 1 day,22h 55m,3 Stop(s),"15,950",10,11
+579,"Air India
+AI-733/890/813",1900-10-11,Yatra,Bangalore,10:00,10:30+ 1 day,24h 30m,3 Stop(s),"15,950",10,11
+580,"Air India
+AI-733/890/506",1900-10-11,Yatra,Bangalore,10:00,12:30+ 1 day,26h 30m,3 Stop(s),"15,950",10,11
+581,"Air India
+AI-733/890/815",1900-10-11,Yatra,Bangalore,10:00,18:20+ 1 day,32h 20m,3 Stop(s),"15,950",10,11
+582,"Vistara
+UK-706/997/554",1900-10-11,Yatra,Bangalore,10:15,20:30,10h 15m,2 Stop(s),"15,980",10,11
+583,"Vistara
+UK-706/855/868",1900-10-11,Yatra,Bangalore,10:15,15:55+ 1 day,29h 40m,2 Stop(s),"16,085",10,11
+584,"Air India
+AI-402/807",1900-10-11,Yatra,Bangalore,10:30,20:15,9h 45m,1 Stop,"16,167",10,11
+585,"Air India
+AI-763/807",1900-10-11,Yatra,Bangalore,06:50,20:15,13h 25m,1 Stop,"16,167",10,11
+586,"Air India
+AI-768/803",1900-10-11,Yatra,Bangalore,15:30,08:55+ 1 day,17h 25m,1 Stop,"16,167",10,11
+587,"Air India
+AI-768/813",1900-10-11,Yatra,Bangalore,15:30,10:30+ 1 day,19h 00m,1 Stop,"16,167",10,11
+588,"Air India
+AI-777/490/803",1900-10-11,Yatra,Bangalore,16:10,08:55+ 1 day,16h 45m,2 Stop(s),"16,376",10,11
+589,"Air India
+AI-777/490/813",1900-10-11,Yatra,Bangalore,16:10,10:30+ 1 day,18h 20m,2 Stop(s),"16,376",10,11
+590,"Air India
+AI-777/490/506",1900-10-11,Yatra,Bangalore,16:10,12:30+ 1 day,20h 20m,2 Stop(s),"16,376",10,11
+591,"Air India
+AI-777/490/815",1900-10-11,Yatra,Bangalore,16:10,18:20+ 1 day,26h 10m,2 Stop(s),"16,376",10,11
+592,"Air India
+AI-777/490/807",1900-10-11,Yatra,Bangalore,16:10,20:15+ 1 day,28h 05m,2 Stop(s),"16,376",10,11
+593,"Air Asia
+I5-319/1427",1900-10-11,Yatra,Bangalore,13:15,21:00,7h 45m,2 Stop(s),"16,610",10,11
+594,"Air Asia
+I5-319/975",1900-10-11,Yatra,Bangalore,13:15,01:35+ 1 day,12h 20m,2 Stop(s),"16,610",10,11
+595,"Air India
+AI-402/815",1900-10-11,Yatra,Bangalore,10:30,18:20,7h 50m,1 Stop,"16,692",10,11
+596,"Air India
+AI-763/815",1900-10-11,Yatra,Bangalore,06:50,18:20,11h 30m,1 Stop,"16,692",10,11
+597,"IndiGo
+6E-892/189",1900-10-11,Yatra,Bangalore,14:35,19:55,5h 20m,1 Stop,"17,306",10,11
+598,"SpiceJet
+SG-3229/328",1900-10-11,Yatra,Bangalore,14:45,15:10+ 1 day,24h 25m,1 Stop,"17,636",10,11
+599,"Air India
+AI-770/803",1900-10-11,Yatra,Bangalore,20:15,08:55+ 1 day,12h 40m,1 Stop,"17,795",10,11
+600,"Air India
+AI-770/813",1900-10-11,Yatra,Bangalore,20:15,10:30+ 1 day,14h 15m,1 Stop,"17,795",10,11
+601,"Air India
+AI-770/506",1900-10-11,Yatra,Bangalore,20:15,12:30+ 1 day,16h 15m,1 Stop,"17,795",10,11
+602,"Air India
+AI-770/815",1900-10-11,Yatra,Bangalore,20:15,18:20+ 1 day,22h 05m,1 Stop,"17,795",10,11
+603,"Vistara
+UK-778/807",1900-10-11,Yatra,Bangalore,15:20,23:20,8h 00m,1 Stop,"18,005",10,11
+604,"Vistara
+UK-778/809",1900-10-11,Yatra,Bangalore,15:20,22:40,7h 20m,1 Stop,"18,057",10,11
+605,"Air India
+AI-770/502",1900-10-11,Yatra,Bangalore,20:15,16:15+ 1 day,20h 00m,1 Stop,"18,320",10,11
+606,"Vistara
+UK-720/847/868",1900-10-11,Yatra,Bangalore,07:10,15:55,8h 45m,2 Stop(s),"18,979",10,11
+607,"IndiGo
+6E-6021/6352",1900-10-11,Yatra,Bangalore,14:00,20:40,6h 40m,1 Stop,"20,000",10,11
+608,"IndiGo
+6E-6021/285",1900-10-11,Yatra,Bangalore,14:00,21:35,7h 35m,1 Stop,"20,000",10,11
+609,"IndiGo
+6E-6513/6319",1900-10-11,Yatra,Bangalore,08:55,17:55,9h 00m,1 Stop,"20,000",10,11
+610,"Go First
+G8-102/119",1900-10-11,Yatra,Bangalore,14:20,23:30,9h 10m,1 Stop,"24,595",10,11
+611,"IndiGo
+6E-6805",1900-10-11,Yatra,Hyderabad,16:25,17:25,1h 00m,Non Stop,"4,363",10,11
+612,"IndiGo
+6E-562",1900-10-11,Yatra,Hyderabad,17:00,18:05,1h 05m,Non Stop,"4,363",10,11
+613,"IndiGo
+6E-156",1900-10-11,Yatra,Hyderabad,21:20,22:25,1h 05m,Non Stop,"4,363",10,11
+614,"IndiGo
+6E-6309",1900-10-11,Yatra,Hyderabad,04:50,06:00,1h 10m,Non Stop,"4,363",10,11
+615,"IndiGo
+6E-193",1900-10-11,Yatra,Hyderabad,19:25,20:35,1h 10m,Non Stop,"4,363",10,11
+616,"IndiGo
+6E-269",1900-10-11,Yatra,Hyderabad,09:25,10:45,1h 20m,Non Stop,"4,363",10,11
+617,"Alliance Air
+9I-894",1900-10-11,Yatra,Hyderabad,08:55,10:35,1h 40m,Non Stop,"4,363",10,11
+618,"IndiGo
+6E-6137/6491",1900-10-11,Yatra,Hyderabad,09:00,13:55,4h 55m,1 Stop,"4,363",10,11
+619,"IndiGo
+6E-6605/855",1900-10-11,Yatra,Hyderabad,13:00,22:35,9h 35m,1 Stop,"4,363",10,11
+620,"Air Asia
+I5-517",1900-10-11,Yatra,Hyderabad,10:15,11:25,1h 10m,Non Stop,"4,364",10,11
+621,"IndiGo
+6E-495",1900-10-11,Yatra,Hyderabad,06:35,07:45,1h 10m,Non Stop,"4,468",10,11
+622,"IndiGo
+6E-917",1900-10-11,Yatra,Hyderabad,12:00,13:05,1h 05m,Non Stop,"4,678",10,11
+623,"IndiGo
+6E-6605/6067",1900-10-11,Yatra,Hyderabad,13:00,16:55,3h 55m,1 Stop,"4,746",10,11
+624,"IndiGo
+6E-6137/6067",1900-10-11,Yatra,Hyderabad,09:00,16:55,7h 55m,1 Stop,"4,746",10,11
+625,"IndiGo
+6E-797/6491",1900-10-11,Yatra,Hyderabad,07:45,13:55,6h 10m,1 Stop,"5,513",10,11
+626,"IndiGo
+6E-6225/6257",1900-10-11,Yatra,Hyderabad,21:35,06:30+ 1 day,8h 55m,1 Stop,"5,513",10,11
+627,"IndiGo
+6E-6343/855",1900-10-11,Yatra,Hyderabad,16:20,22:35,6h 15m,1 Stop,"5,896",10,11
+628,"IndiGo
+6E-6343/684",1900-10-11,Yatra,Hyderabad,16:20,23:20,7h 00m,1 Stop,"5,896",10,11
+629,"Air Asia
+I5-821/1576",1900-10-11,Yatra,Hyderabad,22:35,08:45+ 1 day,10h 10m,1 Stop,"6,044",10,11
+630,"IndiGo
+6E-7187/7229",1900-10-11,Yatra,Hyderabad,10:20,18:20,8h 00m,1 Stop,"6,835",10,11
+631,"IndiGo
+6E-7187/7312",1900-10-11,Yatra,Hyderabad,10:20,20:10,9h 50m,1 Stop,"6,835",10,11
+632,"Vistara
+UK-828/877",1900-10-11,Yatra,Hyderabad,07:00,12:15,5h 15m,1 Stop,"6,975",10,11
+633,"Vistara
+UK-826/869",1900-10-11,Yatra,Hyderabad,12:30,22:40,10h 10m,1 Stop,"6,975",10,11
+634,"Vistara
+UK-828/869",1900-10-11,Yatra,Hyderabad,07:00,22:40,15h 40m,1 Stop,"6,975",10,11
+635,"Vistara
+UK-826/873",1900-10-11,Yatra,Hyderabad,12:30,07:50+ 1 day,19h 20m,1 Stop,"6,975",10,11
+636,"Vistara
+UK-826/877",1900-10-11,Yatra,Hyderabad,12:30,12:15+ 1 day,23h 45m,1 Stop,"6,975",10,11
+637,"Vistara
+UK-828/873",1900-10-11,Yatra,Hyderabad,07:00,07:50+ 1 day,24h 50m,1 Stop,"6,975",10,11
+638,"IndiGo
+6E-797/537",1900-10-11,Yatra,Hyderabad,07:45,11:25,3h 40m,1 Stop,"7,046",10,11
+639,"IndiGo
+6E-6892/6067",1900-10-11,Yatra,Hyderabad,11:20,16:55,5h 35m,1 Stop,"7,046",10,11
+640,"Vistara
+UK-824/873",1900-10-11,Yatra,Hyderabad,20:30,07:50+ 1 day,11h 20m,1 Stop,"7,175",10,11
+641,"Vistara
+UK-822/869",1900-10-11,Yatra,Hyderabad,09:45,22:40,12h 55m,1 Stop,"7,175",10,11
+642,"Vistara
+UK-824/877",1900-10-11,Yatra,Hyderabad,20:30,12:15+ 1 day,15h 45m,1 Stop,"7,175",10,11
+643,"Vistara
+UK-822/873",1900-10-11,Yatra,Hyderabad,09:45,07:50+ 1 day,22h 05m,1 Stop,"7,175",10,11
+644,"Vistara
+UK-824/869",1900-10-11,Yatra,Hyderabad,20:30,22:40+ 1 day,26h 10m,1 Stop,"7,175",10,11
+645,"Vistara
+UK-822/877",1900-10-11,Yatra,Hyderabad,09:45,12:15+ 1 day,26h 30m,1 Stop,"7,175",10,11
+646,"Air India
+AI-571/617",1900-10-11,Yatra,Hyderabad,07:55,12:30,4h 35m,1 Stop,"7,324",10,11
+647,"Air India
+AI-672/619",1900-10-11,Yatra,Hyderabad,16:10,21:40,5h 30m,1 Stop,"7,324",10,11
+648,"Air India
+AI-569/617",1900-10-11,Yatra,Hyderabad,06:10,12:30,6h 20m,1 Stop,"7,324",10,11
+649,"Air India
+AI-574/615",1900-10-11,Yatra,Hyderabad,21:40,07:30+ 1 day,9h 50m,1 Stop,"7,324",10,11
+650,"Air India
+AI-571/619",1900-10-11,Yatra,Hyderabad,07:55,21:40,13h 45m,1 Stop,"7,324",10,11
+651,"Air India
+AI-574/617",1900-10-11,Yatra,Hyderabad,21:40,12:30+ 1 day,14h 50m,1 Stop,"7,324",10,11
+652,"Air India
+AI-672/615",1900-10-11,Yatra,Hyderabad,16:10,07:30+ 1 day,15h 20m,1 Stop,"7,324",10,11
+653,"Air India
+AI-569/619",1900-10-11,Yatra,Hyderabad,06:10,21:40,15h 30m,1 Stop,"7,324",10,11
+654,"Air India
+AI-672/617",1900-10-11,Yatra,Hyderabad,16:10,12:30+ 1 day,20h 20m,1 Stop,"7,324",10,11
+655,"Air India
+AI-571/615",1900-10-11,Yatra,Hyderabad,07:55,07:30+ 1 day,23h 35m,1 Stop,"7,324",10,11
+656,"Air India
+AI-574/619",1900-10-11,Yatra,Hyderabad,21:40,21:40+ 1 day,24h 00m,1 Stop,"7,324",10,11
+657,"Air India
+AI-569/615",1900-10-11,Yatra,Hyderabad,06:10,07:30+ 1 day,25h 20m,1 Stop,"7,324",10,11
+658,"IndiGo
+6E-7046/7284",1900-10-11,Yatra,Hyderabad,18:30,22:15,3h 45m,1 Stop,"7,408",10,11
+659,"IndiGo
+6E-797/6067",1900-10-11,Yatra,Hyderabad,07:45,16:55,9h 10m,1 Stop,"7,429",10,11
+660,"Vistara
+UK-824/881",1900-10-11,Yatra,Hyderabad,20:30,20:55+ 1 day,24h 25m,1 Stop,"7,494",10,11
+661,"IndiGo
+6E-6605/638",1900-10-11,Yatra,Hyderabad,13:00,20:05,7h 05m,1 Stop,"7,776",10,11
+662,"IndiGo
+6E-189/855",1900-10-11,Yatra,Hyderabad,19:10,22:35,3h 25m,1 Stop,"8,180",10,11
+663,"IndiGo
+6E-189/684",1900-10-11,Yatra,Hyderabad,19:10,23:20,4h 10m,1 Stop,"8,180",10,11
+664,"IndiGo
+6E-6381/855",1900-10-11,Yatra,Hyderabad,17:55,22:35,4h 40m,1 Stop,"8,180",10,11
+665,"IndiGo
+6E-6381/684",1900-10-11,Yatra,Hyderabad,17:55,23:20,5h 25m,1 Stop,"8,180",10,11
+666,"Vistara
+UK-826/845/893",1900-10-11,Yatra,Hyderabad,12:30,21:10+ 1 day,32h 40m,2 Stop(s),"8,519",10,11
+667,"IndiGo
+6E-7143/7206",1900-10-11,Yatra,Hyderabad,08:00,13:30,5h 30m,1 Stop,"8,668",10,11
+668,"IndiGo
+6E-6343/638",1900-10-11,Yatra,Hyderabad,16:20,20:05,3h 45m,1 Stop,"8,705",10,11
+669,"Vistara
+UK-824/845/893",1900-10-11,Yatra,Hyderabad,20:30,21:10+ 1 day,24h 40m,2 Stop(s),"8,728",10,11
+670,"Vistara
+UK-838/829",1900-10-11,Yatra,Hyderabad,21:05,09:25+ 1 day,12h 20m,1 Stop,"9,380",10,11
+671,"Vistara
+UK-834/829",1900-10-11,Yatra,Hyderabad,17:15,09:25+ 1 day,16h 10m,1 Stop,"9,380",10,11
+672,"Vistara
+UK-826/881",1900-10-11,Yatra,Hyderabad,12:30,20:55,8h 25m,1 Stop,"9,489",10,11
+673,"Vistara
+UK-822/881",1900-10-11,Yatra,Hyderabad,09:45,20:55,11h 10m,1 Stop,"9,489",10,11
+674,"Vistara
+UK-828/881",1900-10-11,Yatra,Hyderabad,07:00,20:55,13h 55m,1 Stop,"9,489",10,11
+675,"IndiGo
+6E-6892/638",1900-10-11,Yatra,Hyderabad,11:20,20:05,8h 45m,1 Stop,"9,634",10,11
+676,"Vistara
+UK-826/853/893",1900-10-11,Yatra,Hyderabad,12:30,21:10,8h 40m,2 Stop(s),"9,781",10,11
+677,"Vistara
+UK-822/853/893",1900-10-11,Yatra,Hyderabad,09:45,21:10,11h 25m,2 Stop(s),"9,781",10,11
+678,"Vistara
+UK-826/843/893",1900-10-11,Yatra,Hyderabad,12:30,21:10,8h 40m,2 Stop(s),"10,529",10,11
+679,"Vistara
+UK-822/843/893",1900-10-11,Yatra,Hyderabad,09:45,21:10,11h 25m,2 Stop(s),"10,529",10,11
+680,"Vistara
+UK-836/899",1900-10-11,Yatra,Hyderabad,10:35,17:00,6h 25m,1 Stop,"11,526",10,11
+681,"Vistara
+UK-836/879",1900-10-11,Yatra,Hyderabad,10:35,19:50,9h 15m,1 Stop,"11,526",10,11
+682,"Vistara
+UK-832/899",1900-10-11,Yatra,Hyderabad,07:05,17:00,9h 55m,1 Stop,"11,526",10,11
+683,"Vistara
+UK-836/871",1900-10-11,Yatra,Hyderabad,10:35,22:55,12h 20m,1 Stop,"11,526",10,11
+684,"Vistara
+UK-832/879",1900-10-11,Yatra,Hyderabad,07:05,19:50,12h 45m,1 Stop,"11,526",10,11
+685,"Vistara
+UK-838/859",1900-10-11,Yatra,Hyderabad,21:05,12:40+ 1 day,15h 35m,1 Stop,"11,526",10,11
+686,"Vistara
+UK-832/871",1900-10-11,Yatra,Hyderabad,07:05,22:55,15h 50m,1 Stop,"11,526",10,11
+687,"Vistara
+UK-834/859",1900-10-11,Yatra,Hyderabad,17:15,12:40+ 1 day,19h 25m,1 Stop,"11,526",10,11
+688,"Vistara
+UK-838/899",1900-10-11,Yatra,Hyderabad,21:05,17:00+ 1 day,19h 55m,1 Stop,"11,526",10,11
+689,"Vistara
+UK-838/879",1900-10-11,Yatra,Hyderabad,21:05,19:50+ 1 day,22h 45m,1 Stop,"11,526",10,11
+690,"Vistara
+UK-834/899",1900-10-11,Yatra,Hyderabad,17:15,17:00+ 1 day,23h 45m,1 Stop,"11,526",10,11
+691,"Vistara
+UK-834/879",1900-10-11,Yatra,Hyderabad,17:15,19:50+ 1 day,26h 35m,1 Stop,"11,526",10,11
+692,"Air India
+AI-538/560",1900-10-11,Yatra,Hyderabad,20:15,09:25+ 1 day,13h 10m,1 Stop,"13,078",10,11
+693,"Air India
+AI-538/542",1900-10-11,Yatra,Hyderabad,20:15,11:50+ 1 day,15h 35m,1 Stop,"13,078",10,11
+694,"Air India
+AI-539/560",1900-10-11,Yatra,Hyderabad,16:55,09:25+ 1 day,16h 30m,1 Stop,"13,078",10,11
+695,"Air India
+AI-539/542",1900-10-11,Yatra,Hyderabad,16:55,11:50+ 1 day,18h 55m,1 Stop,"13,078",10,11
+696,"Air India
+AI-538/544",1900-10-11,Yatra,Hyderabad,20:15,19:00+ 1 day,22h 45m,1 Stop,"13,078",10,11
+697,"Air India
+AI-440/542",1900-10-11,Yatra,Hyderabad,06:00,11:50,5h 50m,1 Stop,"13,603",10,11
+698,"Air India
+AI-539/839",1900-10-11,Yatra,Hyderabad,16:55,23:45,6h 50m,1 Stop,"13,603",10,11
+699,"Air India
+AI-430/839",1900-10-11,Yatra,Hyderabad,09:55,23:45,13h 50m,1 Stop,"13,603",10,11
+700,"Air India
+AI-440/839",1900-10-11,Yatra,Hyderabad,06:00,23:45,17h 45m,1 Stop,"13,603",10,11
+701,"Vistara
+UK-828/994/899",1900-10-11,Yatra,Hyderabad,07:00,17:00,10h 00m,2 Stop(s),"13,712",10,11
+702,"Vistara
+UK-822/952/879",1900-10-11,Yatra,Hyderabad,09:45,19:50,10h 05m,2 Stop(s),"13,712",10,11
+703,"Vistara
+UK-826/902/871",1900-10-11,Yatra,Hyderabad,12:30,22:55,10h 25m,2 Stop(s),"13,712",10,11
+704,"Vistara
+UK-826/910/871",1900-10-11,Yatra,Hyderabad,12:30,22:55,10h 25m,2 Stop(s),"13,712",10,11
+705,"Air India
+AI-430/544",1900-10-11,Yatra,Hyderabad,09:55,19:10,9h 15m,1 Stop,"14,443",10,11
+706,"Air India
+AI-440/544",1900-10-11,Yatra,Hyderabad,06:00,19:10,13h 10m,1 Stop,"14,443",10,11
+707,"Vistara
+UK-836/933/881",1900-10-11,Yatra,Hyderabad,10:35,20:55,10h 20m,2 Stop(s),"17,616",10,11
+708,"Vistara
+UK-836/951/881",1900-10-11,Yatra,Hyderabad,10:35,20:55,10h 20m,2 Stop(s),"17,616",10,11
+709,"Air India
+AI-786/526",1900-10-11,Yatra,Hyderabad,08:10,21:15,13h 05m,1 Stop,"18,328",10,11
+710,"IndiGo
+6E-6216",1900-10-11,Yatra,Chennai,21:05,22:05,1h 00m,Non Stop,"4,687",10,11
+711,"IndiGo
+6E-121",1900-10-11,Yatra,Chennai,06:55,08:00,1h 05m,Non Stop,"4,687",10,11
+712,"IndiGo
+6E-6007",1900-10-11,Yatra,Chennai,23:15,00:25+ 1 day,1h 10m,Non Stop,"4,687",10,11
+713,"IndiGo
+6E-531",1900-10-11,Yatra,Chennai,05:45,07:00,1h 15m,Non Stop,"4,687",10,11
+714,"IndiGo
+6E-6174",1900-10-11,Yatra,Chennai,19:00,20:15,1h 15m,Non Stop,"4,687",10,11
+715,"IndiGo
+6E-6151",1900-10-11,Yatra,Chennai,10:05,11:25,1h 20m,Non Stop,"4,687",10,11
+716,"IndiGo
+6E-514",1900-10-11,Yatra,Chennai,13:50,15:10,1h 20m,Non Stop,"4,687",10,11
+717,"IndiGo
+6E-102",1900-10-11,Yatra,Chennai,17:55,19:15,1h 20m,Non Stop,"4,687",10,11
+718,"IndiGo
+6E-413/541",1900-10-11,Yatra,Chennai,07:00,10:50,3h 50m,1 Stop,"4,687",10,11
+719,"IndiGo
+6E-151/6212",1900-10-11,Yatra,Chennai,08:15,12:10,3h 55m,1 Stop,"4,687",10,11
+720,"IndiGo
+6E-413/6212",1900-10-11,Yatra,Chennai,07:00,12:10,5h 10m,1 Stop,"4,687",10,11
+721,"IndiGo
+6E-827/356",1900-10-11,Yatra,Chennai,12:00,18:30,6h 30m,1 Stop,"4,687",10,11
+722,"IndiGo
+6E-827/6017",1900-10-11,Yatra,Chennai,12:00,19:40,7h 40m,1 Stop,"4,687",10,11
+723,"IndiGo
+6E-949/6269",1900-10-11,Yatra,Chennai,00:05,08:05,8h 00m,1 Stop,"4,687",10,11
+724,"IndiGo
+6E-949/6825",1900-10-11,Yatra,Chennai,00:05,09:05,9h 00m,1 Stop,"4,687",10,11
+725,"IndiGo
+6E-6066/356",1900-10-11,Yatra,Chennai,09:30,18:30,9h 00m,1 Stop,"4,687",10,11
+726,"IndiGo
+6E-827/478",1900-10-11,Yatra,Chennai,12:00,21:05,9h 05m,1 Stop,"4,687",10,11
+727,"IndiGo
+6E-6066/6017",1900-10-11,Yatra,Chennai,09:30,19:40,10h 10m,1 Stop,"4,687",10,11
+728,"IndiGo
+6E-151/356",1900-10-11,Yatra,Chennai,08:15,18:30,10h 15m,1 Stop,"4,687",10,11
+729,"Air Asia
+I5-510",1900-10-11,Yatra,Chennai,08:00,09:20,1h 20m,Non Stop,"4,688",10,11
+730,"Alliance Air
+9I-893",1900-10-11,Yatra,Chennai,06:50,08:30,1h 40m,Non Stop,"4,688",10,11
+731,"IndiGo
+6E-6505/6269",1900-10-11,Yatra,Chennai,22:30,08:05+ 1 day,9h 35m,1 Stop,"5,070",10,11
+732,"IndiGo
+6E-827/841",1900-10-11,Yatra,Chennai,12:00,15:55,3h 55m,1 Stop,"5,454",10,11
+733,"IndiGo
+6E-6066/841",1900-10-11,Yatra,Chennai,09:30,15:55,6h 25m,1 Stop,"5,454",10,11
+734,"IndiGo
+6E-413/841",1900-10-11,Yatra,Chennai,07:00,15:55,8h 55m,1 Stop,"5,454",10,11
+735,"IndiGo
+6E-151/841",1900-10-11,Yatra,Chennai,08:15,15:55,7h 40m,1 Stop,"6,220",10,11
+736,"IndiGo
+6E-7118/7262",1900-10-11,Yatra,Chennai,07:25,13:35,6h 10m,1 Stop,"6,493",10,11
+737,"IndiGo
+6E-6319/478",1900-10-11,Yatra,Chennai,16:40,21:05,4h 25m,1 Stop,"6,603",10,11
+738,"IndiGo
+6E-7298/7253",1900-10-11,Yatra,Chennai,14:05,21:35,7h 30m,1 Stop,"6,892",10,11
+739,"IndiGo
+6E-7201/7281",1900-10-11,Yatra,Chennai,06:35,11:05,4h 30m,1 Stop,"6,997",10,11
+740,"Vistara
+UK-878/827",1900-10-11,Yatra,Chennai,12:55,23:05,10h 10m,1 Stop,"7,109",10,11
+741,"Vistara
+UK-874/827",1900-10-11,Yatra,Chennai,08:30,23:05,14h 35m,1 Stop,"7,109",10,11
+742,"Vistara
+UK-872/827",1900-10-11,Yatra,Chennai,07:10,23:05,15h 55m,1 Stop,"7,109",10,11
+743,"Vistara
+UK-872/825",1900-10-11,Yatra,Chennai,07:10,11:50,4h 40m,1 Stop,"7,500",10,11
+744,"Vistara
+UK-878/823",1900-10-11,Yatra,Chennai,12:55,19:50,6h 55m,1 Stop,"7,500",10,11
+745,"Vistara
+UK-876/821",1900-10-11,Yatra,Chennai,21:35,08:50+ 1 day,11h 15m,1 Stop,"7,500",10,11
+746,"Vistara
+UK-874/823",1900-10-11,Yatra,Chennai,08:30,19:50,11h 20m,1 Stop,"7,500",10,11
+747,"Vistara
+UK-872/823",1900-10-11,Yatra,Chennai,07:10,19:50,12h 40m,1 Stop,"7,500",10,11
+748,"Vistara
+UK-876/825",1900-10-11,Yatra,Chennai,21:35,11:50+ 1 day,14h 15m,1 Stop,"7,500",10,11
+749,"Vistara
+UK-878/821",1900-10-11,Yatra,Chennai,12:55,08:50+ 1 day,19h 55m,1 Stop,"7,500",10,11
+750,"Vistara
+UK-876/823",1900-10-11,Yatra,Chennai,21:35,19:50+ 1 day,22h 15m,1 Stop,"7,500",10,11
+751,"Vistara
+UK-878/825",1900-10-11,Yatra,Chennai,12:55,11:50+ 1 day,22h 55m,1 Stop,"7,500",10,11
+752,"Air India
+AI-698/570",1900-10-11,Yatra,Chennai,22:25,07:25+ 1 day,9h 00m,1 Stop,"7,649",10,11
+753,"Air India
+AI-698/671",1900-10-11,Yatra,Chennai,22:25,10:55+ 1 day,12h 30m,1 Stop,"7,649",10,11
+754,"Air India
+AI-618/570",1900-10-11,Yatra,Chennai,13:15,07:25+ 1 day,18h 10m,1 Stop,"7,649",10,11
+755,"Air India
+AI-698/572",1900-10-11,Yatra,Chennai,22:25,17:20+ 1 day,18h 55m,1 Stop,"7,649",10,11
+756,"Air India
+AI-618/671",1900-10-11,Yatra,Chennai,13:15,10:55+ 1 day,21h 40m,1 Stop,"7,649",10,11
+757,"Air India
+AI-698/573",1900-10-11,Yatra,Chennai,22:25,20:50+ 1 day,22h 25m,1 Stop,"7,649",10,11
+758,"Air India
+AI-618/573",1900-10-11,Yatra,Chennai,13:15,20:50,7h 35m,1 Stop,"8,174",10,11
+759,"Air India
+AI-616/572",1900-10-11,Yatra,Chennai,08:10,17:20,9h 10m,1 Stop,"8,804",10,11
+760,"Vistara
+UK-898/854/827",1900-10-11,Yatra,Chennai,07:30,23:05,15h 35m,2 Stop(s),"9,246",10,11
+761,"Air India
+AI-616/573",1900-10-11,Yatra,Chennai,08:10,20:50,12h 40m,1 Stop,"9,329",10,11
+762,"Vistara
+UK-898/866/821",1900-10-11,Yatra,Chennai,07:30,08:50+ 1 day,25h 20m,2 Stop(s),"9,378",10,11
+763,"Vistara
+UK-898/858/825",1900-10-11,Yatra,Chennai,07:30,11:50+ 1 day,28h 20m,2 Stop(s),"9,378",10,11
+764,"Vistara
+UK-898/866/825",1900-10-11,Yatra,Chennai,07:30,11:50+ 1 day,28h 20m,2 Stop(s),"9,378",10,11
+765,"Vistara
+UK-898/866/823",1900-10-11,Yatra,Chennai,07:30,19:50+ 1 day,36h 20m,2 Stop(s),"9,378",10,11
+766,"Vistara
+UK-870/833",1900-10-11,Yatra,Chennai,20:30,09:50+ 1 day,13h 20m,1 Stop,"9,705",10,11
+767,"Vistara
+UK-890/833",1900-10-11,Yatra,Chennai,17:40,09:50+ 1 day,16h 10m,1 Stop,"9,705",10,11
+768,"Vistara
+UK-898/850/821",1900-10-11,Yatra,Chennai,07:30,08:50+ 1 day,25h 20m,2 Stop(s),"9,746",10,11
+769,"Vistara
+UK-894/866/821",1900-10-11,Yatra,Chennai,18:25,08:50+ 1 day,14h 25m,2 Stop(s),"10,082",10,11
+770,"Vistara
+UK-894/866/825",1900-10-11,Yatra,Chennai,18:25,11:50+ 1 day,17h 25m,2 Stop(s),"10,082",10,11
+771,"Vistara
+UK-894/858/825",1900-10-11,Yatra,Chennai,18:25,11:50+ 1 day,17h 25m,2 Stop(s),"10,082",10,11
+772,"Vistara
+UK-894/866/823",1900-10-11,Yatra,Chennai,18:25,19:50+ 1 day,25h 25m,2 Stop(s),"10,082",10,11
+773,"Vistara
+UK-894/858/823",1900-10-11,Yatra,Chennai,18:25,19:50+ 1 day,25h 25m,2 Stop(s),"10,082",10,11
+774,"Vistara
+UK-894/866/827",1900-10-11,Yatra,Chennai,18:25,23:05+ 1 day,28h 40m,2 Stop(s),"10,082",10,11
+775,"Vistara
+UK-894/858/827",1900-10-11,Yatra,Chennai,18:25,23:05+ 1 day,28h 40m,2 Stop(s),"10,082",10,11
+776,"Vistara
+UK-830/839",1900-10-11,Yatra,Chennai,10:10,16:25,6h 15m,1 Stop,"10,778",10,11
+777,"Vistara
+UK-880/837",1900-10-11,Yatra,Chennai,13:25,20:15,6h 50m,1 Stop,"10,778",10,11
+778,"Vistara
+UK-880/835",1900-10-11,Yatra,Chennai,13:25,22:45,9h 20m,1 Stop,"10,778",10,11
+779,"Vistara
+UK-830/837",1900-10-11,Yatra,Chennai,10:10,20:15,10h 05m,1 Stop,"10,778",10,11
+780,"Vistara
+UK-830/835",1900-10-11,Yatra,Chennai,10:10,22:45,12h 35m,1 Stop,"10,778",10,11
+781,"Vistara
+UK-870/839",1900-10-11,Yatra,Chennai,20:30,16:25+ 1 day,19h 55m,1 Stop,"10,778",10,11
+782,"Vistara
+UK-890/839",1900-10-11,Yatra,Chennai,17:40,16:25+ 1 day,22h 45m,1 Stop,"10,778",10,11
+783,"Vistara
+UK-880/941/827",1900-10-11,Yatra,Chennai,13:25,23:05,9h 40m,2 Stop(s),"11,197",10,11
+784,"Vistara
+UK-880/955/827",1900-10-11,Yatra,Chennai,13:25,23:05,9h 40m,2 Stop(s),"11,197",10,11
+785,"Vistara
+UK-860/839",1900-10-11,Yatra,Chennai,07:00,16:25,9h 25m,1 Stop,"11,851",10,11
+786,"Vistara
+UK-860/837",1900-10-11,Yatra,Chennai,07:00,20:15,13h 15m,1 Stop,"11,851",10,11
+787,"Vistara
+UK-860/835",1900-10-11,Yatra,Chennai,07:00,22:45,15h 45m,1 Stop,"11,851",10,11
+788,"Vistara
+UK-830/951/823",1900-10-11,Yatra,Chennai,10:10,19:50,9h 40m,2 Stop(s),"12,917",10,11
+789,"Air India
+AI-559/429",1900-10-11,Yatra,Chennai,06:40,12:40,6h 00m,1 Stop,"13,403",10,11
+790,"Air India
+AI-541/540",1900-10-11,Yatra,Chennai,16:10,23:35,7h 25m,1 Stop,"13,403",10,11
+791,"Air India
+AI-559/537",1900-10-11,Yatra,Chennai,06:40,19:30,12h 50m,1 Stop,"13,403",10,11
+792,"Air India
+AI-541/439",1900-10-11,Yatra,Chennai,16:10,08:55+ 1 day,16h 45m,1 Stop,"13,403",10,11
+793,"Air India
+AI-559/540",1900-10-11,Yatra,Chennai,06:40,23:35,16h 55m,1 Stop,"13,403",10,11
+794,"Air India
+AI-840/439",1900-10-11,Yatra,Chennai,20:40,08:55+ 1 day,12h 15m,1 Stop,"13,928",10,11
+795,"Air India
+AI-840/429",1900-10-11,Yatra,Chennai,20:40,12:40+ 1 day,16h 00m,1 Stop,"13,928",10,11
+796,"Air India
+AI-840/537",1900-10-11,Yatra,Chennai,20:40,19:30+ 1 day,22h 50m,1 Stop,"13,928",10,11
+797,"Vistara
+UK-872/994/839",1900-10-11,Yatra,Chennai,07:10,16:25,9h 15m,2 Stop(s),"14,563",10,11
+798,"Air India
+AI-543/537",1900-10-11,Yatra,Chennai,10:05,19:30,9h 25m,1 Stop,"14,768",10,11
+799,"Air India
+AI-543/540",1900-10-11,Yatra,Chennai,10:05,23:35,13h 30m,1 Stop,"14,768",10,11
+800,"Vistara
+UK-659/707/837",1900-10-11,Yatra,Chennai,11:35,20:15,8h 40m,2 Stop(s),"14,839",10,11
+801,"Vistara
+UK-898/806/839",1900-10-11,Yatra,Chennai,07:30,16:25,8h 55m,2 Stop(s),"15,367",10,11
+802,"Air India
+AI-525/785",1900-10-11,Yatra,Chennai,05:55,19:15,13h 20m,1 Stop,"22,223",10,11
+803,"SpiceJet
+SG- 711",1900-09-16,Ease My Trip,Goa,21:40,03:15,05h 35m,1-stop,"9,419",9,16
+804,"SpiceJet
+SG-8169",1900-09-16,Ease My Trip,Goa,19:45,03:15,07h 30m,1-stop,"11,467",9,16
+805,"SpiceJet
+SG-8709",1900-09-16,Ease My Trip,Goa,19:00,03:15,08h 15m,1-stop,"11,603",9,16
+806,"SpiceJet
+SG-8701",1900-09-16,Ease My Trip,Goa,07:20,03:15,19h 55m,1-stop,"11,782",9,16
+807,"Indigo
+6E-2774",1900-09-16,Ease My Trip,Goa,07:55,14:00,06h 05m,1-stop,"12,149",9,16
+808,"AirAsia
+I5-773",1900-09-16,Ease My Trip,Goa,20:00,22:35,02h 35m,non-stop,"12,203",9,16
+809,"SpiceJet
+SG- 191",1900-09-16,Ease My Trip,Goa,06:05,21:25,15h 20m,1-stop,"12,203",9,16
+810,"AirAsia
+I5-548",1900-09-16,Ease My Trip,Goa,07:20,17:15,09h 55m,1-stop,"12,203",9,16
+811,"Indigo
+6E-2519",1900-09-16,Ease My Trip,Goa,23:35,06:15,06h 40m,1-stop,"12,203",9,16
+812,"Indigo
+6E-2187",1900-09-16,Ease My Trip,Goa,15:00,21:30,06h 30m,1-stop,"12,203",9,16
+813,"GO FIRST
+G8- 346",1900-09-16,Ease My Trip,Goa,20:10,06:15,10h 05m,1-stop,"12,203",9,16
+814,"GO FIRST
+G8- 323",1900-09-16,Ease My Trip,Goa,19:20,06:15,10h 55m,1-stop,"12,412",9,16
+815,"GO FIRST
+G8- 336",1900-09-16,Ease My Trip,Goa,15:00,06:15,15h 15m,1-stop,"12,570",9,16
+816,"AirAsia
+I5-745",1900-09-16,Ease My Trip,Goa,13:00,17:15,04h 15m,1-stop,"12,570",9,16
+817,"Indigo
+6E-2143",1900-09-16,Ease My Trip,Goa,17:55,01:10,07h 15m,1-stop,"12,937",9,16
+818,"Indigo
+6E-2331",1900-09-16,Ease My Trip,Goa,06:40,14:00,07h 20m,1-stop,"12,990",9,16
+819,"Air India
+AI-441",1900-09-16,Ease My Trip,Goa,17:55,06:20,12h 25m,1-stop,"12,990",9,16
+820,"Air India
+AI-863",1900-09-16,Ease My Trip,Goa,14:15,06:20,16h 05m,1-stop,"13,620",9,16
+821,"Air India
+AI-865",1900-09-16,Ease My Trip,Goa,10:00,06:20,20h 20m,1-stop,"13,620",9,16
+822,"Air India
+AI-678",1900-09-16,Ease My Trip,Goa,09:00,06:20,21h 20m,1-stop,"13,620",9,16
+823,"Air India
+AI-665",1900-09-16,Ease My Trip,Goa,08:00,06:20,22h 20m,1-stop,"13,620",9,16
+824,"Air India
+AI-887",1900-09-16,Ease My Trip,Goa,07:00,06:20,23h 20m,1-stop,"13,725",9,16
+825,"Indigo
+6E-5161",1900-09-16,Ease My Trip,Goa,12:25,14:50,02h 25m,non-stop,"13,987",9,16
+826,"Air India
+AI-441",1900-09-16,Ease My Trip,Goa,17:55,13:55,20h 00m,1-stop,"14,557",9,16
+827,"Air India
+AI-863",1900-09-16,Ease My Trip,Goa,14:15,13:55,23h 40m,1-stop,"14,827",9,16
+828,"AirAsia
+I5-1732",1900-09-16,Ease My Trip,Goa,21:50,05:55,08h 05m,1-stop,"14,828",9,16
+829,"GO FIRST
+G8- 330",1900-09-16,Ease My Trip,Goa,21:15,06:15,09h 00m,1-stop,"15,353",9,16
+830,"AirAsia
+I5-721",1900-09-16,Ease My Trip,Goa,21:00,05:55,08h 55m,1-stop,"15,353",9,16
+831,"Indigo
+6E- 698",1900-09-16,Ease My Trip,Goa,21:05,02:50,05h 45m,1-stop,"15,405",9,16
+832,"Air India
+AI-814",1900-09-16,Ease My Trip,Goa,22:30,22:20,23h 50m,1-stop,"15,425",9,16
+833,"Air India
+AI-805",1900-09-16,Ease My Trip,Goa,20:00,22:20,26h 20m,1-stop,"15,720",9,16
+834,"SpiceJet
+SG- 162",1900-09-16,Ease My Trip,Goa,21:55,20:35,22h 40m,1-stop,"15,720",9,16
+835,"SpiceJet
+SG-8169",1900-09-16,Ease My Trip,Goa,19:45,17:05,21h 20m,1-stop,"15,888",9,16
+836,"SpiceJet
+SG-8709",1900-09-16,Ease My Trip,Goa,19:00,17:05,22h 05m,1-stop,"15,888",9,16
+837,"Vistara
+UK-941",1900-09-16,Ease My Trip,Goa,16:55,12:45,19h 50m,1-stop,"16,088",9,16
+838,"Vistara
+UK-933",1900-09-16,Ease My Trip,Goa,15:30,12:45,21h 15m,1-stop,"16,243",9,16
+839,"Vistara
+UK-951",1900-09-16,Ease My Trip,Goa,14:20,12:45,22h 25m,1-stop,"16,455",9,16
+840,"Vistara
+UK-945",1900-09-16,Ease My Trip,Goa,11:40,12:45,25h 05m,1-stop,"16,517",9,16
+841,"Air India
+AI-624",1900-09-16,Ease My Trip,Goa,19:00,22:20,27h 20m,1-stop,"16,517",9,16
+842,"Indigo
+6E-2117",1900-09-16,Ease My Trip,Goa,16:20,18:40,02h 20m,non-stop,"16,517",9,16
+843,"SpiceJet
+SG-3701",1900-09-16,Ease My Trip,Goa,05:45,18:15,12h 30m,1-stop,"16,517",9,16
+844,"SpiceJet
+SG-8169",1900-09-16,Ease My Trip,Goa,19:45,12:55,17h 10m,1-stop,"16,770",9,16
+845,"SpiceJet
+SG-8709",1900-09-16,Ease My Trip,Goa,19:00,12:55,17h 55m,1-stop,"17,505",9,16
+846,"Air India
+AI-479",1900-09-16,Ease My Trip,Goa,21:15,22:20,25h 05m,2+-stop,"17,505",9,16
+847,"AirAsia
+I5-552",1900-09-16,Ease My Trip,Goa,10:40,13:15,02h 35m,non-stop,"17,505",9,16
+848,"AirAsia
+I5-798",1900-09-16,Ease My Trip,Goa,12:50,15:25,02h 35m,non-stop,"17,505",9,16
+849,"Indigo
+6E-5024",1900-09-16,Ease My Trip,Goa,11:00,13:25,02h 25m,non-stop,"17,609",9,16
+850,"Air India
+AI-636",1900-09-16,Ease My Trip,Goa,14:30,06:20,15h 50m,1-stop Via IDR,"17,609",9,16
+851,"SpiceJet
+SG-8103",1900-09-16,Ease My Trip,Goa,18:20,20:35,26h 15m,1-stop,"17,819",9,16
+852,"GO FIRST
+G8- 286",1900-09-16,Ease My Trip,Goa,10:45,13:20,02h 35m,non-stop,"17,938",9,16
+853,"Air India
+AI-814",1900-09-16,Ease My Trip,Goa,22:30,06:20,07h 50m,1-stop,"17,999",9,16
+854,"Air India
+AI-805",1900-09-16,Ease My Trip,Goa,20:00,06:20,10h 20m,1-stop,"18,135",9,16
+855,"Vistara
+UK-855",1900-09-16,Ease My Trip,Goa,18:40,21:20,02h 40m,non-stop,"18,345",9,16
+856,"AirAsia
+I5-857",1900-09-16,Ease My Trip,Goa,18:45,05:55,11h 10m,1-stop,"18,555",9,16
+857,"Indigo
+6E-6823",1900-09-16,Ease My Trip,Goa,18:05,23:00,04h 55m,1-stop,"18,555",9,16
+858,"Air India
+AI-814",1900-09-16,Ease My Trip,Goa,22:30,13:55,15h 25m,1-stop,"18,555",9,16
+859,"Air India
+AI-805",1900-09-16,Ease My Trip,Goa,20:00,13:55,17h 55m,1-stop,"18,712",9,16
+860,"SpiceJet
+SG- 711",1900-09-16,Ease My Trip,Goa,21:40,17:05,19h 25m,1-stop,"19,552",9,16
+861,"Vistara
+UK-817",1900-09-16,Ease My Trip,Goa,16:05,14:05,22h 00m,1-stop,"19,877",9,16
+862,"Vistara
+UK-819",1900-09-16,Ease My Trip,Goa,14:15,14:05,23h 50m,1-stop,"20,130",9,16
+863,"Air India
+AI-624",1900-09-16,Ease My Trip,Goa,19:00,06:20,11h 20m,1-stop,"20,130",9,16
+864,"Vistara
+UK-955",1900-09-16,Ease My Trip,Goa,17:45,12:45,19h 00m,1-stop,"20,130",9,16
+865,"Air India
+AI-624",1900-09-16,Ease My Trip,Goa,19:00,13:55,18h 55m,1-stop,"20,130",9,16
+866,"Indigo
+6E-2004",1900-09-16,Ease My Trip,Goa,12:45,17:35,04h 50m,1-stop,"20,340",9,16
+867,"Indigo
+6E-5036",1900-09-16,Ease My Trip,Goa,02:25,07:45,05h 20m,1-stop,"20,602",9,16
+868,"Indigo
+6E- 781",1900-09-16,Ease My Trip,Goa,15:20,20:40,05h 20m,1-stop,"20,917",9,16
+869,"Indigo
+6E-2043",1900-09-16,Ease My Trip,Goa,12:55,19:20,06h 25m,1-stop,"20,917",9,16
+870,"GO FIRST
+G8- 113",1900-09-16,Ease My Trip,Goa,06:00,16:55,10h 55m,1-stop,"21,348",9,16
+871,"SpiceJet
+SG-3755",1900-09-16,Ease My Trip,Goa,17:35,18:15,24h 40m,1-stop,"21,495",9,16
+872,"SpiceJet
+SG- 711",1900-09-16,Ease My Trip,Goa,21:40,12:55,15h 15m,1-stop,"22,228",9,16
+873,"Vistara
+UK-993",1900-09-16,Ease My Trip,Goa,12:45,12:45,24h 00m,1-stop,"23,018",9,16
+874,"SpiceJet
+SG-8701",1900-09-16,Ease My Trip,Goa,07:20,17:05,09h 45m,1-stop,"23,018",9,16
+875,"Air India
+AI-865",1900-09-16,Ease My Trip,Goa,10:00,14:35,04h 35m,1-stop,"23,018",9,16
+876,"Air India
+AI-678",1900-09-16,Ease My Trip,Goa,09:00,14:35,05h 35m,1-stop,"23,018",9,16
+877,"Air India
+AI-665",1900-09-16,Ease My Trip,Goa,08:00,14:35,06h 35m,1-stop,"23,018",9,16
+878,"Air India
+AI-887",1900-09-16,Ease My Trip,Goa,07:00,14:35,07h 35m,1-stop,"23,228",9,16
+879,"Indigo
+6E- 308",1900-09-16,Ease My Trip,Goa,08:20,14:10,05h 50m,1-stop,"23,228",9,16
+880,"Indigo
+6E-5009",1900-09-16,Ease My Trip,Goa,06:55,14:10,07h 15m,1-stop,"24,224",9,16
+881,"Indigo
+6E-2487",1900-09-16,Ease My Trip,Goa,17:15,22:40,05h 25m,1-stop,,9,16
+882,"Air India
+AI-479",1900-09-16,Ease My Trip,Goa,21:15,13:55,16h 40m,2+-stop,,9,16
+883,"Indigo
+6E-2144",1900-09-16,Ease My Trip,Goa,10:00,12:30,02h 30m,non-stop,,9,16
+884,"Vistara
+UK-847",1900-09-16,Ease My Trip,Goa,11:10,13:50,02h 40m,non-stop,,9,16
+885,"SpiceJet
+SG-8701",1900-09-16,Ease My Trip,Goa,07:20,12:55,05h 35m,1-stop,,9,16
+886,"SpiceJet
+SG- 957",1900-09-16,Ease My Trip,Goa,15:10,17:40,02h 30m,non-stop,,9,16
+887,"Vistara
+UK-813",1900-09-16,Ease My Trip,Goa,17:35,14:05,20h 30m,1-stop,,9,16
+888,"GO FIRST
+G8- 719",1900-09-16,Ease My Trip,Goa,05:40,20:20,14h 40m,1-stop,,9,16
+889,"Vistara
+UK-801",1900-09-16,Ease My Trip,Goa,09:05,14:05,05h 00m,1-stop,,9,16
+890,"Vistara
+UK-815",1900-09-16,Ease My Trip,Goa,08:10,14:05,05h 55m,1-stop,,9,16
+891,"Vistara
+UK-811",1900-09-16,Ease My Trip,Goa,06:15,14:05,07h 50m,1-stop,,9,16
+892,"Indigo
+6E- 864",1900-09-16,Ease My Trip,Goa,16:15,23:30,07h 15m,1-stop,,9,16
+893,"Indigo
+6E-2138",1900-09-16,Ease My Trip,Goa,11:55,18:10,06h 15m,1-stop,,9,16
+894,"Indigo
+6E-6939",1900-09-16,Ease My Trip,Goa,17:20,00:25,07h 05m,1-stop,,9,16
+895,"SpiceJet
+SG-8938",1900-09-16,Ease My Trip,Goa,17:05,00:25,07h 20m,1-stop,,9,16
+896,"Vistara
+UK-953",1900-09-16,Ease My Trip,Goa,20:40,12:45,16h 05m,1-stop,,9,16
+897,"Vistara
+UK-985",1900-09-16,Ease My Trip,Goa,19:45,12:45,17h 00m,1-stop,,9,16
+898,"Vistara
+UK-977",1900-09-16,Ease My Trip,Goa,19:00,12:45,17h 45m,1-stop,,9,16
+899,"Vistara
+UK-809",1900-09-16,Ease My Trip,Goa,19:50,14:05,18h 15m,1-stop,,9,16
+900,"Air India
+AI-885",1900-09-16,Ease My Trip,Goa,10:45,13:35,02h 50m,non-stop,,9,16
+901,"Indigo
+6E-2017",1900-09-16,Ease My Trip,Goa,18:10,23:30,05h 20m,1-stop,,9,16
+902,"Indigo
+6E- 153",1900-09-16,Ease My Trip,Goa,19:35,00:25,04h 50m,1-stop,,9,16
+903,"Indigo
+6E-5318",1900-09-16,Ease My Trip,Goa,17:00,23:30,06h 30m,1-stop,,9,16
+904,"SpiceJet
+SG-8171",1900-09-16,Ease My Trip,Goa,12:05,14:25,02h 20m,non-stop,,9,16
+905,"SpiceJet
+SG-8190",1900-09-16,Ease My Trip,Goa,20:25,00:25,04h 00m,1-stop,,9,16
+906,"Vistara
+UK-975",1900-09-16,Ease My Trip,Goa,05:55,12:45,06h 50m,1-stop,,9,16
+907,"Vistara
+UK-807",1900-09-16,Ease My Trip,Goa,20:40,14:05,17h 25m,1-stop,,9,16
+908,"Vistara
+UK-943",1900-09-16,Ease My Trip,Goa,07:30,12:45,05h 15m,1-stop,,9,16
+909,"SpiceJet
+SG-8185",1900-09-16,Ease My Trip,Goa,09:25,00:25,15h 00m,1-stop,,9,16
+910,"Indigo
+6E-6814",1900-09-16,Ease My Trip,Goa,07:20,12:40,05h 20m,1-stop,,9,16
+911,"Indigo
+6E-5328",1900-09-16,Ease My Trip,Goa,09:35,15:15,05h 40m,1-stop,,9,16
+912,"Indigo
+6E-5023",1900-09-16,Ease My Trip,Goa,06:30,12:40,06h 10m,1-stop,,9,16
+913,"Indigo
+6E-6278",1900-09-16,Ease My Trip,Goa,08:45,15:15,06h 30m,1-stop,,9,16
+914,"Indigo
+6E-2112",1900-09-16,Ease My Trip,Goa,05:30,12:40,07h 10m,1-stop,,9,16
+915,"Indigo
+6E-2129",1900-09-16,Ease My Trip,Goa,08:00,12:40,04h 40m,1-stop,,9,16
+916,"Indigo
+6E-2129",1900-09-16,Ease My Trip,Goa,08:00,15:15,07h 15m,1-stop,,9,16
+917,"Indigo
+6E-2191",1900-09-16,Ease My Trip,Goa,12:45,18:00,05h 15m,1-stop,,9,16
+918,"GO FIRST
+G8- 338",1900-09-16,Ease My Trip,Goa,10:55,16:35,05h 40m,1-stop,,9,16
+919,"GO FIRST
+G8- 195",1900-09-16,Ease My Trip,Delhi,23:55,02:30,02h 35m,non-stop,"7,714",9,16
+920,"AirAsia
+I5-315",1900-09-16,Ease My Trip,Delhi,08:20,10:55,02h 35m,non-stop,"7,714",9,16
+921,"AirAsia
+I5-774",1900-09-16,Ease My Trip,Delhi,23:05,01:50,02h 45m,non-stop,"7,714",9,16
+922,"SpiceJet
+SG-8172",1900-09-16,Ease My Trip,Delhi,15:05,17:45,02h 40m,non-stop,"9,289",9,16
+923,"SpiceJet
+SG- 958",1900-09-16,Ease My Trip,Delhi,18:10,21:00,02h 50m,non-stop,"9,289",9,16
+924,"GO FIRST
+G8- 285",1900-09-16,Ease My Trip,Delhi,17:25,20:00,02h 35m,non-stop,"9,289",9,16
+925,"Indigo
+6E-2336",1900-09-16,Ease My Trip,Delhi,22:00,00:35,02h 35m,non-stop,"9,289",9,16
+926,"Indigo
+6E-2119",1900-09-16,Ease My Trip,Delhi,19:15,22:00,02h 45m,non-stop,"9,289",9,16
+927,"Vistara
+UK-856",1900-09-16,Ease My Trip,Delhi,21:55,00:40,02h 45m,non-stop,"9,289",9,16
+928,"AirAsia
+I5-799",1900-09-16,Ease My Trip,Delhi,16:35,19:10,02h 35m,non-stop,"9,289",9,16
+929,"AirAsia
+I5-776",1900-09-16,Ease My Trip,Delhi,13:45,16:30,02h 45m,non-stop,"9,289",9,16
+930,"Air India
+AI-884",1900-09-16,Ease My Trip,Delhi,01:15,03:45,02h 30m,non-stop,"9,289",9,16
+931,"Air India
+AI-886",1900-09-16,Ease My Trip,Delhi,14:15,16:45,02h 30m,non-stop,"9,289",9,16
+932,"Vistara
+UK-848",1900-09-16,Ease My Trip,Delhi,14:25,17:05,02h 40m,non-stop,"9,289",9,16
+933,"Indigo
+6E- 137",1900-09-16,Ease My Trip,Delhi,06:45,11:40,04h 55m,1-stop,"9,289",9,16
+934,"Indigo
+6E- 137",1900-09-16,Ease My Trip,Delhi,06:45,12:20,05h 35m,1-stop,"9,289",9,16
+935,"Indigo
+6E- 137",1900-09-16,Ease My Trip,Delhi,06:45,14:10,07h 25m,1-stop,"9,342",9,16
+936,"Indigo
+6E- 137",1900-09-16,Ease My Trip,Delhi,06:45,14:45,08h 00m,1-stop,"9,709",9,16
+937,"SpiceJet
+SG- 354",1900-09-16,Ease My Trip,Delhi,07:50,22:45,14h 55m,1-stop,"9,709",9,16
+938,"AirAsia
+I5-330",1900-09-16,Ease My Trip,Delhi,17:45,01:05,07h 20m,1-stop,"9,709",9,16
+939,"Indigo
+6E-6811",1900-09-16,Ease My Trip,Delhi,18:30,00:40,06h 10m,1-stop,"9,709",9,16
+940,"SpiceJet
+SG- 452",1900-09-16,Ease My Trip,Delhi,03:45,09:35,05h 50m,1-stop,"9,709",9,16
+941,"SpiceJet
+SG- 487",1900-09-16,Ease My Trip,Delhi,17:35,09:35,16h 00m,1-stop,"9,709",9,16
+942,"SpiceJet
+SG- 454",1900-09-16,Ease My Trip,Delhi,13:30,09:35,20h 05m,1-stop,"9,709",9,16
+943,"GO FIRST
+G8- 381",1900-09-16,Ease My Trip,Delhi,06:45,17:10,10h 25m,1-stop,"9,709",9,16
+944,"SpiceJet
+SG-8189",1900-09-16,Ease My Trip,Delhi,01:05,08:45,07h 40m,1-stop,"9,814",9,16
+945,"GO FIRST
+G8-1914",1900-09-16,Ease My Trip,Delhi,20:50,09:40,12h 50m,1-stop,"10,392",9,16
+946,"GO FIRST
+G8-2606",1900-09-16,Ease My Trip,Delhi,17:20,08:05,14h 45m,1-stop,"10,759",9,16
+947,"GO FIRST
+G8-2606",1900-09-16,Ease My Trip,Delhi,17:20,01:10,07h 50m,1-stop,"10,801",9,16
+948,"SpiceJet
+SG- 487",1900-09-16,Ease My Trip,Delhi,17:35,02:50,09h 15m,1-stop,"10,801",9,16
+949,"SpiceJet
+SG-3009",1900-09-16,Ease My Trip,Delhi,21:55,08:35,10h 40m,1-stop,"10,812",9,16
+950,"SpiceJet
+SG-3735",1900-09-16,Ease My Trip,Delhi,21:05,08:25,11h 20m,1-stop,"11,347",9,16
+951,"GO FIRST
+G8- 332",1900-09-16,Ease My Trip,Delhi,13:15,01:10,11h 55m,1-stop,"11,757",9,16
+952,"SpiceJet
+SG- 454",1900-09-16,Ease My Trip,Delhi,13:30,02:50,13h 20m,1-stop,"11,757",9,16
+953,"SpiceJet
+SG- 452",1900-09-16,Ease My Trip,Delhi,03:45,18:20,14h 35m,1-stop,"11,757",9,16
+954,"SpiceJet
+SG-3009",1900-09-16,Ease My Trip,Delhi,21:55,20:05,22h 10m,1-stop,"11,757",9,16
+955,"SpiceJet
+SG- 452",1900-09-16,Ease My Trip,Delhi,03:45,02:50,23h 05m,1-stop,"11,757",9,16
+956,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,15:15,08h 25m,1-stop,"11,914",9,16
+957,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,09:05,09h 55m,1-stop,"11,914",9,16
+958,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,10:15,11h 05m,1-stop,"12,282",9,16
+959,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,18:20,11h 30m,1-stop,"12,334",9,16
+960,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,11:20,12h 10m,1-stop,"12,334",9,16
+961,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,14:55,15h 45m,1-stop,"12,334",9,16
+962,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,18:20,19h 10m,1-stop,"12,334",9,16
+963,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,19:10,20h 00m,1-stop,"12,439",9,16
+964,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,20:10,21h 00m,1-stop,"12,922",9,16
+965,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,21:15,22h 05m,1-stop,"13,592",9,16
+966,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,23:15,24h 05m,1-stop,"13,804",9,16
+967,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,09:05,26h 15m,1-stop,"14,062",9,16
+968,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,10:15,27h 25m,1-stop,"14,062",9,16
+969,"AirAsia
+I5-330",1900-09-16,Ease My Trip,Delhi,17:45,22:05,04h 20m,1-stop,"14,077",9,16
+970,"Indigo
+6E-6877",1900-09-16,Ease My Trip,Delhi,01:40,06:55,05h 15m,1-stop,"14,172",9,16
+971,"SpiceJet
+SG-8189",1900-09-16,Ease My Trip,Delhi,01:05,04:40,03h 35m,1-stop,"14,274",9,16
+972,"Indigo
+6E-2044",1900-09-16,Ease My Trip,Delhi,13:00,15:35,02h 35m,non-stop,"14,274",9,16
+973,"Indigo
+6E-2183",1900-09-16,Ease My Trip,Delhi,15:25,18:00,02h 35m,non-stop,"14,274",9,16
+974,"Indigo
+6E-2332",1900-09-16,Ease My Trip,Delhi,14:05,16:50,02h 45m,non-stop,"14,382",9,16
+975,"Indigo
+6E-6298",1900-09-16,Ease My Trip,Delhi,22:00,03:35,05h 35m,1-stop,"14,382",9,16
+976,"Indigo
+6E- 712",1900-09-16,Ease My Trip,Delhi,14:55,21:15,06h 20m,1-stop,"14,749",9,16
+977,"Indigo
+6E-6386",1900-09-16,Ease My Trip,Delhi,18:40,01:40,07h 00m,1-stop,"14,749",9,16
+978,"Indigo
+6E-6097",1900-09-16,Ease My Trip,Delhi,13:10,20:45,07h 35m,1-stop,"15,371",9,16
+979,"Indigo
+6E-6157",1900-09-16,Ease My Trip,Delhi,23:30,07:15,07h 45m,1-stop,"15,371",9,16
+980,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,12:20,13h 10m,1-stop,"15,379",9,16
+981,"SpiceJet
+SG- 526",1900-09-16,Ease My Trip,Delhi,13:40,04:40,15h 00m,1-stop,"15,379",9,16
+982,"Indigo
+6E- 744",1900-09-16,Ease My Trip,Delhi,07:20,12:10,04h 50m,1-stop,"15,747",9,16
+983,"Indigo
+6E- 468",1900-09-16,Ease My Trip,Delhi,18:10,00:45,06h 35m,1-stop,"15,904",9,16
+984,"Indigo
+6E-6097",1900-09-16,Ease My Trip,Delhi,13:10,18:10,05h 00m,1-stop,"16,114",9,16
+985,"Indigo
+6E- 589",1900-09-16,Ease My Trip,Delhi,21:10,03:30,06h 20m,1-stop,"17,164",9,16
+986,"Indigo
+6E- 744",1900-09-16,Ease My Trip,Delhi,07:20,13:55,06h 35m,1-stop,"17,584",9,16
+987,"Indigo
+6E- 714",1900-09-16,Ease My Trip,Delhi,16:30,22:55,06h 25m,1-stop,"17,906",9,16
+988,"GO FIRST
+G8- 372",1900-09-16,Ease My Trip,Delhi,18:30,08:05,13h 35m,1-stop,"18,445",9,16
+989,"AirAsia
+I5-1459",1900-09-16,Ease My Trip,Delhi,01:20,08:55,07h 35m,1-stop,"18,453",9,16
+990,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,09:05,17h 50m,1-stop,"19,054",9,16
+991,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,10:15,19h 00m,1-stop,"19,894",9,16
+992,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,11:20,20h 05m,1-stop,"19,894",9,16
+993,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,14:55,23h 40m,1-stop,"20,685",9,16
+994,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,18:20,27h 05m,1-stop,"20,685",9,16
+995,"GO FIRST
+G8- 286",1900-09-16,Ease My Trip,Delhi,13:50,23:50,10h 00m,1-stop,,9,16
+996,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,11:00,11h 50m,1-stop,,9,16
+997,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,11:00,28h 10m,1-stop,,9,16
+998,"AirAsia
+I5-819",1900-09-16,Ease My Trip,Delhi,07:10,14:05,06h 55m,1-stop,,9,16
+999,"AirAsia
+I5-1459",1900-09-16,Ease My Trip,Delhi,01:20,14:05,12h 45m,1-stop,,9,16
+1000,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,12:20,21h 05m,1-stop,,9,16
+1001,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,23:20,16h 30m,1-stop,,9,16
+1002,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,23:20,24h 10m,1-stop,,9,16
+1003,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,09:20,26h 30m,1-stop,,9,16
+1004,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,12:35,29h 45m,1-stop,,9,16
+1005,"SpiceJet
+SG- 526",1900-09-16,Ease My Trip,Delhi,13:40,08:45,19h 05m,1-stop,,9,16
+1006,"Indigo
+6E- 921",1900-09-16,Ease My Trip,Delhi,08:15,14:40,06h 25m,1-stop,,9,16
+1007,"AirAsia
+I5-819",1900-09-16,Ease My Trip,Delhi,07:10,21:10,14h 00m,1-stop,,9,16
+1008,"GO FIRST
+G8- 372",1900-09-16,Ease My Trip,Delhi,18:30,01:10,06h 40m,1-stop,,9,16
+1009,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,09:40,19h 00m,1-stop,,9,16
+1010,"AirAsia
+I5-1455",1900-09-16,Ease My Trip,Delhi,15:15,03:30,12h 15m,1-stop,,9,16
+1011,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,10:40,20h 00m,1-stop,,9,16
+1012,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,18:05,04h 45m,1-stop,,9,16
+1013,"SpiceJet
+SG- 454",1900-09-16,Ease My Trip,Delhi,13:30,22:00,08h 30m,1-stop,,9,16
+1014,"SpiceJet
+SG- 452",1900-09-16,Ease My Trip,Delhi,03:45,22:00,18h 15m,1-stop,,9,16
+1015,"AirAsia
+I5-1518",1900-09-16,Ease My Trip,Delhi,19:55,03:30,07h 35m,2+-stop,,9,16
+1016,"Indigo
+6E- 381",1900-09-16,Ease My Trip,Delhi,14:40,20:45,06h 05m,1-stop,,9,16
+1017,"Indigo
+6E- 381",1900-09-16,Ease My Trip,Delhi,14:40,22:00,07h 20m,1-stop,,9,16
+1018,"Indigo
+6E- 637",1900-09-16,Ease My Trip,Delhi,15:15,23:15,08h 00m,1-stop,,9,16
+1019,"Indigo
+6E-6097",1900-09-16,Ease My Trip,Delhi,13:10,19:25,06h 15m,1-stop,,9,16
+1020,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,23:20,08h 05m,1-stop,,9,16
+1021,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,09:20,18h 05m,1-stop,,9,16
+1022,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,12:35,21h 20m,1-stop,,9,16
+1023,"Indigo
+6E-5029",1900-09-16,Ease My Trip,Delhi,19:50,01:45,05h 55m,1-stop,,9,16
+1024,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,11:00,19h 45m,1-stop,,9,16
+1025,"GO FIRST
+G8- 381",1900-09-16,Ease My Trip,Delhi,06:45,20:40,13h 55m,1-stop,,9,16
+1026,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,20:20,05h 40m,1-stop,,9,16
+1027,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,12:40,22h 00m,1-stop,,9,16
+1028,"AirAsia
+I5-1518",1900-09-16,Ease My Trip,Delhi,19:55,08:55,13h 00m,2+-stop,,9,16
+1029,"GO FIRST
+G8- 332",1900-09-16,Ease My Trip,Delhi,13:15,20:40,07h 25m,1-stop,,9,16
+1030,"Air India
+AI-697",1900-09-16,Ease My Trip,Delhi,23:10,00:15,25h 05m,1-stop,,9,16
+1031,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,00:15,41h 25m,1-stop,,9,16
+1032,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,22:20,07h 40m,1-stop,,9,16
+1033,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,14:20,23h 40m,1-stop,,9,16
+1034,"SpiceJet
+SG-3702",1900-09-16,Ease My Trip,Delhi,13:40,10:25,20h 45m,1-stop,,9,16
+1035,"AirAsia
+I5-1455",1900-09-16,Ease My Trip,Delhi,15:15,21:10,05h 55m,1-stop,,9,16
+1036,"AirAsia
+I5-1455",1900-09-16,Ease My Trip,Delhi,15:15,01:20,10h 05m,1-stop,,9,16
+1037,"Indigo
+6E- 637",1900-09-16,Ease My Trip,Delhi,15:15,20:55,05h 40m,1-stop,,9,16
+1038,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,19:40,06h 20m,1-stop,,9,16
+1039,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,21:25,06h 45m,1-stop,,9,16
+1040,"Vistara
+UK-868",1900-09-16,Ease My Trip,Delhi,14:40,23:45,09h 05m,1-stop,,9,16
+1041,"GO FIRST
+G8-2606",1900-09-16,Ease My Trip,Delhi,17:20,22:50,05h 30m,1-stop,,9,16
+1042,"GO FIRST
+G8-2606",1900-09-16,Ease My Trip,Delhi,17:20,23:40,06h 20m,1-stop,,9,16
+1043,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,20:40,07h 20m,1-stop,,9,16
+1044,"GO FIRST
+G8- 332",1900-09-16,Ease My Trip,Delhi,13:15,22:50,09h 35m,1-stop,,9,16
+1045,"GO FIRST
+G8- 332",1900-09-16,Ease My Trip,Delhi,13:15,23:40,10h 25m,1-stop,,9,16
+1046,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,00:15,33h 00m,1-stop,,9,16
+1047,"Indigo
+6E- 637",1900-09-16,Ease My Trip,Delhi,15:15,19:40,04h 25m,1-stop,,9,16
+1048,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,09:40,20h 20m,1-stop,,9,16
+1049,"AirAsia
+I5-974",1900-09-16,Ease My Trip,Delhi,18:30,03:30,09h 00m,2+-stop,,9,16
+1050,"Air India
+AI-684",1900-09-16,Ease My Trip,Delhi,06:50,19:10,12h 20m,1-stop,,9,16
+1051,"GO FIRST
+G8- 372",1900-09-16,Ease My Trip,Delhi,18:30,23:40,05h 10m,1-stop,,9,16
+1052,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,21:55,08h 35m,1-stop,,9,16
+1053,"Vistara
+UK-842",1900-09-16,Ease My Trip,Delhi,13:20,00:10,10h 50m,1-stop,,9,16
+1054,"SpiceJet
+SG-3702",1900-09-16,Ease My Trip,Delhi,13:40,22:15,08h 35m,1-stop,,9,16
+1055,"AirAsia
+I5-974",1900-09-16,Ease My Trip,Delhi,18:30,08:55,14h 25m,2+-stop,,9,16
+1056,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,23:45,08h 30m,1-stop,,9,16
+1057,"Air India
+AI-664",1900-09-16,Ease My Trip,Delhi,15:15,00:05,08h 50m,1-stop,,9,16
+1058,"AirAsia
+I5-974",1900-09-16,Ease My Trip,Delhi,18:30,01:20,06h 50m,2+-stop,,9,16
+1059,"SpiceJet
+SG-8189",1900-09-16,Ease My Trip,Delhi,01:05,19:45,18h 40m,1-stop,,9,16
+1060,"SpiceJet
+SG- 526",1900-09-16,Ease My Trip,Delhi,13:40,19:45,06h 05m,1-stop,,9,16
+1061,"SpiceJet
+SG- 191",1900-09-16,Ease My Trip,Bangalore,06:05,08:55,02h 50m,non-stop,"7,425",9,16
+1062,"Indigo
+6E-6612",1900-09-16,Ease My Trip,Bangalore,06:00,08:35,02h 35m,non-stop,"7,425",9,16
+1063,"Indigo
+6E-2048",1900-09-16,Ease My Trip,Bangalore,03:50,06:40,02h 50m,non-stop,"7,425",9,16
+1064,"Indigo
+6E-6565",1900-09-16,Ease My Trip,Bangalore,22:55,01:45,02h 50m,non-stop,"7,425",9,16
+1065,"Indigo
+6E-5009",1900-09-16,Ease My Trip,Bangalore,06:55,09:50,02h 55m,non-stop,"7,425",9,16
+1066,"AirAsia
+I5-1732",1900-09-16,Ease My Trip,Bangalore,21:50,00:35,02h 45m,non-stop,"7,425",9,16
+1067,"AirAsia
+I5-740",1900-09-16,Ease My Trip,Bangalore,08:10,10:40,02h 30m,non-stop,"7,425",9,16
+1068,"AirAsia
+I5-721",1900-09-16,Ease My Trip,Bangalore,21:00,23:50,02h 50m,non-stop,"8,212",9,16
+1069,"Vistara
+UK-815",1900-09-16,Ease My Trip,Bangalore,08:10,10:50,02h 40m,non-stop,"8,748",9,16
+1070,"Vistara
+UK-811",1900-09-16,Ease My Trip,Bangalore,06:15,09:00,02h 45m,non-stop,"8,748",9,16
+1071,"GO FIRST
+G8- 113",1900-09-16,Ease My Trip,Bangalore,06:00,08:35,02h 35m,non-stop,"9,419",9,16
+1072,"SpiceJet
+SG- 537",1900-09-16,Ease My Trip,Bangalore,20:00,22:30,02h 30m,non-stop,"9,419",9,16
+1073,"GO FIRST
+G8- 119",1900-09-16,Ease My Trip,Bangalore,20:45,23:25,02h 40m,non-stop,"9,419",9,16
+1074,"Air India
+AI-813",1900-09-16,Ease My Trip,Bangalore,08:00,10:30,02h 30m,non-stop,"9,419",9,16
+1075,"Air India
+AI-803",1900-09-16,Ease My Trip,Bangalore,06:10,08:55,02h 45m,non-stop,"9,420",9,16
+1076,"Vistara
+UK-801",1900-09-16,Ease My Trip,Bangalore,09:05,11:50,02h 45m,non-stop,"9,419",9,16
+1077,"Air India
+AI-506",1900-09-16,Ease My Trip,Bangalore,09:45,12:30,02h 45m,non-stop,"9,419",9,16
+1078,"Air India
+AI-502",1900-09-16,Ease My Trip,Bangalore,13:30,16:15,02h 45m,non-stop,"9,419",9,16
+1079,"Air India
+AI-815",1900-09-16,Ease My Trip,Bangalore,15:50,18:40,02h 50m,non-stop,"9,419",9,16
+1080,"Air India
+AI-504",1900-09-16,Ease My Trip,Bangalore,21:15,00:05,02h 50m,non-stop,"9,419",9,16
+1081,"Indigo
+6E-2131",1900-09-16,Ease My Trip,Bangalore,21:30,00:15,02h 45m,non-stop,"9,419",9,16
+1082,"AirAsia
+I5-548",1900-09-16,Ease My Trip,Bangalore,07:20,12:10,04h 50m,1-stop,"9,419",9,16
+1083,"AirAsia
+I5-745",1900-09-16,Ease My Trip,Bangalore,13:00,19:25,06h 25m,1-stop,"9,950",9,16
+1084,"AirAsia
+I5-548",1900-09-16,Ease My Trip,Bangalore,07:20,19:25,12h 05m,1-stop,"9,950",9,16
+1085,"AirAsia
+I5-550",1900-09-16,Ease My Trip,Bangalore,22:15,12:10,13h 55m,1-stop,"9,943",9,16
+1086,"AirAsia
+I5-1529",1900-09-16,Ease My Trip,Bangalore,09:35,12:25,02h 50m,non-stop,"10,312",9,16
+1087,"Indigo
+6E-2325",1900-09-16,Ease My Trip,Bangalore,01:50,08:15,06h 25m,1-stop,"10,627",9,16
+1088,"Indigo
+6E-2325",1900-09-16,Ease My Trip,Bangalore,01:50,09:30,07h 40m,1-stop,"10,680",9,16
+1089,"Indigo
+6E-2168",1900-09-16,Ease My Trip,Bangalore,17:50,22:40,04h 50m,1-stop,"10,680",9,16
+1090,"AirAsia
+I5-768",1900-09-16,Ease My Trip,Bangalore,15:30,01:35,10h 05m,1-stop,"10,680",9,16
+1091,"Vistara
+UK-817",1900-09-16,Ease My Trip,Bangalore,16:05,18:50,02h 45m,non-stop,"10,680",9,16
+1092,"Vistara
+UK-819",1900-09-16,Ease My Trip,Bangalore,14:15,17:05,02h 50m,non-stop,"10,680",9,16
+1093,"GO FIRST
+G8- 173",1900-09-16,Ease My Trip,Bangalore,09:40,00:10,14h 30m,1-stop,"10,680",9,16
+1094,"SpiceJet
+SG-8185",1900-09-16,Ease My Trip,Bangalore,09:25,16:50,07h 25m,1-stop,"10,680",9,16
+1095,"SpiceJet
+SG-2962",1900-09-16,Ease My Trip,Bangalore,06:15,19:25,13h 10m,1-stop,"10,680",9,16
+1096,"SpiceJet
+SG-8485",1900-09-16,Ease My Trip,Bangalore,14:00,12:10,22h 10m,1-stop,"10,680",9,16
+1097,"SpiceJet
+SG- 953",1900-09-16,Ease My Trip,Bangalore,14:50,14:35,23h 45m,1-stop,"10,680",9,16
+1098,"SpiceJet
+SG-8389",1900-09-16,Ease My Trip,Bangalore,18:55,19:30,24h 35m,1-stop,"10,680",9,16
+1099,"AirAsia
+I5-552",1900-09-16,Ease My Trip,Bangalore,10:40,16:25,05h 45m,1-stop,"10,680",9,16
+1100,"AirAsia
+I5-710",1900-09-16,Ease My Trip,Bangalore,10:00,17:30,07h 30m,1-stop,"10,680",9,16
+1101,"AirAsia
+I5-776",1900-09-16,Ease My Trip,Bangalore,17:05,00:50,07h 45m,1-stop,"10,680",9,16
+1102,"AirAsia
+I5-549",1900-09-16,Ease My Trip,Bangalore,14:55,22:55,08h 00m,1-stop,"10,680",9,16
+1103,"AirAsia
+I5-549",1900-09-16,Ease My Trip,Bangalore,14:55,00:20,09h 25m,1-stop,"10,680",9,16
+1104,"AirAsia
+I5-792",1900-09-16,Ease My Trip,Bangalore,12:40,00:50,12h 10m,1-stop,"10,680",9,16
+1105,"AirAsia
+I5-857",1900-09-16,Ease My Trip,Bangalore,18:45,21:40,02h 55m,non-stop,"10,837",9,16
+1106,"Indigo
+6E-5186",1900-09-16,Ease My Trip,Bangalore,13:00,15:35,02h 35m,non-stop,"11,047",9,16
+1107,"Indigo
+6E- 308",1900-09-16,Ease My Trip,Bangalore,08:20,11:00,02h 40m,non-stop,"11,205",9,16
+1108,"Indigo
+6E-6827",1900-09-16,Ease My Trip,Bangalore,09:15,11:55,02h 40m,non-stop,"11,309",9,16
+1109,"Indigo
+6E- 781",1900-09-16,Ease My Trip,Bangalore,15:20,18:15,02h 55m,non-stop,"11,887",9,16
+1110,"Air India
+AI-807",1900-09-16,Ease My Trip,Bangalore,17:15,20:15,03h 00m,non-stop,"12,123",9,16
+1111,"Indigo
+6E-2697",1900-09-16,Ease My Trip,Bangalore,06:50,12:05,05h 15m,1-stop,"12,150",9,16
+1112,"Indigo
+6E-2774",1900-09-16,Ease My Trip,Bangalore,07:55,13:10,05h 15m,1-stop,"12,463",9,16
+1113,"Indigo
+6E-6187",1900-09-16,Ease My Trip,Bangalore,15:15,20:30,05h 15m,1-stop,"12,622",9,16
+1114,"Indigo
+6E-2008",1900-09-16,Ease My Trip,Bangalore,06:00,12:10,06h 10m,1-stop,"12,664",9,16
+1115,"Indigo
+6E-2331",1900-09-16,Ease My Trip,Bangalore,06:40,13:10,06h 30m,1-stop,"12,664",9,16
+1116,"Indigo
+6E-2066",1900-09-16,Ease My Trip,Bangalore,15:20,22:00,06h 40m,1-stop,"12,664",9,16
+1117,"Indigo
+6E- 216",1900-09-16,Ease My Trip,Bangalore,11:55,20:30,08h 35m,1-stop,"12,664",9,16
+1118,"GO FIRST
+G8- 422",1900-09-16,Ease My Trip,Bangalore,19:10,09:40,14h 30m,1-stop,"12,990",9,16
+1119,"Vistara
+UK-935",1900-09-16,Ease My Trip,Bangalore,18:00,21:50,03h 50m,1-stop,"13,200",9,16
+1120,"Indigo
+6E-5036",1900-09-16,Ease My Trip,Bangalore,02:25,05:15,02h 50m,non-stop,"13,200",9,16
+1121,"Indigo
+6E-2532",1900-09-16,Ease My Trip,Bangalore,20:10,23:00,02h 50m,non-stop,"13,200",9,16
+1122,"Indigo
+6E-6034",1900-09-16,Ease My Trip,Bangalore,08:45,16:30,07h 45m,1-stop,"13,204",9,16
+1123,"AirAsia
+I5-768",1900-09-16,Ease My Trip,Bangalore,15:30,21:00,05h 30m,1-stop,"13,204",9,16
+1124,"GO FIRST
+G8- 713",1900-09-16,Ease My Trip,Bangalore,20:20,10:45,14h 25m,1-stop,"13,204",9,16
+1125,"Indigo
+6E-2487",1900-09-16,Ease My Trip,Bangalore,17:15,19:55,02h 40m,non-stop,"13,305",9,16
+1126,"Indigo
+6E- 671",1900-09-16,Ease My Trip,Bangalore,21:20,02:35,05h 15m,1-stop,"13,305",9,16
+1127,"Air India
+AI-865",1900-09-16,Ease My Trip,Bangalore,10:00,18:20,08h 20m,1-stop,"13,725",9,16
+1128,"Air India
+AI-678",1900-09-16,Ease My Trip,Bangalore,09:00,18:20,09h 20m,1-stop,"13,725",9,16
+1129,"Air India
+AI-665",1900-09-16,Ease My Trip,Bangalore,08:00,18:20,10h 20m,1-stop,"13,725",9,16
+1130,"Air India
+AI-887",1900-09-16,Ease My Trip,Bangalore,07:00,18:20,11h 20m,1-stop,"13,725",9,16
+1131,"Air India
+AI-441",1900-09-16,Ease My Trip,Bangalore,17:55,07:50,13h 55m,1-stop,"13,830",9,16
+1132,"Air India
+AI-441",1900-09-16,Ease My Trip,Bangalore,17:55,11:10,17h 15m,1-stop,"13,830",9,16
+1133,"Air India
+AI-863",1900-09-16,Ease My Trip,Bangalore,14:15,07:50,17h 35m,1-stop,"13,830",9,16
+1134,"Air India
+AI-863",1900-09-16,Ease My Trip,Bangalore,14:15,11:10,20h 55m,1-stop,"13,830",9,16
+1135,"Air India
+AI-865",1900-09-16,Ease My Trip,Bangalore,10:00,07:50,21h 50m,1-stop,"13,830",9,16
+1136,"Air India
+AI-678",1900-09-16,Ease My Trip,Bangalore,09:00,07:50,22h 50m,1-stop,"14,018",9,16
+1137,"Air India
+AI-665",1900-09-16,Ease My Trip,Bangalore,08:00,07:50,23h 50m,1-stop,"14,018",9,16
+1138,"Air India
+AI-441",1900-09-16,Ease My Trip,Bangalore,17:55,18:20,24h 25m,1-stop,"14,018",9,16
+1139,"Air India
+AI-887",1900-09-16,Ease My Trip,Bangalore,07:00,07:50,24h 50m,1-stop,"14,018",9,16
+1140,"Air India
+AI-865",1900-09-16,Ease My Trip,Bangalore,10:00,11:10,25h 10m,1-stop,"14,355",9,16
+1141,"Air India
+AI-678",1900-09-16,Ease My Trip,Bangalore,09:00,11:10,26h 10m,1-stop,"14,565",9,16
+1142,"Air India
+AI-441",1900-09-16,Ease My Trip,Bangalore,17:55,20:40,26h 45m,1-stop,"14,943",9,16
+1143,"Air India
+AI-665",1900-09-16,Ease My Trip,Bangalore,08:00,11:10,27h 10m,1-stop,"14,943",9,16
+1144,"Indigo
+6E- 147",1900-09-16,Ease My Trip,Bangalore,23:30,06:05,06h 35m,1-stop,"14,943",9,16
+1145,"Indigo
+6E-2015",1900-09-16,Ease My Trip,Bangalore,18:30,21:15,02h 45m,non-stop,"14,943",9,16
+1146,"GO FIRST
+G8- 719",1900-09-16,Ease My Trip,Bangalore,05:40,10:45,05h 05m,1-stop,"15,090",9,16
+1147,"Vistara
+UK-813",1900-09-16,Ease My Trip,Bangalore,17:35,20:25,02h 50m,non-stop,"15,468",9,16
+1148,"Indigo
+6E-6823",1900-09-16,Ease My Trip,Bangalore,18:05,23:40,05h 35m,1-stop,"15,823",9,16
+1149,"GO FIRST
+G8- 323",1900-09-16,Ease My Trip,Bangalore,19:20,07:35,12h 15m,1-stop,"15,823",9,16
+1150,"AirAsia
+I5-773",1900-09-16,Ease My Trip,Bangalore,20:00,07:35,11h 35m,1-stop,"16,348",9,16
+1151,"Indigo
+6E- 177",1900-09-16,Ease My Trip,Bangalore,02:00,09:20,07h 20m,1-stop,"16,348",9,16
+1152,"Indigo
+6E-2175",1900-09-16,Ease My Trip,Bangalore,08:30,12:50,04h 20m,1-stop,"16,350",9,16
+1153,"Vistara
+UK-637",1900-09-16,Ease My Trip,Bangalore,17:10,18:15,25h 05m,1-stop,"16,350",9,16
+1154,"GO FIRST
+G8- 346",1900-09-16,Ease My Trip,Bangalore,20:10,07:35,11h 25m,1-stop,"16,560",9,16
+1155,"Vistara
+UK-879",1900-09-16,Ease My Trip,Bangalore,17:35,08:45,15h 10m,1-stop,"16,560",9,16
+1156,"GO FIRST
+G8- 336",1900-09-16,Ease My Trip,Bangalore,15:00,22:15,07h 15m,1-stop,"16,560",9,16
+1157,"Indigo
+6E-2769",1900-09-16,Ease My Trip,Bangalore,08:30,14:25,05h 55m,1-stop,"16,560",9,16
+1158,"Indigo
+6E-2187",1900-09-16,Ease My Trip,Bangalore,15:00,20:40,05h 40m,1-stop,"16,875",9,16
+1159,"Indigo
+6E-2187",1900-09-16,Ease My Trip,Bangalore,15:00,21:35,06h 35m,1-stop,"17,347",9,16
+1160,"Indigo
+6E-5042",1900-09-16,Ease My Trip,Bangalore,10:15,17:20,07h 05m,1-stop,"17,400",9,16
+1161,"Indigo
+6E-2004",1900-09-16,Ease My Trip,Bangalore,12:45,20:40,07h 55m,1-stop,"17,400",9,16
+1162,"Vistara
+UK-809",1900-09-16,Ease My Trip,Bangalore,19:50,22:40,02h 50m,non-stop,"17,505",9,16
+1163,"GO FIRST
+G8- 330",1900-09-16,Ease My Trip,Bangalore,21:15,07:35,10h 20m,1-stop,"17,505",9,16
+1164,"GO FIRST
+G8- 338",1900-09-16,Ease My Trip,Bangalore,10:55,18:10,07h 15m,1-stop,"17,505",9,16
+1165,"Vistara
+UK-945",1900-09-16,Ease My Trip,Bangalore,11:40,17:45,06h 05m,1-stop,"17,505",9,16
+1166,"Vistara
+UK-995",1900-09-16,Ease My Trip,Bangalore,10:20,17:45,07h 25m,1-stop,"17,505",9,16
+1167,"Vistara
+UK-927",1900-09-16,Ease My Trip,Bangalore,09:30,17:45,08h 15m,1-stop,"17,801",9,16
+1168,"Indigo
+6E-7403",1900-09-16,Ease My Trip,Bangalore,07:20,12:50,05h 30m,1-stop,"17,801",9,16
+1169,"Indigo
+6E- 972",1900-09-16,Ease My Trip,Bangalore,13:35,20:40,07h 05m,1-stop,"17,801",9,16
+1170,"Indigo
+6E-2153",1900-09-16,Ease My Trip,Bangalore,13:25,21:35,08h 10m,1-stop,"19,183",9,16
+1171,"Air India
+AI-636",1900-09-16,Ease My Trip,Bangalore,14:30,07:50,17h 20m,1-stop Via Indore,"19,248",9,16
+1172,"Air India
+AI-636",1900-09-16,Ease My Trip,Bangalore,14:30,11:10,20h 40m,1-stop Via Indore,"19,248",9,16
+1173,"Vistara
+UK-951",1900-09-16,Ease My Trip,Bangalore,14:20,19:15,04h 55m,1-stop,"19,624",9,16
+1174,"Vistara
+UK-945",1900-09-16,Ease My Trip,Bangalore,11:40,19:15,07h 35m,1-stop,"19,710",9,16
+1175,"Vistara
+UK-995",1900-09-16,Ease My Trip,Bangalore,10:20,19:15,08h 55m,1-stop,"19,710",9,16
+1176,"Vistara
+UK-927",1900-09-16,Ease My Trip,Bangalore,09:30,19:15,09h 45m,1-stop,"20,128",9,16
+1177,"Air India
+AI-814",1900-09-16,Ease My Trip,Bangalore,22:30,07:50,09h 20m,1-stop,"20,128",9,16
+1178,"Air India
+AI-805",1900-09-16,Ease My Trip,Bangalore,20:00,07:50,11h 50m,1-stop,"20,129",9,16
+1179,"Air India
+AI-814",1900-09-16,Ease My Trip,Bangalore,22:30,11:10,12h 40m,1-stop,"20,655",9,16
+1180,"Air India
+AI-805",1900-09-16,Ease My Trip,Bangalore,20:00,11:10,15h 10m,1-stop,"20,968",9,16
+1181,"Air India
+AI-814",1900-09-16,Ease My Trip,Bangalore,22:30,18:20,19h 50m,1-stop,"22,020",9,16
+1182,"Air India
+AI-403",1900-09-16,Ease My Trip,Bangalore,12:50,07:50,19h 00m,2+-stop,"23,070",9,16
+1183,"Air India
+AI-403",1900-09-16,Ease My Trip,Bangalore,12:50,11:10,22h 20m,2+-stop,,9,16
+1184,"Air India
+AI-403",1900-09-16,Ease My Trip,Bangalore,12:50,18:20,29h 30m,2+-stop,,9,16
+1185,"Air India
+AI-403",1900-09-16,Ease My Trip,Bangalore,12:50,20:40,31h 50m,2+-stop,,9,16
+1186,"Vistara
+UK-807",1900-09-16,Ease My Trip,Bangalore,20:40,23:20,02h 40m,non-stop,,9,16
+1187,"GO FIRST
+G8- 338",1900-09-16,Ease My Trip,Bangalore,10:55,22:15,11h 20m,1-stop,,9,16
+1188,"Air India
+AI-624",1900-09-16,Ease My Trip,Bangalore,19:00,07:50,12h 50m,1-stop,,9,16
+1189,"Vistara
+UK-997",1900-09-16,Ease My Trip,Bangalore,14:10,20:30,06h 20m,1-stop,,9,16
+1190,"Vistara
+UK-975",1900-09-16,Ease My Trip,Bangalore,05:55,17:45,11h 50m,1-stop,,9,16
+1191,"Vistara
+UK-971",1900-09-16,Ease My Trip,Bangalore,08:40,20:30,11h 50m,1-stop,,9,16
+1192,"Vistara
+UK-997",1900-09-16,Ease My Trip,Bangalore,14:10,08:30,18h 20m,1-stop,,9,16
+1193,"Air India
+AI-542",1900-09-16,Ease My Trip,Bangalore,09:45,18:20,08h 35m,2+-stop,,9,16
+1194,"Vistara
+UK-975",1900-09-16,Ease My Trip,Bangalore,05:55,10:45,04h 50m,1-stop,,9,16
+1195,"Vistara
+UK-963",1900-09-16,Ease My Trip,Bangalore,08:50,17:45,08h 55m,1-stop,,9,16
+1196,"Vistara
+UK-943",1900-09-16,Ease My Trip,Bangalore,07:30,17:45,10h 15m,1-stop,,9,16
+1197,"Vistara
+UK-963",1900-09-16,Ease My Trip,Bangalore,08:50,19:15,10h 25m,1-stop,,9,16
+1198,"Vistara
+UK-943",1900-09-16,Ease My Trip,Bangalore,07:30,19:15,11h 45m,1-stop,,9,16
+1199,"Vistara
+UK-993",1900-09-16,Ease My Trip,Bangalore,12:45,17:45,05h 00m,1-stop,,9,16
+1200,"Vistara
+UK-871",1900-09-16,Ease My Trip,Bangalore,20:35,08:45,12h 10m,1-stop,,9,16
+1201,"Vistara
+UK-941",1900-09-16,Ease My Trip,Bangalore,16:55,23:10,06h 15m,1-stop,,9,16
+1202,"Vistara
+UK-933",1900-09-16,Ease My Trip,Bangalore,15:30,23:10,07h 40m,1-stop,,9,16
+1203,"Vistara
+UK-951",1900-09-16,Ease My Trip,Bangalore,14:20,23:10,08h 50m,1-stop,,9,16
+1204,"Vistara
+UK-945",1900-09-16,Ease My Trip,Bangalore,11:40,23:10,11h 30m,1-stop,,9,16
+1205,"Vistara
+UK-993",1900-09-16,Ease My Trip,Bangalore,12:45,19:15,06h 30m,1-stop,,9,16
+1206,"Indigo
+6E-2153",1900-09-16,Ease My Trip,Bangalore,13:25,20:40,07h 15m,1-stop,,9,16
+1207,"Vistara
+UK-973",1900-09-16,Ease My Trip,Bangalore,20:50,08:30,11h 40m,1-stop,,9,16
+1208,"Vistara
+UK-991",1900-09-16,Ease My Trip,Bangalore,17:45,08:30,14h 45m,1-stop,,9,16
+1209,"Vistara
+UK-933",1900-09-16,Ease My Trip,Bangalore,15:30,20:55,05h 25m,1-stop,,9,16
+1210,"Vistara
+UK-951",1900-09-16,Ease My Trip,Bangalore,14:20,20:55,06h 35m,1-stop,,9,16
+1211,"Vistara
+UK-945",1900-09-16,Ease My Trip,Bangalore,11:40,20:55,09h 15m,1-stop,,9,16
+1212,"Vistara
+UK-995",1900-09-16,Ease My Trip,Bangalore,10:20,20:55,10h 35m,1-stop,,9,16
+1213,"Vistara
+UK-927",1900-09-16,Ease My Trip,Bangalore,09:30,20:55,11h 25m,1-stop,,9,16
+1214,"Vistara
+UK-706",1900-09-16,Ease My Trip,Bangalore,13:40,19:15,29h 35m,2+-stop,,9,16
+1215,"Vistara
+UK-706",1900-09-16,Ease My Trip,Bangalore,13:40,19:15,29h 35m,2+-stop,,9,16
+1216,"Vistara
+UK-706",1900-09-16,Ease My Trip,Bangalore,13:40,23:10,33h 30m,2+-stop,,9,16
+1217,"AirAsia
+I5-745",1900-09-16,Ease My Trip,Bangalore,13:00,23:10,10h 10m,1-stop,,9,16
+1218,"SpiceJet
+SG-8187",1900-09-16,Ease My Trip,Bangalore,13:05,12:55,23h 50m,1-stop,,9,16
+1219,"Vistara
+UK-955",1900-09-16,Ease My Trip,Bangalore,17:45,23:10,05h 25m,1-stop,,9,16
+1220,"Vistara
+UK-899",1900-09-16,Ease My Trip,Bangalore,14:45,19:30,04h 45m,1-stop,,9,16
+1221,"Vistara
+UK-829",1900-09-16,Ease My Trip,Bangalore,07:20,19:30,12h 10m,1-stop,,9,16
+1222,"Vistara
+UK-706",1900-09-16,Ease My Trip,Bangalore,13:40,07:50,18h 10m,2+-stop,,9,16
+1223,"Vistara
+UK-993",1900-09-16,Ease My Trip,Bangalore,12:45,23:10,10h 25m,1-stop,,9,16
+1224,"Vistara
+UK-953",1900-09-16,Ease My Trip,Bangalore,20:40,07:50,11h 10m,1-stop,,9,16
+1225,"Vistara
+UK-859",1900-09-16,Ease My Trip,Bangalore,10:25,19:30,09h 05m,1-stop,,9,16
+1226,"Vistara
+UK-963",1900-09-16,Ease My Trip,Bangalore,08:50,20:55,12h 05m,1-stop,,9,16
+1227,"Indigo
+6E-2143",1900-09-16,Ease My Trip,Bangalore,17:55,23:55,06h 00m,1-stop,,9,16
+1228,"SpiceJet
+SG- 957",1900-09-16,Ease My Trip,Bangalore,15:10,23:25,08h 15m,1-stop,,9,16
+1229,"SpiceJet
+SG-8171",1900-09-16,Ease My Trip,Bangalore,12:05,23:25,11h 20m,1-stop,,9,16
+1230,"Vistara
+UK-993",1900-09-16,Ease My Trip,Bangalore,12:45,20:55,08h 10m,1-stop,,9,16
+1231,"Vistara
+UK-855",1900-09-16,Ease My Trip,Bangalore,18:40,15:55,21h 15m,1-stop,,9,16
+1232,"AirAsia
+I5-798",1900-09-16,Ease My Trip,Bangalore,12:50,23:10,10h 20m,2+-stop,,9,16
+1233,"AirAsia
+I5-552",1900-09-16,Ease My Trip,Bangalore,10:40,23:10,12h 30m,1-stop,,9,16
+1234,"AirAsia
+I5-767",1900-09-16,Ease My Trip,Bangalore,10:05,18:10,08h 05m,2+-stop,,9,16
+1235,"SpiceJet
+SG-8903",1900-09-16,Ease My Trip,Bangalore,06:30,12:55,06h 25m,1-stop,,9,16
+1236,"Vistara
+UK-847",1900-09-16,Ease My Trip,Bangalore,11:10,15:55,04h 45m,1-stop,,9,16
+1237,"AirAsia
+I5-745",1900-09-16,Ease My Trip,Bangalore,13:00,21:25,08h 25m,1-stop,,9,16
+1238,"Vistara
+UK-741",1900-09-16,Ease My Trip,Bangalore,09:40,16:20,06h 40m,1-stop,,9,16
+1239,"GO FIRST
+G8- 286",1900-09-16,Ease My Trip,Bangalore,10:45,15:00,04h 15m,1-stop,,9,16
+1240,"AirAsia
+I5-798",1900-09-16,Ease My Trip,Bangalore,12:50,21:25,08h 35m,2+-stop,,9,16
+1241,"AirAsia
+I5-552",1900-09-16,Ease My Trip,Bangalore,10:40,21:25,10h 45m,1-stop,,9,16
+1242,"AirAsia
+I5-792",1900-09-16,Ease My Trip,Bangalore,12:40,23:30,10h 50m,1-stop,,9,16
+1243,"AirAsia
+I5-787",1900-09-16,Ease My Trip,Bangalore,05:45,23:30,17h 45m,2+-stop,,9,16
+1244,"AirAsia
+I5-745",1900-09-16,Ease My Trip,Bangalore,13:00,20:50,07h 50m,1-stop,,9,16
+1245,"AirAsia
+I5-548",1900-09-16,Ease My Trip,Bangalore,07:20,20:50,13h 30m,1-stop,,9,16
+1246,"Air India
+AI-804",1900-09-16,Ease My Trip,Delhi,06:10,08:55,02h 45m,non-stop,"7,684",9,16
+1247,"Air India
+AI-505",1900-09-16,Ease My Trip,Delhi,10:00,12:50,02h 50m,non-stop,"7,684",9,16
+1248,"Air India
+AI-507",1900-09-16,Ease My Trip,Delhi,11:15,14:05,02h 50m,non-stop,"7,684",9,16
+1249,"Vistara
+UK-816",1900-09-16,Ease My Trip,Delhi,11:30,14:20,02h 50m,non-stop,"7,684",9,16
+1250,"Air India
+AI-509",1900-09-16,Ease My Trip,Delhi,19:20,22:10,02h 50m,non-stop,"7,684",9,16
+1251,"AirAsia
+I5-1528",1900-09-16,Ease My Trip,Delhi,06:10,08:55,02h 45m,non-stop,"7,840",9,16
+1252,"SpiceJet
+SG- 536",1900-09-16,Ease My Trip,Delhi,17:30,20:05,02h 35m,non-stop,"7,883",9,16
+1253,"GO FIRST
+G8- 116",1900-09-16,Ease My Trip,Delhi,05:45,08:25,02h 40m,non-stop,"8,157",9,16
+1254,"Vistara
+UK-808",1900-09-16,Ease My Trip,Delhi,08:00,10:40,02h 40m,non-stop,"8,346",9,16
+1255,"Indigo
+6E-2053",1900-09-16,Ease My Trip,Delhi,23:05,02:00,02h 55m,non-stop,"8,419",9,16
+1256,"Vistara
+UK-806",1900-09-16,Ease My Trip,Delhi,09:45,12:40,02h 55m,non-stop,"8,584",9,16
+1257,"SpiceJet
+SG- 136",1900-09-16,Ease My Trip,Delhi,05:55,08:25,02h 30m,non-stop,"9,207",9,16
+1258,"AirAsia
+I5-741",1900-09-16,Ease My Trip,Delhi,11:15,14:05,02h 50m,non-stop,"9,574",9,16
+1259,"GO FIRST
+G8- 118",1900-09-16,Ease My Trip,Delhi,21:05,23:50,02h 45m,non-stop,"9,679",9,16
+1260,"AirAsia
+I5-1533",1900-09-16,Ease My Trip,Delhi,14:00,01:05,11h 05m,1-stop,"9,679",9,16
+1261,"AirAsia
+I5-386",1900-09-16,Ease My Trip,Delhi,03:35,09:05,05h 30m,1-stop,"9,679",9,16
+1262,"AirAsia
+I5-722",1900-09-16,Ease My Trip,Delhi,00:40,03:30,02h 50m,non-stop,"9,679",9,16
+1263,"AirAsia
+I5-749",1900-09-16,Ease My Trip,Delhi,22:30,01:20,02h 50m,non-stop,"9,679",9,16
+1264,"AirAsia
+I5-1730",1900-09-16,Ease My Trip,Delhi,18:15,21:10,02h 55m,non-stop,"9,679",9,16
+1265,"Indigo
+6E-6042",1900-09-16,Ease My Trip,Delhi,22:05,01:00,02h 55m,non-stop,"9,679",9,16
+1266,"AirAsia
+I5-1533",1900-09-16,Ease My Trip,Delhi,14:00,22:05,08h 05m,1-stop,"9,678",9,16
+1267,"AirAsia
+I5-2472",1900-09-16,Ease My Trip,Delhi,06:50,22:05,15h 15m,1-stop,"9,678",9,16
+1268,"Indigo
+6E-2401",1900-09-16,Ease My Trip,Delhi,13:55,16:40,02h 45m,non-stop,"9,678",9,16
+1269,"Indigo
+6E-6247",1900-09-16,Ease My Trip,Delhi,04:40,07:25,02h 45m,non-stop,"9,678",9,16
+1270,"Indigo
+6E- 871",1900-09-16,Ease My Trip,Delhi,09:20,12:10,02h 50m,non-stop,"9,678",9,16
+1271,"Indigo
+6E-2514",1900-09-16,Ease My Trip,Delhi,14:55,17:45,02h 50m,non-stop,"9,678",9,16
+1272,"Air India
+AI-503",1900-09-16,Ease My Trip,Delhi,17:00,19:50,02h 50m,non-stop,"9,678",9,16
+1273,"Air India
+AI-808",1900-09-16,Ease My Trip,Delhi,21:20,00:10,02h 50m,non-stop,"9,679",9,16
+1274,"Indigo
+6E- 869",1900-09-16,Ease My Trip,Delhi,11:45,14:40,02h 55m,non-stop,"9,679",9,16
+1275,"Indigo
+6E-2147",1900-09-16,Ease My Trip,Delhi,16:20,19:15,02h 55m,non-stop,"9,679",9,16
+1276,"GO FIRST
+G8- 401",1900-09-16,Ease My Trip,Delhi,09:10,15:40,06h 30m,1-stop,"9,679",9,16
+1277,"GO FIRST
+G8- 320",1900-09-16,Ease My Trip,Delhi,16:40,01:10,08h 30m,1-stop,"9,679",9,16
+1278,"GO FIRST
+G8- 395",1900-09-16,Ease My Trip,Delhi,08:10,17:10,09h 00m,1-stop,"9,679",9,16
+1279,"GO FIRST
+G8- 873",1900-09-16,Ease My Trip,Delhi,11:20,20:50,09h 30m,1-stop,"9,679",9,16
+1280,"GO FIRST
+G8- 399",1900-09-16,Ease My Trip,Delhi,21:00,08:05,11h 05m,1-stop,"9,679",9,16
+1281,"GO FIRST
+G8- 803",1900-09-16,Ease My Trip,Delhi,18:45,09:40,14h 55m,1-stop,"9,679",9,16
+1282,"GO FIRST
+G8- 320",1900-09-16,Ease My Trip,Delhi,16:40,08:05,15h 25m,1-stop,"9,679",9,16
+1283,"AirAsia
+I5-1426",1900-09-16,Ease My Trip,Delhi,12:50,20:25,07h 35m,1-stop,"9,679",9,16
+1284,"AirAsia
+I5-1781",1900-09-16,Ease My Trip,Delhi,12:15,19:55,07h 40m,1-stop,"9,679",9,16
+1285,"AirAsia
+I5-1621",1900-09-16,Ease My Trip,Delhi,05:05,14:20,09h 15m,1-stop,"9,679",9,16
+1286,"SpiceJet
+SG- 516",1900-09-16,Ease My Trip,Delhi,09:35,19:45,10h 10m,1-stop,"10,047",9,16
+1287,"AirAsia
+I5-1622",1900-09-16,Ease My Trip,Delhi,10:55,21:45,10h 50m,1-stop,"10,047",9,16
+1288,"AirAsia
+I5-1452",1900-09-16,Ease My Trip,Delhi,09:05,21:55,12h 50m,1-stop,"10,200",9,16
+1289,"AirAsia
+I5-1427",1900-09-16,Ease My Trip,Delhi,21:35,12:05,14h 30m,1-stop,"10,200",9,16
+1290,"AirAsia
+I5-1621",1900-09-16,Ease My Trip,Delhi,05:05,19:55,14h 50m,1-stop,"10,204",9,16
+1291,"AirAsia
+I5-991",1900-09-16,Ease My Trip,Delhi,20:15,12:05,15h 50m,1-stop,"10,414",9,16
+1292,"AirAsia
+I5-1451",1900-09-16,Ease My Trip,Delhi,05:40,21:45,16h 05m,1-stop,"10,467",9,16
+1293,"SpiceJet
+SG- 516",1900-09-16,Ease My Trip,Delhi,09:35,04:40,19h 05m,1-stop,"10,541",9,16
+1294,"SpiceJet
+SG- 516",1900-09-16,Ease My Trip,Delhi,09:35,08:45,23h 10m,1-stop,"10,782",9,16
+1295,"SpiceJet
+SG-3023",1900-09-16,Ease My Trip,Delhi,09:25,10:15,24h 50m,1-stop,"10,782",9,16
+1296,"Indigo
+6E- 684",1900-09-16,Ease My Trip,Delhi,22:10,03:35,05h 25m,1-stop,"10,834",9,16
+1297,"Indigo
+6E- 855",1900-09-16,Ease My Trip,Delhi,21:15,03:35,06h 20m,1-stop,"10,888",9,16
+1298,"Vistara
+UK-915",1900-09-16,Ease My Trip,Delhi,17:30,21:35,04h 05m,1-stop,"10,939",9,16
+1299,"Vistara
+UK-915",1900-09-16,Ease My Trip,Delhi,17:30,09:35,16h 05m,1-stop,"10,939",9,16
+1300,"Indigo
+6E-2174",1900-09-16,Ease My Trip,Delhi,18:00,20:45,02h 45m,non-stop,"10,939",9,16
+1301,"Indigo
+6E- 735",1900-09-16,Ease My Trip,Delhi,19:15,22:00,02h 45m,non-stop,"10,939",9,16
+1302,"Vistara
+UK-810",1900-09-16,Ease My Trip,Delhi,07:00,09:40,02h 40m,non-stop,"10,979",9,16
+1303,"Air India
+AI-501",1900-09-16,Ease My Trip,Delhi,13:20,16:05,02h 45m,non-stop,"10,992",9,16
+1304,"Indigo
+6E- 886",1900-09-16,Ease My Trip,Delhi,08:55,13:55,05h 00m,1-stop,"11,076",9,16
+1305,"GO FIRST
+G8- 544",1900-09-16,Ease My Trip,Delhi,15:35,00:05,08h 30m,1-stop,"11,076",9,16
+1306,"Indigo
+6E- 537",1900-09-16,Ease My Trip,Delhi,10:15,16:15,06h 00m,1-stop,"11,464",9,16
+1307,"Indigo
+6E- 886",1900-09-16,Ease My Trip,Delhi,08:55,16:15,07h 20m,1-stop,"11,811",9,16
+1308,"Vistara
+UK-820",1900-09-16,Ease My Trip,Delhi,17:45,20:20,02h 35m,non-stop,"12,094",9,16
+1309,"Indigo
+6E-6317",1900-09-16,Ease My Trip,Delhi,18:25,00:05,05h 40m,1-stop,"12,199",9,16
+1310,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,15:15,08h 30m,1-stop,"12,359",9,16
+1311,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,18:20,11h 35m,1-stop,"12,462",9,16
+1312,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,09:05,26h 20m,1-stop,"12,777",9,16
+1313,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,10:15,27h 30m,1-stop,"12,778",9,16
+1314,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,16:30,31h 00m,2+-stop,"12,829",9,16
+1315,"Indigo
+6E- 699",1900-09-16,Ease My Trip,Delhi,02:30,09:45,07h 15m,1-stop,"12,955",9,16
+1316,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,10:25,24h 55m,2+-stop,"13,249",9,16
+1317,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,22:00,36h 30m,2+-stop,"13,459",9,16
+1318,"Vistara
+UK-818",1900-09-16,Ease My Trip,Delhi,19:40,22:20,02h 40m,non-stop,"13,564",9,16
+1319,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,16:55,07h 25m,2+-stop,"13,846",9,16
+1320,"Indigo
+6E- 978",1900-09-16,Ease My Trip,Delhi,16:10,23:05,06h 55m,1-stop,"13,880",9,16
+1321,"AirAsia
+I5-1426",1900-09-16,Ease My Trip,Delhi,12:50,23:10,10h 20m,1-stop,"13,984",9,16
+1322,"Vistara
+UK-802",1900-09-16,Ease My Trip,Delhi,18:45,21:25,02h 40m,non-stop,"13,984",9,16
+1323,"GO FIRST
+G8- 283",1900-09-16,Ease My Trip,Delhi,05:30,14:25,08h 55m,1-stop,"13,984",9,16
+1324,"AirAsia
+I5-1576",1900-09-16,Ease My Trip,Delhi,07:35,23:10,15h 35m,2+-stop,"14,036",9,16
+1325,"Indigo
+6E- 415",1900-09-16,Ease My Trip,Delhi,07:20,15:20,08h 00m,1-stop,"14,089",9,16
+1326,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,16:15,06h 45m,1-stop Via Mumbai,"14,100",9,16
+1327,"Indigo
+6E- 408",1900-09-16,Ease My Trip,Delhi,05:25,13:15,07h 50m,1-stop,"14,121",9,16
+1328,"Indigo
+6E-6404",1900-09-16,Ease My Trip,Delhi,07:30,13:45,06h 15m,1-stop,"14,121",9,16
+1329,"Indigo
+6E-5025",1900-09-16,Ease My Trip,Delhi,20:30,23:15,02h 45m,non-stop,"14,121",9,16
+1330,"Vistara
+UK-897",1900-09-16,Ease My Trip,Delhi,07:45,12:30,04h 45m,1-stop,"14,300",9,16
+1331,"Vistara
+UK-814",1900-09-16,Ease My Trip,Delhi,21:15,23:45,02h 30m,non-stop,"14,362",9,16
+1332,"AirAsia
+I5-974",1900-09-16,Ease My Trip,Delhi,22:00,09:05,11h 05m,1-stop,"14,448",9,16
+1333,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,11:00,28h 15m,1-stop,"14,614",9,16
+1334,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,15:00,32h 15m,1-stop,"14,614",9,16
+1335,"SpiceJet
+SG-3008",1900-09-16,Ease My Trip,Delhi,20:00,17:45,21h 45m,1-stop,"14,824",9,16
+1336,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,23:20,16h 35m,1-stop,"14,824",9,16
+1337,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,09:20,26h 35m,1-stop,"14,948",9,16
+1338,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,12:35,29h 50m,1-stop,"15,276",9,16
+1339,"SpiceJet
+SG-3008",1900-09-16,Ease My Trip,Delhi,20:00,21:00,25h 00m,1-stop,"15,276",9,16
+1340,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,14:20,04h 50m,2+-stop,"15,612",9,16
+1341,"Indigo
+6E- 486",1900-09-16,Ease My Trip,Delhi,17:55,01:00,07h 05m,1-stop,"15,683",9,16
+1342,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,10:25,16h 00m,2+-stop,"15,683",9,16
+1343,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,22:00,27h 35m,2+-stop,"15,683",9,16
+1344,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,10:25,27h 45m,2+-stop,"15,717",9,16
+1345,"SpiceJet
+SG-3008",1900-09-16,Ease My Trip,Delhi,20:00,14:40,18h 40m,1-stop,"15,797",9,16
+1346,"Vistara
+UK-897",1900-09-16,Ease My Trip,Delhi,07:45,15:35,07h 50m,1-stop,"16,271",9,16
+1347,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,19:50,34h 20m,2+-stop,"16,607",9,16
+1348,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,18:05,08h 35m,2+-stop,"16,669",9,16
+1349,"Vistara
+UK-551",1900-09-16,Ease My Trip,Delhi,04:30,19:10,14h 40m,1-stop,"17,006",9,16
+1350,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,21:35,14h 50m,1-stop,"17,134",9,16
+1351,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,23:00,16h 15m,1-stop,"17,236",9,16
+1352,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,16:30,31h 00m,2+-stop,"17,659",9,16
+1353,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,08:20,22h 50m,2+-stop,"17,659",9,16
+1354,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,10:25,24h 55m,2+-stop,"17,691",9,16
+1355,"Indigo
+6E- 232",1900-09-16,Ease My Trip,Delhi,23:05,06:55,07h 50m,1-stop,"17,867",9,16
+1356,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,16:30,22h 05m,2+-stop,"17,974",9,16
+1357,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,16:30,33h 50m,2+-stop,"18,199",9,16
+1358,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,16:30,33h 50m,2+-stop,"18,321",9,16
+1359,"Indigo
+6E- 232",1900-09-16,Ease My Trip,Delhi,23:05,04:10,05h 05m,1-stop,"18,321",9,16
+1360,"GO FIRST
+G8- 399",1900-09-16,Ease My Trip,Delhi,21:00,12:35,15h 35m,1-stop,"18,321",9,16
+1361,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,19:50,34h 20m,2+-stop,"18,321",9,16
+1362,"AirAsia
+I5-1780",1900-09-16,Ease My Trip,Delhi,05:20,14:55,09h 35m,1-stop,"18,321",9,16
+1363,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,00:15,41h 30m,1-stop,"18,814",9,16
+1364,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,19:50,25h 25m,2+-stop,"19,003",9,16
+1365,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,14:20,07h 40m,2+-stop,"19,812",9,16
+1366,"GO FIRST
+G8- 285",1900-09-16,Ease My Trip,Delhi,15:45,02:30,10h 45m,1-stop,"19,969",9,16
+1367,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,12:40,06h 00m,2+-stop,"20,197",9,16
+1368,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,14:05,07h 25m,2+-stop,"20,197",9,16
+1369,"Vistara
+UK-846",1900-09-16,Ease My Trip,Delhi,08:30,16:55,08h 25m,1-stop,"20,494",9,16
+1370,"AirAsia
+I5-820",1900-09-16,Ease My Trip,Delhi,15:15,22:45,07h 30m,1-stop,"20,494",9,16
+1371,"Vistara
+UK-657",1900-09-16,Ease My Trip,Delhi,11:30,19:50,08h 20m,1-stop,"20,598",9,16
+1372,"GO FIRST
+G8- 395",1900-09-16,Ease My Trip,Delhi,08:10,20:40,12h 30m,1-stop,"20,598",9,16
+1373,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,08:20,13h 55m,2+-stop,"20,704",9,16
+1374,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,10:25,16h 00m,2+-stop,"20,809",9,16
+1375,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,08:20,25h 40m,2+-stop,"21,439",9,16
+1376,"Vistara
+UK-854",1900-09-16,Ease My Trip,Delhi,18:25,22:00,27h 35m,2+-stop,"24,272",9,16
+1377,"Vistara
+UK-858",1900-09-16,Ease My Trip,Delhi,06:40,10:25,27h 45m,2+-stop,"24,903",9,16
+1378,"Vistara
+UK-867",1900-09-16,Ease My Trip,Delhi,12:45,00:40,11h 55m,1-stop,"27,226",9,16
+1379,"Vistara
+UK-852",1900-09-16,Ease My Trip,Delhi,09:30,17:45,32h 15m,2+-stop,,9,16
+1380,"Indigo
+6E-6491",1900-09-16,Ease My Trip,Delhi,12:50,18:35,05h 45m,1-stop,,9,16
+1381,"Vistara
+UK-846",1900-09-16,Ease My Trip,Delhi,08:30,14:20,05h 50m,1-stop,,9,16
+1382,"GO FIRST
+G8- 320",1900-09-16,Ease My Trip,Delhi,16:40,22:50,06h 10m,1-stop,,9,16
+1383,"GO FIRST
+G8- 320",1900-09-16,Ease My Trip,Delhi,16:40,23:40,07h 00m,1-stop,,9,16
+1384,"Vistara
+UK-846",1900-09-16,Ease My Trip,Delhi,08:30,14:05,05h 35m,1-stop,,9,16
+1385,"Vistara
+UK-846",1900-09-16,Ease My Trip,Delhi,08:30,18:05,09h 35m,1-stop,,9,16
+1386,"GO FIRST
+G8- 395",1900-09-16,Ease My Trip,Delhi,08:10,22:50,14h 40m,1-stop,,9,16
+1387,"GO FIRST
+G8- 395",1900-09-16,Ease My Trip,Delhi,08:10,23:40,15h 30m,1-stop,,9,16
+1388,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,19:10,12h 25m,1-stop,,9,16
+1389,"Indigo
+6E-6104",1900-09-16,Ease My Trip,Delhi,11:05,18:20,07h 15m,1-stop,,9,16
+1390,"Air India
+AI-640",1900-09-16,Ease My Trip,Delhi,06:45,18:30,11h 45m,1-stop,,9,16
+1391,"Indigo
+6E-6091",1900-09-16,Ease My Trip,Delhi,13:25,20:25,07h 00m,1-stop,,9,16
+1392,"SpiceJet
+SG- 327",1900-09-16,Ease My Trip,Delhi,06:05,18:00,11h 55m,1-stop,,9,16
+1393,"GO FIRST
+G8- 285",1900-09-16,Ease My Trip,Delhi,15:45,20:00,04h 15m,1-stop,,9,16
+1394,"SpiceJet
+SG- 611",1900-09-16,Ease My Trip,Chennai,05:40,07:50,02h 10m,non-stop,"3,295",9,16
+1395,"GO FIRST
+G8- 305",1900-09-16,Ease My Trip,Chennai,05:45,07:40,01h 55m,non-stop,"3,295",9,16
+1396,"SpiceJet
+SG- 251",1900-09-16,Ease My Trip,Chennai,19:35,21:30,01h 55m,non-stop,"3,295",9,16
+1397,"Indigo
+6E-5337",1900-09-16,Ease My Trip,Chennai,15:30,17:25,01h 55m,non-stop,"3,633",9,16
+1398,"Indigo
+6E- 908",1900-09-16,Ease My Trip,Chennai,09:15,11:15,02h 00m,non-stop,"4,050",9,16
+1399,"Indigo
+6E-5307",1900-09-16,Ease My Trip,Chennai,10:15,12:15,02h 00m,non-stop,"4,050",9,16
+1400,"Indigo
+6E- 136",1900-09-16,Ease My Trip,Chennai,05:35,07:30,01h 55m,non-stop,"4,450",9,16
+1401,"Indigo
+6E-5299",1900-09-16,Ease My Trip,Chennai,07:00,08:50,01h 50m,non-stop,"5,094",9,16
+1402,"Indigo
+6E-5277",1900-09-16,Ease My Trip,Chennai,16:45,18:45,02h 00m,non-stop,"5,943",9,16
+1403,"AkasaAir
+QP-1304",1900-09-16,Ease My Trip,Chennai,18:10,19:55,01h 45m,non-stop,"5,943",9,16
+1404,"Indigo
+6E-5279",1900-09-16,Ease My Trip,Chennai,22:15,00:05,01h 50m,non-stop,"5,943",9,16
+1405,"Vistara
+UK-823",1900-09-16,Ease My Trip,Chennai,17:50,19:50,02h 00m,non-stop,"5,943",9,16
+1406,"Vistara
+UK-821",1900-09-16,Ease My Trip,Chennai,06:45,08:50,02h 05m,non-stop,"5,943",9,16
+1407,"Air India
+AI-671",1900-09-16,Ease My Trip,Chennai,09:00,10:55,01h 55m,non-stop,"6,258",9,16
+1408,"Air India
+AI-570",1900-09-16,Ease My Trip,Chennai,05:25,07:25,02h 00m,non-stop,"7,518",9,16
+1409,"Air India
+AI-573",1900-09-16,Ease My Trip,Chennai,18:50,20:50,02h 00m,non-stop,"8,146",9,16
+1410,"Vistara
+UK-825",1900-09-16,Ease My Trip,Chennai,09:45,11:50,02h 05m,non-stop,"8,146",9,16
+1411,"Air India
+AI-572",1900-09-16,Ease My Trip,Chennai,15:15,17:20,02h 05m,non-stop,"8,356",9,16
+1412,"Indigo
+6E-5231",1900-09-16,Ease My Trip,Chennai,19:40,21:35,01h 55m,non-stop,"8,356",9,16
+1413,"AirAsia
+I5-942",1900-09-16,Ease My Trip,Chennai,13:05,17:15,04h 10m,1-stop,"9,618",9,16
+1414,"Indigo
+6E- 312",1900-09-16,Ease My Trip,Chennai,17:50,19:45,01h 55m,non-stop,"10,070",9,16
+1415,"Indigo
+6E-5382",1900-09-16,Ease My Trip,Chennai,11:50,15:55,04h 05m,1-stop,"10,070",9,16
+1416,"Indigo
+6E-5287",1900-09-16,Ease My Trip,Chennai,08:30,15:55,07h 25m,1-stop,"10,070",9,16
+1417,"Indigo
+6E-6293",1900-09-16,Ease My Trip,Chennai,07:35,12:10,04h 35m,1-stop,"10,070",9,16
+1418,"Indigo
+6E-6478",1900-09-16,Ease My Trip,Chennai,09:55,15:55,06h 00m,1-stop,"10,070",9,16
+1419,"Vistara
+UK-827",1900-09-16,Ease My Trip,Chennai,21:00,23:05,02h 05m,non-stop,"10,070",9,16
+1420,"Air India
+AI-677",1900-09-16,Ease My Trip,Chennai,13:00,19:30,06h 30m,1-stop,"10,070",9,16
+1421,"Air India
+AI-687",1900-09-16,Ease My Trip,Chennai,16:00,23:35,07h 35m,1-stop,"10,070",9,16
+1422,"Air India
+AI-677",1900-09-16,Ease My Trip,Chennai,13:00,23:35,10h 35m,1-stop,"10,070",9,16
+1423,"Air India
+AI-635",1900-09-16,Ease My Trip,Chennai,07:20,19:30,12h 10m,1-stop Via IDR,"10,070",9,16
+1424,"Air India
+AI-635",1900-09-16,Ease My Trip,Chennai,07:20,23:35,16h 15m,1-stop Via IDR,"10,070",9,16
+1425,"Air India
+AI-687",1900-09-16,Ease My Trip,Chennai,16:00,08:55,16h 55m,1-stop,"10,070",9,16
+1426,"Air India
+AI-677",1900-09-16,Ease My Trip,Chennai,13:00,08:55,19h 55m,1-stop,"10,353",9,16
+1427,"Air India
+AI-687",1900-09-16,Ease My Trip,Chennai,16:00,12:40,20h 40m,1-stop,"10,353",9,16
+1428,"Air India
+AI-677",1900-09-16,Ease My Trip,Chennai,13:00,12:40,23h 40m,1-stop,"10,710",9,16
+1429,"Air India
+AI-635",1900-09-16,Ease My Trip,Chennai,07:20,08:55,25h 35m,1-stop Via IDR,"11,067",9,16
+1430,"Air India
+AI-687",1900-09-16,Ease My Trip,Chennai,16:00,19:30,27h 30m,1-stop,"11,424",9,16
+1431,"Air India
+AI-635",1900-09-16,Ease My Trip,Chennai,07:20,12:40,29h 20m,1-stop Via IDR,"11,426",9,16
+1432,"Vistara
+UK-944",1900-09-16,Ease My Trip,Chennai,14:40,09:50,19h 10m,1-stop,"11,817",9,16
+1433,"Vistara
+UK-944",1900-09-16,Ease My Trip,Chennai,14:40,16:25,25h 45m,1-stop,"12,495",9,16
+1434,"Indigo
+6E-5382",1900-09-16,Ease My Trip,Chennai,11:50,18:30,06h 40m,1-stop,"12,495",9,16
+1435,"Indigo
+6E- 219",1900-09-16,Ease My Trip,Chennai,14:40,18:30,03h 50m,1-stop,"13,209",9,16
+1436,"Indigo
+6E- 461",1900-09-16,Ease My Trip,Chennai,06:05,11:25,05h 20m,1-stop,"13,249",9,16
+1437,"Vistara
+UK-944",1900-09-16,Ease My Trip,Chennai,14:40,22:45,08h 05m,1-stop,"13,249",9,16
+1438,"Indigo
+6E- 453",1900-09-16,Ease My Trip,Chennai,06:20,11:05,04h 45m,1-stop,"13,249",9,16
+1439,"Indigo
+6E- 242",1900-09-16,Ease My Trip,Chennai,14:10,19:15,05h 05m,1-stop,"13,955",9,16
+1440,"Indigo
+6E-5314",1900-09-16,Ease My Trip,Chennai,16:05,22:05,06h 00m,1-stop,"13,955",9,16
+1441,"Indigo
+6E-5388",1900-09-16,Ease My Trip,Chennai,17:30,22:05,04h 35m,1-stop,"13,955",9,16
+1442,"Vistara
+UK-952",1900-09-16,Ease My Trip,Chennai,12:25,20:15,07h 50m,1-stop,"13,955",9,16
+1443,"Vistara
+UK-952",1900-09-16,Ease My Trip,Chennai,12:25,22:45,10h 20m,1-stop,"13,955",9,16
+1444,"Vistara
+UK-952",1900-09-16,Ease My Trip,Chennai,12:25,09:50,21h 25m,1-stop,"13,955",9,16
+1445,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,08:55,14h 20m,2+-stop,"13,955",9,16
+1446,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,12:40,18h 05m,2+-stop,"13,955",9,16
+1447,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,19:30,24h 55m,2+-stop,"13,974",9,16
+1448,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,19:30,24h 55m,2+-stop,"14,057",9,16
+1449,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,19:30,24h 55m,2+-stop,"14,057",9,16
+1450,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,23:35,29h 00m,2+-stop,"14,057",9,16
+1451,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,23:35,29h 00m,2+-stop,"14,057",9,16
+1452,"Air India
+AI-637",1900-09-16,Ease My Trip,Chennai,18:35,23:35,29h 00m,2+-stop,"14,057",9,16
+1453,"Indigo
+6E-5355",1900-09-16,Ease My Trip,Chennai,13:40,18:30,04h 50m,1-stop,"14,057",9,16
+1454,"Vistara
+UK-994",1900-09-16,Ease My Trip,Chennai,10:25,16:25,06h 00m,1-stop,"14,057",9,16
+1455,"Vistara
+UK-902",1900-09-16,Ease My Trip,Chennai,15:45,22:45,07h 00m,1-stop,"14,057",9,16
+1456,"Vistara
+UK-960",1900-09-16,Ease My Trip,Chennai,11:55,20:15,08h 20m,1-stop,"14,057",9,16
+1457,"Vistara
+UK-994",1900-09-16,Ease My Trip,Chennai,10:25,20:15,09h 50m,1-stop,"14,057",9,16
+1458,"Vistara
+UK-960",1900-09-16,Ease My Trip,Chennai,11:55,22:45,10h 50m,1-stop,"14,280",9,16
+1459,"Vistara
+UK-994",1900-09-16,Ease My Trip,Chennai,10:25,22:45,12h 20m,1-stop,"14,448",9,16
+1460,"Vistara
+UK-902",1900-09-16,Ease My Trip,Chennai,15:45,09:50,18h 05m,1-stop,"14,637",9,16
+1461,"Vistara
+UK-960",1900-09-16,Ease My Trip,Chennai,11:55,09:50,21h 55m,1-stop,"14,804",9,16
+1462,"Vistara
+UK-994",1900-09-16,Ease My Trip,Chennai,10:25,09:50,23h 25m,1-stop,"15,311",9,16
+1463,"Vistara
+UK-902",1900-09-16,Ease My Trip,Chennai,15:45,16:25,24h 40m,1-stop,"15,360",9,16
+1464,"Indigo
+6E-5388",1900-09-16,Ease My Trip,Chennai,17:30,00:25,06h 55m,1-stop,"15,551",9,16
+1465,"Indigo
+6E- 818",1900-09-16,Ease My Trip,Chennai,07:15,11:25,04h 10m,1-stop,"15,635",9,16
+1466,"Indigo
+6E-6697",1900-09-16,Ease My Trip,Chennai,11:10,15:10,04h 00m,1-stop,"15,635",9,16
+1467,"Indigo
+6E-5395",1900-09-16,Ease My Trip,Chennai,17:25,21:15,03h 50m,1-stop,"15,635",9,16
+1468,"Vistara
+UK-873",1900-09-16,Ease My Trip,Chennai,06:20,16:25,10h 05m,2+-stop,"15,635",9,16
+1469,"Air India
+AI-633",1900-09-16,Ease My Trip,Chennai,05:45,19:30,13h 45m,2+-stop,"15,687",9,16
+1470,"Indigo
+6E-5343",1900-09-16,Ease My Trip,Chennai,11:00,16:20,05h 20m,1-stop,"17,178",9,16
+1471,"Air India
+AI-625",1900-09-16,Ease My Trip,Chennai,11:15,08:55,21h 40m,2+-stop,"17,178",9,16
+1472,"Air India
+AI-625",1900-09-16,Ease My Trip,Chennai,11:15,12:40,25h 25m,2+-stop,"17,913",9,16
+1473,"Air India
+AI-625",1900-09-16,Ease My Trip,Chennai,11:15,19:30,32h 15m,2+-stop,"19,171",9,16
+1474,"Air India
+AI-625",1900-09-16,Ease My Trip,Chennai,11:15,23:35,36h 20m,2+-stop,"19,406",9,16
+1475,"Indigo
+6E-6597",1900-09-16,Ease My Trip,Chennai,09:00,15:10,06h 10m,1-stop,"19,906",9,16
+1476,"Indigo
+6E-5367",1900-09-16,Ease My Trip,Chennai,09:10,15:15,06h 05m,1-stop,"19,931",9,16
+1477,"Vistara
+UK-928",1900-09-16,Ease My Trip,Chennai,06:30,16:25,09h 55m,1-stop,"20,328",9,16
+1478,"Vistara
+UK-954",1900-09-16,Ease My Trip,Chennai,06:00,16:25,10h 25m,1-stop,"20,433",9,16
+1479,"Vistara
+UK-928",1900-09-16,Ease My Trip,Chennai,06:30,20:15,13h 45m,1-stop,"20,696",9,16
+1480,"Vistara
+UK-853",1900-09-16,Ease My Trip,Chennai,16:00,16:25,24h 25m,2+-stop,"20,869",9,16
+1481,"Vistara
+UK-954",1900-09-16,Ease My Trip,Chennai,06:00,20:15,14h 15m,1-stop,"21,082",9,16
+1482,"Vistara
+UK-863",1900-09-16,Ease My Trip,Chennai,09:05,22:45,13h 40m,2+-stop,"21,546",9,16
+1483,"Indigo
+6E- 192",1900-09-16,Ease My Trip,Chennai,19:55,00:25,04h 30m,1-stop,"21,546",9,16
+1484,"Vistara
+UK-996",1900-09-16,Ease My Trip,Chennai,18:30,09:50,15h 20m,1-stop,"21,546",9,16
+1485,"Indigo
+6E- 399",1900-09-16,Ease My Trip,Chennai,16:55,21:20,04h 25m,1-stop,"21,546",9,16
+1486,"Vistara
+UK-863",1900-09-16,Ease My Trip,Chennai,09:05,20:15,11h 10m,2+-stop,"21,546",9,16
+1487,"Vistara
+UK-853",1900-09-16,Ease My Trip,Chennai,16:00,16:25,24h 25m,2+-stop,"21,546",9,16
+1488,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,23:35,12h 35m,2+-stop,"22,743",9,16
+1489,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,08:55,21h 55m,2+-stop,"22,743",9,16
+1490,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,08:55,21h 55m,2+-stop,"22,743",9,16
+1491,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,12:40,25h 40m,2+-stop,"22,743",9,16
+1492,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,12:40,25h 40m,2+-stop,"22,743",9,16
+1493,"Air India
+AI-673",1900-09-16,Ease My Trip,Chennai,11:00,19:30,32h 30m,2+-stop,"22,743",9,16
+1494,"Air India
+AI-442",1900-09-16,Ease My Trip,Chennai,17:00,23:35,06h 35m,1-stop,"22,743",9,16
+1495,"Vistara
+UK-970",1900-09-16,Ease My Trip,Chennai,08:45,16:25,07h 40m,1-stop,"23,478",9,16
+1496,"Vistara
+UK-930",1900-09-16,Ease My Trip,Chennai,07:30,16:25,08h 55m,1-stop,"23,511",9,16
+1497,"Air India
+AI-806",1900-09-16,Ease My Trip,Chennai,08:00,19:30,11h 30m,1-stop,"24,066",9,16
+1498,"Air India
+AI-864",1900-09-16,Ease My Trip,Chennai,07:00,19:30,12h 30m,1-stop,"24,066",9,16
+1499,"Vistara
+UK-940",1900-09-16,Ease My Trip,Chennai,19:45,09:50,14h 05m,1-stop,"24,162",9,16
+1500,"Air India
+AI-806",1900-09-16,Ease My Trip,Chennai,08:00,23:35,15h 35m,1-stop,"24,736",9,16
+1501,"Air India
+AI-617",1900-09-16,Ease My Trip,Chennai,11:05,23:35,12h 30m,2+-stop,"24,736",9,16
+1502,"Vistara
+UK-647",1900-09-16,Ease My Trip,Chennai,10:25,20:15,09h 50m,2+-stop,"24,799",9,16
+1503,"Vistara
+UK-970",1900-09-16,Ease My Trip,Chennai,08:45,22:45,14h 00m,1-stop,"25,797",9,16
